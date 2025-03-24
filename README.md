@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c5deabf-9c51-42a9-b5a2-2948e0638b84)# 🚀 Project Name
+# 🚀 Project Name
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
