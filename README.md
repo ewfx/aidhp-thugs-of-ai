@@ -1,4 +1,4 @@
-# 🚀 Project Name
+![image](https://github.com/user-attachments/assets/5c5deabf-9c51-42a9-b5a2-2948e0638b84)# 🚀 Project Name
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,13 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+### Project Overview:
+Our project aims at developing an **AI based Hyper-Personalized and Recommendation System**  that will change the way businesses deal with customers. The system uses **Generative AI** to gather and analyze data from multiple sources like customer profiles, their sentiments, social media behavior, and even purchase history to provide them recommendations in the form of services, products, or content to be created for them in real-time.
+
+### Problem Statement:
+We are trying to solve the issue of modern customers wanting personal treatment. This is a complex problem that requires developing a system that goes beyond simply providing offerings, but also helps businesses identify ways to better engage with customers, forecast behaviors, and implements strategic decisions all while using AI ethically and safeguarding data privacy.
+
+
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
