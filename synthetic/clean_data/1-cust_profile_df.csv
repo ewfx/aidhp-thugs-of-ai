@@ -1,0 +1,2001 @@
+Customer_Id,Age,Gender,Location,Interests,Preferences,Income (per year in dollars),Education,Occupation
+CUST2025,24,M,Seattle,Streaming,Subscriptions,75076.0,MBA,Finance Analyst
+CUST2026,43,M,Austin,Shopping,Subscriptions,153588.0,MBA,Engineer
+CUST2027,55,M,San Francisco,Gaming,Investments,83359.0,PhD,Engineer
+CUST2028,41,M,San Francisco,Dining,Digital Banking,125659.0,Graduate,HR Manager
+CUST2029,62,M,Los Angeles,Tech,Subscriptions,107296.0,Graduate,Engineer
+CUST2030,18,M,Seattle,Travel,Subscriptions,94200.0,PhD,Finance Analyst
+CUST2031,65,M,San Francisco,Travel,Insurance,64503.0,PhD,Marketing Manager
+CUST2032,54,M,Seattle,Streaming,Subscriptions,170474.0,Master’s,Consultant
+CUST2033,43,F,Miami,Streaming,Subscriptions,157516.0,Master’s,Engineer
+CUST2034,28,F,Austin,Shopping,Insurance,67302.0,PhD,Finance Analyst
+CUST2035,29,M,Austin,Shopping,Digital Banking,158539.0,Master’s,Finance Analyst
+CUST2036,54,M,Seattle,Streaming,Investments,194800.0,Graduate,Engineer
+CUST2037,59,M,Seattle,Shopping,Subscriptions,185656.0,Graduate,Engineer
+CUST2038,49,M,Chicago,Shopping,Investments,167406.0,Graduate,Consultant
+CUST2039,25,M,San Francisco,Travel,Subscriptions,62865.0,Master’s,Finance Analyst
+CUST2040,23,F,Los Angeles,Shopping,Investments,147166.0,Graduate,HR Manager
+CUST2041,42,F,Miami,Gaming,Investments,42152.0,MBA,Engineer
+CUST2042,62,M,Miami,Gaming,Investments,154798.0,MBA,Marketing Manager
+CUST2043,34,M,Miami,Dining,Investments,114820.0,Graduate,HR Manager
+CUST2044,53,M,Miami,Streaming,Investments,61401.0,Master’s,Consultant
+CUST2045,60,F,New York,Travel,Digital Banking,177388.0,Master’s,HR Manager
+CUST2046,43,M,Chicago,Streaming,Subscriptions,65787.0,MBA,Marketing Manager
+CUST2047,21,F,Chicago,Travel,Insurance,46331.0,Master’s,Finance Analyst
+CUST2048,27,F,Chicago,Streaming,Digital Banking,116575.0,PhD,Finance Analyst
+CUST2049,34,M,Los Angeles,Travel,Insurance,181536.0,Master’s,Marketing Manager
+CUST2050,30,M,Los Angeles,Streaming,Subscriptions,124574.0,Master’s,Finance Analyst
+CUST2051,43,F,New York,Gaming,Investments,153093.0,MBA,Engineer
+CUST2052,28,F,Miami,Streaming,Investments,187058.0,Graduate,Marketing Manager
+CUST2053,50,F,Austin,Gaming,Insurance,171265.0,MBA,HR Manager
+CUST2054,34,F,San Francisco,Gaming,Investments,84645.0,PhD,Marketing Manager
+CUST2055,22,F,Miami,Dining,Digital Banking,107251.0,PhD,Marketing Manager
+CUST2056,48,M,Los Angeles,Tech,Subscriptions,127716.0,Master’s,Finance Analyst
+CUST2057,42,F,San Francisco,Gaming,Investments,69577.0,PhD,Finance Analyst
+CUST2058,22,F,New York,Tech,Subscriptions,40502.0,Graduate,Consultant
+CUST2059,62,M,New York,Dining,Investments,98647.0,MBA,Finance Analyst
+CUST2060,62,F,San Francisco,Streaming,Digital Banking,46171.0,Master’s,Engineer
+CUST2061,46,F,San Francisco,Finance,Discounts,88031.0,PhD,Consultant
+CUST2062,65,F,Seattle,Finance,Insurance,77440.0,PhD,Finance Analyst
+CUST2063,24,F,New York,Finance,Insurance,168527.0,PhD,Consultant
+CUST2064,26,F,Seattle,Streaming,Investments,140270.0,Graduate,Consultant
+CUST2065,44,F,Austin,Tech,Discounts,157037.0,Master’s,Consultant
+CUST2066,22,F,New York,Streaming,Insurance,104830.0,Graduate,Consultant
+CUST2067,25,F,Austin,Gaming,Discounts,55595.0,MBA,HR Manager
+CUST2068,42,M,San Francisco,Shopping,Digital Banking,192869.0,MBA,Engineer
+CUST2069,34,F,New York,Gaming,Discounts,161344.0,Graduate,Finance Analyst
+CUST2070,40,F,Miami,Finance,Digital Banking,140182.0,MBA,Finance Analyst
+CUST2071,45,F,Los Angeles,Gaming,Subscriptions,103364.0,PhD,Consultant
+CUST2072,38,F,Los Angeles,Travel,Investments,134988.0,Master’s,HR Manager
+CUST2073,24,F,New York,Dining,Insurance,135425.0,PhD,Marketing Manager
+CUST2074,37,M,Austin,Travel,Insurance,191965.0,PhD,Consultant
+CUST2075,63,M,Austin,Travel,Digital Banking,60651.0,Graduate,Marketing Manager
+CUST2076,44,F,Chicago,Streaming,Investments,171184.0,Graduate,Engineer
+CUST2077,26,M,New York,Tech,Investments,130029.0,Master’s,Finance Analyst
+CUST2078,21,F,Seattle,Gaming,Subscriptions,83882.0,MBA,HR Manager
+CUST2079,60,M,San Francisco,Dining,Insurance,76868.0,MBA,Engineer
+CUST2080,32,F,Austin,Tech,Insurance,145965.0,PhD,Consultant
+CUST2081,43,F,Miami,Gaming,Insurance,81320.0,MBA,HR Manager
+CUST2082,57,M,New York,Dining,Insurance,191622.0,Graduate,Marketing Manager
+CUST2083,65,M,Miami,Travel,Digital Banking,185232.0,Graduate,Finance Analyst
+CUST2084,42,M,San Francisco,Gaming,Discounts,39399.0,Master’s,Consultant
+CUST2085,25,F,San Francisco,Tech,Subscriptions,60299.0,Graduate,Consultant
+CUST2086,34,F,Austin,Travel,Subscriptions,178545.0,Master’s,Engineer
+CUST2087,43,M,Los Angeles,Shopping,Insurance,134541.0,Master’s,Consultant
+CUST2088,51,F,Seattle,Streaming,Investments,155332.0,Graduate,Marketing Manager
+CUST2089,35,F,Los Angeles,Dining,Digital Banking,79865.0,MBA,Finance Analyst
+CUST2090,25,M,San Francisco,Streaming,Investments,47917.0,Graduate,Marketing Manager
+CUST2091,52,M,New York,Travel,Discounts,37777.0,Graduate,Consultant
+CUST2092,34,F,Seattle,Finance,Discounts,196451.0,Graduate,Marketing Manager
+CUST2093,34,F,Chicago,Shopping,Discounts,45325.0,Graduate,Engineer
+CUST2094,27,M,San Francisco,Finance,Digital Banking,77284.0,MBA,Marketing Manager
+CUST2095,54,F,Miami,Travel,Investments,121559.0,MBA,Consultant
+CUST2096,47,F,San Francisco,Travel,Discounts,180335.0,Master’s,Consultant
+CUST2097,24,M,Chicago,Streaming,Discounts,79763.0,PhD,HR Manager
+CUST2098,50,M,Seattle,Streaming,Investments,104962.0,MBA,Engineer
+CUST2099,23,F,Miami,Dining,Discounts,184746.0,PhD,Marketing Manager
+CUST2100,59,M,San Francisco,Tech,Investments,166546.0,MBA,Finance Analyst
+CUST2101,39,F,Miami,Finance,Investments,113180.0,MBA,HR Manager
+CUST2102,43,M,New York,Travel,Discounts,184135.0,MBA,Consultant
+CUST2103,63,F,Austin,Finance,Discounts,39805.0,Master’s,Consultant
+CUST2104,44,M,Miami,Dining,Discounts,132714.0,PhD,HR Manager
+CUST2105,48,F,Los Angeles,Streaming,Investments,47640.0,Master’s,Marketing Manager
+CUST2106,28,M,Miami,Streaming,Subscriptions,42836.0,Graduate,Consultant
+CUST2107,50,M,Miami,Streaming,Subscriptions,103561.0,Graduate,Consultant
+CUST2108,58,M,Seattle,Travel,Discounts,177733.0,Graduate,Finance Analyst
+CUST2109,31,M,Miami,Travel,Investments,63254.0,Graduate,Marketing Manager
+CUST2110,47,M,Seattle,Travel,Investments,103117.0,Graduate,Finance Analyst
+CUST2111,56,M,Los Angeles,Gaming,Investments,150161.0,Master’s,HR Manager
+CUST2112,26,M,Los Angeles,Streaming,Digital Banking,103075.0,Master’s,Consultant
+CUST2113,53,M,New York,Tech,Subscriptions,186433.0,MBA,Consultant
+CUST2114,19,M,Austin,Gaming,Subscriptions,198067.0,PhD,Marketing Manager
+CUST2115,53,F,San Francisco,Shopping,Discounts,188594.0,MBA,HR Manager
+CUST2116,29,F,Seattle,Shopping,Insurance,85454.0,Master’s,Finance Analyst
+CUST2117,27,F,Miami,Tech,Insurance,163025.0,PhD,Consultant
+CUST2118,61,F,Seattle,Tech,Subscriptions,98225.0,MBA,Consultant
+CUST2119,63,M,Miami,Shopping,Discounts,108095.0,PhD,Marketing Manager
+CUST2120,19,F,New York,Shopping,Subscriptions,59816.0,Master’s,Marketing Manager
+CUST2121,18,F,Chicago,Travel,Investments,43132.0,Master’s,Finance Analyst
+CUST2122,65,F,Chicago,Gaming,Subscriptions,31489.0,Master’s,Consultant
+CUST2123,23,F,Chicago,Dining,Discounts,82909.0,Master’s,Consultant
+CUST2124,19,F,Chicago,Travel,Insurance,54953.0,PhD,HR Manager
+CUST2125,23,F,Austin,Dining,Digital Banking,161252.0,Master’s,Engineer
+CUST2126,31,F,San Francisco,Tech,Digital Banking,132219.0,Graduate,Consultant
+CUST2127,37,F,New York,Travel,Investments,155638.0,PhD,Marketing Manager
+CUST2128,24,M,Austin,Dining,Subscriptions,161959.0,Master’s,Finance Analyst
+CUST2129,34,M,New York,Shopping,Subscriptions,181325.0,Master’s,Engineer
+CUST2130,19,F,Los Angeles,Dining,Insurance,178610.0,Graduate,Consultant
+CUST2131,45,M,New York,Tech,Subscriptions,141801.0,MBA,HR Manager
+CUST2132,39,M,Los Angeles,Gaming,Discounts,139079.0,Master’s,Finance Analyst
+CUST2133,53,F,New York,Gaming,Discounts,157592.0,PhD,Marketing Manager
+CUST2134,42,M,Austin,Dining,Subscriptions,38844.0,Master’s,Engineer
+CUST2135,41,F,Los Angeles,Streaming,Insurance,76530.0,Graduate,Engineer
+CUST2136,42,M,Chicago,Tech,Subscriptions,59114.0,Graduate,Engineer
+CUST2137,36,F,New York,Tech,Discounts,45241.0,Graduate,Finance Analyst
+CUST2138,45,M,Seattle,Finance,Insurance,55456.0,Graduate,Marketing Manager
+CUST2139,53,F,Los Angeles,Finance,Subscriptions,190118.0,PhD,Consultant
+CUST2140,22,M,Chicago,Dining,Investments,93939.0,MBA,Engineer
+CUST2141,61,M,San Francisco,Finance,Digital Banking,192538.0,Graduate,HR Manager
+CUST2142,64,F,Chicago,Dining,Discounts,136900.0,Master’s,Finance Analyst
+CUST2143,34,M,Chicago,Tech,Subscriptions,193253.0,Graduate,HR Manager
+CUST2144,55,F,Chicago,Dining,Discounts,109139.0,MBA,Marketing Manager
+CUST2145,52,F,Austin,Gaming,Digital Banking,39662.0,Graduate,Marketing Manager
+CUST2146,42,M,San Francisco,Tech,Investments,177780.0,PhD,Marketing Manager
+CUST2147,59,F,San Francisco,Dining,Discounts,80774.0,Master’s,Marketing Manager
+CUST2148,20,M,Miami,Gaming,Digital Banking,177034.0,PhD,Marketing Manager
+CUST2149,41,F,Miami,Finance,Insurance,195633.0,Master’s,Marketing Manager
+CUST2150,18,F,Chicago,Tech,Investments,82238.0,MBA,Finance Analyst
+CUST2151,41,M,Chicago,Shopping,Digital Banking,187780.0,Master’s,Consultant
+CUST2152,21,F,Austin,Tech,Insurance,172330.0,Graduate,Engineer
+CUST2153,45,M,Austin,Travel,Digital Banking,164630.0,PhD,Finance Analyst
+CUST2154,30,M,Austin,Dining,Subscriptions,171327.0,Master’s,HR Manager
+CUST2155,57,F,Chicago,Tech,Subscriptions,96389.0,MBA,Finance Analyst
+CUST2156,59,M,Chicago,Shopping,Digital Banking,118940.0,Graduate,Engineer
+CUST2157,49,M,San Francisco,Shopping,Digital Banking,77811.0,PhD,Finance Analyst
+CUST2158,28,F,Seattle,Finance,Digital Banking,73060.0,MBA,HR Manager
+CUST2159,65,F,San Francisco,Streaming,Digital Banking,88084.0,PhD,Consultant
+CUST2160,53,F,Austin,Finance,Digital Banking,171495.0,PhD,Finance Analyst
+CUST2161,54,M,San Francisco,Tech,Insurance,71569.0,Master’s,Engineer
+CUST2162,20,F,Chicago,Travel,Insurance,79460.0,PhD,Finance Analyst
+CUST2163,32,F,Austin,Travel,Subscriptions,153810.0,Master’s,Finance Analyst
+CUST2164,34,F,Los Angeles,Gaming,Discounts,121721.0,PhD,Engineer
+CUST2165,38,F,New York,Finance,Discounts,193830.0,PhD,Engineer
+CUST2166,63,M,San Francisco,Shopping,Digital Banking,32067.0,PhD,Engineer
+CUST2167,31,F,San Francisco,Streaming,Subscriptions,41319.0,PhD,Finance Analyst
+CUST2168,59,M,Chicago,Travel,Discounts,151990.0,Graduate,Finance Analyst
+CUST2169,60,F,Los Angeles,Travel,Insurance,175373.0,MBA,HR Manager
+CUST2170,18,F,Seattle,Streaming,Investments,189313.0,Master’s,Consultant
+CUST2171,23,M,Austin,Tech,Subscriptions,133982.0,MBA,Finance Analyst
+CUST2172,31,F,Austin,Finance,Discounts,49065.0,PhD,Engineer
+CUST2173,40,M,Chicago,Travel,Insurance,187010.0,PhD,Consultant
+CUST2174,56,F,Los Angeles,Travel,Investments,54740.0,Graduate,Marketing Manager
+CUST2175,18,F,New York,Shopping,Discounts,188550.0,PhD,Finance Analyst
+CUST2176,62,F,Chicago,Travel,Investments,41780.0,Graduate,Engineer
+CUST2177,63,F,Los Angeles,Dining,Subscriptions,128879.0,PhD,Marketing Manager
+CUST2178,54,F,Chicago,Tech,Subscriptions,139960.0,Graduate,HR Manager
+CUST2179,55,F,Los Angeles,Shopping,Insurance,168341.0,Graduate,Finance Analyst
+CUST2180,48,F,Austin,Finance,Insurance,184290.0,Master’s,Engineer
+CUST2181,20,M,Austin,Streaming,Investments,174037.0,Graduate,Marketing Manager
+CUST2182,50,M,Seattle,Tech,Investments,54314.0,Master’s,HR Manager
+CUST2183,33,F,New York,Shopping,Investments,154430.0,MBA,HR Manager
+CUST2184,38,M,Austin,Gaming,Digital Banking,84605.0,PhD,Consultant
+CUST2185,19,F,San Francisco,Shopping,Digital Banking,30224.0,Graduate,Marketing Manager
+CUST2186,51,F,Seattle,Finance,Investments,94764.0,PhD,Marketing Manager
+CUST2187,40,F,Chicago,Finance,Digital Banking,64943.0,PhD,HR Manager
+CUST2188,54,M,Austin,Gaming,Subscriptions,86602.0,MBA,Consultant
+CUST2189,28,F,Austin,Finance,Insurance,134888.0,PhD,Consultant
+CUST2190,28,M,Seattle,Tech,Discounts,45225.0,Master’s,Marketing Manager
+CUST2191,34,M,Miami,Streaming,Subscriptions,102025.0,Master’s,Consultant
+CUST2192,24,F,Chicago,Gaming,Subscriptions,32229.0,Master’s,Marketing Manager
+CUST2193,24,F,Seattle,Finance,Insurance,63090.0,Master’s,Consultant
+CUST2194,40,M,Seattle,Gaming,Investments,138408.0,PhD,HR Manager
+CUST2195,54,F,San Francisco,Gaming,Investments,155939.0,Graduate,Consultant
+CUST2196,59,M,New York,Dining,Investments,40544.0,PhD,Engineer
+CUST2197,54,M,New York,Gaming,Investments,58785.0,Graduate,Finance Analyst
+CUST2198,56,F,Miami,Dining,Insurance,157311.0,Master’s,Finance Analyst
+CUST2199,43,M,New York,Travel,Subscriptions,100278.0,MBA,HR Manager
+CUST2200,54,M,Los Angeles,Gaming,Investments,103652.0,Master’s,HR Manager
+CUST2201,23,M,Seattle,Tech,Discounts,56812.0,Graduate,HR Manager
+CUST2202,36,F,Miami,Streaming,Digital Banking,157601.0,PhD,Engineer
+CUST2203,64,M,San Francisco,Shopping,Digital Banking,123354.0,PhD,HR Manager
+CUST2204,48,F,Los Angeles,Finance,Subscriptions,169762.0,MBA,Consultant
+CUST2205,65,M,San Francisco,Tech,Investments,140295.0,MBA,Consultant
+CUST2206,59,M,Miami,Dining,Subscriptions,105316.0,Master’s,Consultant
+CUST2207,56,F,San Francisco,Dining,Investments,35562.0,MBA,Finance Analyst
+CUST2208,52,M,Chicago,Dining,Discounts,84052.0,MBA,HR Manager
+CUST2209,42,M,Seattle,Streaming,Subscriptions,96408.0,Master’s,HR Manager
+CUST2210,27,F,San Francisco,Travel,Insurance,182273.0,MBA,HR Manager
+CUST2211,56,M,Chicago,Tech,Subscriptions,168394.0,Graduate,Consultant
+CUST2212,49,F,Austin,Tech,Subscriptions,79625.0,Graduate,Consultant
+CUST2213,24,M,New York,Tech,Insurance,182405.0,Graduate,Engineer
+CUST2214,47,F,Austin,Travel,Discounts,157382.0,Graduate,Marketing Manager
+CUST2215,18,F,Seattle,Travel,Investments,146849.0,PhD,HR Manager
+CUST2216,60,M,Austin,Dining,Digital Banking,151339.0,MBA,Marketing Manager
+CUST2217,64,F,New York,Finance,Insurance,84130.0,PhD,HR Manager
+CUST2218,64,M,Seattle,Dining,Digital Banking,157692.0,Graduate,Consultant
+CUST2219,39,M,Chicago,Tech,Discounts,153786.0,MBA,Consultant
+CUST2220,27,F,Los Angeles,Streaming,Discounts,55802.0,Master’s,Finance Analyst
+CUST2221,59,M,Austin,Shopping,Investments,105427.0,Graduate,Finance Analyst
+CUST2222,48,M,Miami,Streaming,Insurance,61162.0,PhD,Marketing Manager
+CUST2223,47,F,Los Angeles,Gaming,Digital Banking,34489.0,PhD,Engineer
+CUST2224,53,M,San Francisco,Gaming,Discounts,46638.0,MBA,Consultant
+CUST2225,28,M,Austin,Gaming,Subscriptions,60674.0,PhD,Consultant
+CUST2226,42,F,Austin,Gaming,Digital Banking,122149.0,MBA,Consultant
+CUST2227,18,F,Seattle,Dining,Discounts,138304.0,MBA,Finance Analyst
+CUST2228,49,F,Miami,Gaming,Investments,67294.0,Master’s,Finance Analyst
+CUST2229,31,F,San Francisco,Streaming,Digital Banking,168195.0,Master’s,Engineer
+CUST2230,24,F,Chicago,Dining,Discounts,50726.0,Graduate,HR Manager
+CUST2231,20,M,Miami,Gaming,Investments,181980.0,Graduate,Engineer
+CUST2232,20,M,Los Angeles,Streaming,Discounts,108246.0,Graduate,Consultant
+CUST2233,64,F,Miami,Finance,Insurance,118979.0,Graduate,HR Manager
+CUST2234,46,M,Austin,Streaming,Insurance,110539.0,MBA,HR Manager
+CUST2235,42,F,Austin,Finance,Discounts,63798.0,PhD,Engineer
+CUST2236,34,M,Miami,Travel,Subscriptions,154573.0,PhD,Engineer
+CUST2237,55,F,Los Angeles,Dining,Subscriptions,52136.0,MBA,HR Manager
+CUST2238,38,F,Miami,Finance,Subscriptions,99550.0,PhD,Consultant
+CUST2239,41,F,Seattle,Travel,Discounts,188558.0,PhD,Marketing Manager
+CUST2240,43,M,New York,Streaming,Digital Banking,95332.0,Master’s,Consultant
+CUST2241,36,F,Miami,Finance,Digital Banking,158294.0,PhD,Engineer
+CUST2242,40,M,Miami,Tech,Investments,46978.0,Master’s,Engineer
+CUST2243,27,M,San Francisco,Tech,Discounts,133722.0,Master’s,HR Manager
+CUST2244,31,F,Chicago,Finance,Insurance,138045.0,MBA,HR Manager
+CUST2245,21,F,Austin,Shopping,Subscriptions,130125.0,MBA,Engineer
+CUST2246,28,M,Chicago,Shopping,Digital Banking,169601.0,Graduate,HR Manager
+CUST2247,65,M,Los Angeles,Gaming,Investments,117072.0,Graduate,HR Manager
+CUST2248,25,F,Miami,Travel,Investments,50220.0,PhD,HR Manager
+CUST2249,63,M,Chicago,Tech,Subscriptions,187177.0,PhD,Marketing Manager
+CUST2250,20,F,San Francisco,Streaming,Insurance,190593.0,MBA,Engineer
+CUST2251,27,M,Chicago,Gaming,Subscriptions,64938.0,Master’s,Marketing Manager
+CUST2252,41,M,Miami,Shopping,Digital Banking,125526.0,Graduate,HR Manager
+CUST2253,61,M,Los Angeles,Shopping,Discounts,72237.0,MBA,Consultant
+CUST2254,20,M,San Francisco,Travel,Investments,135263.0,Graduate,HR Manager
+CUST2255,23,F,Chicago,Finance,Insurance,62095.0,PhD,HR Manager
+CUST2256,19,F,San Francisco,Tech,Digital Banking,137312.0,PhD,Finance Analyst
+CUST2257,43,M,Seattle,Gaming,Investments,142178.0,Master’s,Consultant
+CUST2258,25,M,New York,Gaming,Insurance,151057.0,Graduate,Consultant
+CUST2259,43,F,Chicago,Travel,Discounts,148082.0,Master’s,Marketing Manager
+CUST2260,23,F,San Francisco,Finance,Digital Banking,64913.0,PhD,Marketing Manager
+CUST2261,58,M,Austin,Streaming,Insurance,63216.0,Master’s,Finance Analyst
+CUST2262,24,M,Austin,Finance,Subscriptions,99511.0,Master’s,Marketing Manager
+CUST2263,25,F,San Francisco,Shopping,Discounts,56311.0,Master’s,Consultant
+CUST2264,36,M,Seattle,Tech,Insurance,52390.0,Master’s,Consultant
+CUST2265,40,F,Los Angeles,Gaming,Insurance,85567.0,MBA,Consultant
+CUST2266,41,M,Seattle,Travel,Investments,158367.0,MBA,Engineer
+CUST2267,58,F,Austin,Tech,Digital Banking,80694.0,Master’s,HR Manager
+CUST2268,33,M,New York,Gaming,Discounts,157565.0,Master’s,Consultant
+CUST2269,30,M,San Francisco,Shopping,Investments,134556.0,MBA,Consultant
+CUST2270,24,F,Los Angeles,Streaming,Discounts,109586.0,MBA,Consultant
+CUST2271,35,F,San Francisco,Gaming,Digital Banking,42048.0,Master’s,HR Manager
+CUST2272,34,M,Los Angeles,Tech,Discounts,36396.0,Master’s,Engineer
+CUST2273,44,M,Austin,Gaming,Discounts,116048.0,MBA,Consultant
+CUST2274,41,F,San Francisco,Gaming,Investments,103750.0,MBA,HR Manager
+CUST2275,48,M,Chicago,Streaming,Discounts,176329.0,PhD,Consultant
+CUST2276,53,M,Seattle,Finance,Investments,179604.0,PhD,Consultant
+CUST2277,29,M,San Francisco,Streaming,Insurance,148549.0,PhD,Finance Analyst
+CUST2278,20,F,New York,Shopping,Subscriptions,81598.0,Graduate,Finance Analyst
+CUST2279,29,M,Seattle,Streaming,Digital Banking,135362.0,PhD,Consultant
+CUST2280,62,M,Miami,Shopping,Investments,171449.0,Master’s,Engineer
+CUST2281,54,F,Chicago,Gaming,Digital Banking,43692.0,PhD,HR Manager
+CUST2282,37,F,Los Angeles,Tech,Discounts,140550.0,MBA,HR Manager
+CUST2283,64,F,Austin,Dining,Insurance,177059.0,Graduate,Engineer
+CUST2284,50,M,Seattle,Finance,Insurance,115929.0,Master’s,Marketing Manager
+CUST2285,29,M,Chicago,Gaming,Digital Banking,195408.0,Master’s,Consultant
+CUST2286,45,F,Miami,Tech,Investments,132003.0,Master’s,Marketing Manager
+CUST2287,26,M,Austin,Dining,Discounts,45507.0,Master’s,Finance Analyst
+CUST2288,19,F,Miami,Shopping,Subscriptions,178977.0,Master’s,Finance Analyst
+CUST2289,60,F,Seattle,Shopping,Digital Banking,133672.0,Graduate,HR Manager
+CUST2290,47,M,Seattle,Finance,Discounts,59474.0,Graduate,Finance Analyst
+CUST2291,47,M,Los Angeles,Finance,Digital Banking,189296.0,Master’s,Engineer
+CUST2292,44,M,Chicago,Finance,Insurance,144047.0,Graduate,HR Manager
+CUST2293,25,M,Seattle,Finance,Discounts,60832.0,MBA,Finance Analyst
+CUST2294,29,F,Miami,Tech,Investments,44946.0,Master’s,Finance Analyst
+CUST2295,45,M,Austin,Travel,Digital Banking,65679.0,Master’s,Marketing Manager
+CUST2296,31,F,Seattle,Travel,Subscriptions,102353.0,Master’s,Consultant
+CUST2297,39,F,Seattle,Shopping,Discounts,163244.0,PhD,HR Manager
+CUST2298,55,M,New York,Tech,Insurance,142173.0,Graduate,HR Manager
+CUST2299,61,M,San Francisco,Shopping,Discounts,119616.0,MBA,Marketing Manager
+CUST2300,22,F,New York,Tech,Subscriptions,55096.0,Master’s,Consultant
+CUST2301,30,F,Austin,Finance,Discounts,187571.0,PhD,Consultant
+CUST2302,41,F,Seattle,Gaming,Insurance,63699.0,Graduate,Consultant
+CUST2303,51,M,San Francisco,Tech,Digital Banking,74903.0,PhD,Marketing Manager
+CUST2304,31,M,Chicago,Travel,Investments,157921.0,Master’s,HR Manager
+CUST2305,39,M,San Francisco,Shopping,Discounts,91608.0,PhD,Marketing Manager
+CUST2306,60,M,San Francisco,Shopping,Subscriptions,195384.0,Graduate,Engineer
+CUST2307,33,F,Austin,Tech,Digital Banking,75755.0,Graduate,HR Manager
+CUST2308,23,F,Austin,Finance,Investments,59570.0,Master’s,Finance Analyst
+CUST2309,45,F,Chicago,Shopping,Digital Banking,147973.0,PhD,Engineer
+CUST2310,40,F,Los Angeles,Finance,Digital Banking,100984.0,MBA,HR Manager
+CUST2311,33,M,Los Angeles,Travel,Insurance,60879.0,Graduate,Engineer
+CUST2312,46,M,Chicago,Finance,Discounts,76255.0,PhD,Finance Analyst
+CUST2313,60,F,Miami,Streaming,Subscriptions,69898.0,Master’s,Consultant
+CUST2314,24,M,Chicago,Gaming,Insurance,90934.0,PhD,Marketing Manager
+CUST2315,19,F,Austin,Shopping,Subscriptions,74077.0,PhD,Consultant
+CUST2316,61,F,New York,Tech,Subscriptions,185051.0,Graduate,HR Manager
+CUST2317,21,F,Chicago,Finance,Investments,110920.0,PhD,Consultant
+CUST2318,18,M,Los Angeles,Travel,Discounts,35892.0,PhD,HR Manager
+CUST2319,22,F,Austin,Gaming,Discounts,83572.0,Master’s,Engineer
+CUST2320,42,F,Miami,Tech,Digital Banking,148129.0,PhD,Consultant
+CUST2321,29,F,New York,Shopping,Discounts,114488.0,MBA,Engineer
+CUST2322,21,M,Austin,Travel,Insurance,136552.0,Graduate,Engineer
+CUST2323,51,M,Chicago,Travel,Investments,139766.0,PhD,Consultant
+CUST2324,35,F,Chicago,Gaming,Digital Banking,111673.0,Master’s,Finance Analyst
+CUST2325,63,F,Seattle,Shopping,Insurance,39810.0,Master’s,Finance Analyst
+CUST2326,40,F,Los Angeles,Travel,Investments,40457.0,MBA,HR Manager
+CUST2327,61,M,Chicago,Streaming,Discounts,31592.0,Master’s,Marketing Manager
+CUST2328,52,F,New York,Shopping,Subscriptions,51736.0,PhD,Consultant
+CUST2329,47,M,Chicago,Tech,Subscriptions,154546.0,Master’s,Marketing Manager
+CUST2330,41,M,New York,Shopping,Discounts,86359.0,Master’s,Consultant
+CUST2331,47,M,San Francisco,Travel,Digital Banking,65088.0,Master’s,Finance Analyst
+CUST2332,50,M,Austin,Streaming,Insurance,184709.0,PhD,Consultant
+CUST2333,44,F,Chicago,Gaming,Discounts,88399.0,PhD,Consultant
+CUST2334,28,F,New York,Gaming,Discounts,198089.0,Graduate,Marketing Manager
+CUST2335,36,F,Los Angeles,Shopping,Discounts,172362.0,Graduate,HR Manager
+CUST2336,56,M,Miami,Dining,Insurance,107913.0,PhD,Consultant
+CUST2337,20,F,Miami,Dining,Digital Banking,125474.0,Master’s,Consultant
+CUST2338,20,F,New York,Travel,Discounts,160872.0,Master’s,Marketing Manager
+CUST2339,54,F,Miami,Finance,Insurance,117938.0,Graduate,HR Manager
+CUST2340,43,F,New York,Streaming,Subscriptions,149423.0,PhD,Engineer
+CUST2341,63,F,Miami,Finance,Digital Banking,67209.0,Master’s,Engineer
+CUST2342,23,F,Miami,Gaming,Subscriptions,70988.0,MBA,HR Manager
+CUST2343,29,M,Miami,Finance,Discounts,129040.0,MBA,HR Manager
+CUST2344,43,F,Seattle,Shopping,Subscriptions,156690.0,PhD,Consultant
+CUST2345,36,M,Chicago,Travel,Subscriptions,141897.0,MBA,Finance Analyst
+CUST2346,35,M,Seattle,Finance,Investments,141798.0,Master’s,Consultant
+CUST2347,33,F,Seattle,Dining,Insurance,80377.0,PhD,Finance Analyst
+CUST2348,20,M,Miami,Streaming,Subscriptions,98279.0,PhD,HR Manager
+CUST2349,43,F,San Francisco,Tech,Discounts,89767.0,PhD,Finance Analyst
+CUST2350,29,F,Los Angeles,Tech,Subscriptions,95476.0,PhD,Marketing Manager
+CUST2351,32,F,Los Angeles,Dining,Subscriptions,48173.0,Graduate,Consultant
+CUST2352,18,M,Miami,Tech,Investments,103770.0,Master’s,Engineer
+CUST2353,45,F,Los Angeles,Finance,Insurance,35844.0,PhD,Marketing Manager
+CUST2354,57,F,San Francisco,Dining,Investments,180383.0,Master’s,Finance Analyst
+CUST2355,43,M,Los Angeles,Tech,Insurance,185744.0,MBA,Engineer
+CUST2356,57,F,New York,Dining,Subscriptions,132226.0,Master’s,HR Manager
+CUST2357,50,F,San Francisco,Shopping,Insurance,197638.0,Graduate,Finance Analyst
+CUST2358,48,M,Chicago,Travel,Digital Banking,133497.0,PhD,Finance Analyst
+CUST2359,31,F,Austin,Travel,Subscriptions,34377.0,Master’s,HR Manager
+CUST2360,41,M,New York,Travel,Insurance,35054.0,Graduate,Finance Analyst
+CUST2361,62,F,Miami,Dining,Insurance,131070.0,Graduate,Marketing Manager
+CUST2362,57,M,Austin,Finance,Insurance,155011.0,PhD,Engineer
+CUST2363,20,M,Austin,Tech,Subscriptions,121523.0,Graduate,Engineer
+CUST2364,23,M,Miami,Finance,Discounts,104950.0,Graduate,Finance Analyst
+CUST2365,47,M,Miami,Tech,Subscriptions,101513.0,MBA,Consultant
+CUST2366,42,M,San Francisco,Travel,Investments,194124.0,PhD,HR Manager
+CUST2367,39,F,Los Angeles,Tech,Subscriptions,153168.0,Master’s,Engineer
+CUST2368,54,M,Chicago,Gaming,Subscriptions,141642.0,MBA,Marketing Manager
+CUST2369,49,M,New York,Streaming,Investments,64355.0,MBA,Engineer
+CUST2370,43,F,Miami,Finance,Discounts,126484.0,MBA,Consultant
+CUST2371,45,M,Miami,Finance,Discounts,94066.0,MBA,Marketing Manager
+CUST2372,65,F,Austin,Gaming,Investments,34240.0,MBA,HR Manager
+CUST2373,40,F,Los Angeles,Dining,Insurance,96438.0,PhD,Marketing Manager
+CUST2374,41,F,San Francisco,Tech,Insurance,153834.0,Graduate,Marketing Manager
+CUST2375,47,M,San Francisco,Streaming,Investments,31228.0,Graduate,Marketing Manager
+CUST2376,18,M,Seattle,Finance,Discounts,69708.0,PhD,Consultant
+CUST2377,61,M,Miami,Travel,Investments,65526.0,Master’s,Consultant
+CUST2378,19,F,Miami,Streaming,Investments,178144.0,PhD,Engineer
+CUST2379,50,F,Austin,Shopping,Investments,148044.0,PhD,Marketing Manager
+CUST2380,25,F,New York,Shopping,Digital Banking,99338.0,Master’s,Finance Analyst
+CUST2381,35,F,San Francisco,Finance,Investments,178121.0,Graduate,Marketing Manager
+CUST2382,51,M,San Francisco,Tech,Subscriptions,195603.0,Master’s,Marketing Manager
+CUST2383,47,F,San Francisco,Shopping,Investments,62394.0,Master’s,Finance Analyst
+CUST2384,25,M,San Francisco,Gaming,Investments,116220.0,PhD,Finance Analyst
+CUST2385,53,M,San Francisco,Gaming,Subscriptions,38336.0,PhD,Consultant
+CUST2386,54,M,New York,Shopping,Insurance,123096.0,PhD,Engineer
+CUST2387,63,M,Los Angeles,Finance,Discounts,47470.0,Master’s,Marketing Manager
+CUST2388,30,M,Seattle,Finance,Discounts,45210.0,PhD,Engineer
+CUST2389,47,F,Austin,Dining,Investments,77545.0,PhD,Finance Analyst
+CUST2390,56,F,San Francisco,Finance,Discounts,195892.0,PhD,HR Manager
+CUST2391,65,M,New York,Dining,Investments,140584.0,Graduate,Marketing Manager
+CUST2392,53,F,Chicago,Gaming,Investments,66729.0,Graduate,Engineer
+CUST2393,44,F,Austin,Finance,Discounts,144212.0,Graduate,Finance Analyst
+CUST2394,32,M,Miami,Travel,Digital Banking,85636.0,MBA,Consultant
+CUST2395,64,F,Los Angeles,Shopping,Investments,48402.0,Master’s,Consultant
+CUST2396,56,M,Chicago,Tech,Investments,79012.0,Graduate,HR Manager
+CUST2397,51,F,Seattle,Tech,Digital Banking,89193.0,PhD,HR Manager
+CUST2398,23,F,Chicago,Shopping,Discounts,148776.0,MBA,Finance Analyst
+CUST2399,28,M,Los Angeles,Streaming,Discounts,109606.0,PhD,Marketing Manager
+CUST2400,58,M,New York,Finance,Investments,129474.0,PhD,Engineer
+CUST2401,29,M,Miami,Shopping,Investments,111727.0,Graduate,Finance Analyst
+CUST2402,35,M,San Francisco,Dining,Digital Banking,167001.0,PhD,Consultant
+CUST2403,21,M,Miami,Gaming,Discounts,142271.0,Graduate,Consultant
+CUST2404,42,M,San Francisco,Dining,Investments,111927.0,Graduate,Engineer
+CUST2405,30,M,Chicago,Gaming,Insurance,55943.0,Master’s,Finance Analyst
+CUST2406,38,M,Austin,Streaming,Digital Banking,62706.0,Graduate,HR Manager
+CUST2407,47,F,Miami,Finance,Insurance,156984.0,PhD,HR Manager
+CUST2408,36,F,San Francisco,Gaming,Insurance,179406.0,Graduate,Engineer
+CUST2409,65,F,Austin,Streaming,Insurance,141969.0,Graduate,HR Manager
+CUST2410,58,F,San Francisco,Tech,Investments,127044.0,MBA,Marketing Manager
+CUST2411,21,M,New York,Finance,Investments,161261.0,PhD,Marketing Manager
+CUST2412,34,F,New York,Dining,Subscriptions,151028.0,Master’s,HR Manager
+CUST2413,37,F,Los Angeles,Finance,Subscriptions,173373.0,Graduate,Consultant
+CUST2414,35,F,New York,Finance,Insurance,184032.0,MBA,Engineer
+CUST2415,23,F,Austin,Tech,Subscriptions,56921.0,MBA,HR Manager
+CUST2416,33,M,Austin,Shopping,Digital Banking,164717.0,Master’s,Consultant
+CUST2417,56,F,Los Angeles,Travel,Investments,96088.0,PhD,Finance Analyst
+CUST2418,48,M,Los Angeles,Travel,Subscriptions,122150.0,Master’s,HR Manager
+CUST2419,42,M,Miami,Tech,Discounts,72280.0,PhD,HR Manager
+CUST2420,27,M,Seattle,Streaming,Insurance,149161.0,Master’s,Finance Analyst
+CUST2421,19,F,San Francisco,Gaming,Insurance,63045.0,Master’s,Engineer
+CUST2422,56,F,Los Angeles,Gaming,Subscriptions,145671.0,Graduate,Finance Analyst
+CUST2423,32,F,Austin,Dining,Insurance,188805.0,Graduate,Marketing Manager
+CUST2424,25,F,Miami,Tech,Discounts,168459.0,Graduate,Consultant
+CUST2425,40,F,Seattle,Dining,Investments,140869.0,MBA,Consultant
+CUST2426,51,F,Seattle,Streaming,Discounts,107869.0,Master’s,Marketing Manager
+CUST2427,58,F,Los Angeles,Tech,Subscriptions,140910.0,MBA,Consultant
+CUST2428,22,F,Chicago,Shopping,Discounts,39342.0,Master’s,Finance Analyst
+CUST2429,19,F,Los Angeles,Gaming,Subscriptions,158504.0,Graduate,Engineer
+CUST2430,47,F,New York,Gaming,Investments,112275.0,MBA,Consultant
+CUST2431,48,M,Seattle,Dining,Subscriptions,43332.0,MBA,Marketing Manager
+CUST2432,54,M,Seattle,Tech,Discounts,144529.0,MBA,Engineer
+CUST2433,53,F,San Francisco,Shopping,Insurance,197897.0,Graduate,Finance Analyst
+CUST2434,64,F,Los Angeles,Finance,Digital Banking,137342.0,Master’s,Consultant
+CUST2435,30,M,Miami,Gaming,Digital Banking,66095.0,Graduate,HR Manager
+CUST2436,31,F,Seattle,Dining,Subscriptions,192337.0,Graduate,Marketing Manager
+CUST2437,57,M,Los Angeles,Gaming,Discounts,52168.0,Master’s,Marketing Manager
+CUST2438,33,F,Miami,Travel,Discounts,46923.0,Graduate,Consultant
+CUST2439,55,M,Austin,Tech,Digital Banking,111848.0,MBA,Marketing Manager
+CUST2440,35,M,Los Angeles,Travel,Subscriptions,167786.0,Graduate,Finance Analyst
+CUST2441,46,M,Los Angeles,Dining,Digital Banking,156496.0,Master’s,Engineer
+CUST2442,46,F,Seattle,Streaming,Discounts,102791.0,MBA,HR Manager
+CUST2443,46,M,Seattle,Shopping,Digital Banking,160479.0,Graduate,Engineer
+CUST2444,35,F,Miami,Streaming,Digital Banking,124716.0,PhD,Consultant
+CUST2445,62,F,San Francisco,Tech,Subscriptions,148256.0,Master’s,Marketing Manager
+CUST2446,50,M,New York,Streaming,Insurance,66529.0,MBA,Marketing Manager
+CUST2447,20,M,Seattle,Finance,Digital Banking,44506.0,PhD,Marketing Manager
+CUST2448,48,F,San Francisco,Shopping,Investments,111368.0,PhD,Engineer
+CUST2449,55,M,Seattle,Gaming,Digital Banking,172896.0,MBA,HR Manager
+CUST2450,59,M,Los Angeles,Gaming,Discounts,35461.0,Graduate,HR Manager
+CUST2451,50,F,Miami,Finance,Insurance,100835.0,MBA,Marketing Manager
+CUST2452,38,M,New York,Streaming,Discounts,76343.0,Master’s,Marketing Manager
+CUST2453,33,M,Los Angeles,Streaming,Discounts,183141.0,MBA,Marketing Manager
+CUST2454,18,F,Chicago,Finance,Subscriptions,194328.0,Graduate,Consultant
+CUST2455,35,M,New York,Tech,Discounts,71668.0,Master’s,Finance Analyst
+CUST2456,39,M,Chicago,Tech,Investments,112784.0,Graduate,Engineer
+CUST2457,25,F,New York,Travel,Investments,37370.0,MBA,Marketing Manager
+CUST2458,25,F,Austin,Travel,Investments,42249.0,PhD,Marketing Manager
+CUST2459,49,M,Los Angeles,Shopping,Discounts,183151.0,Master’s,Finance Analyst
+CUST2460,31,M,Chicago,Tech,Digital Banking,146911.0,PhD,HR Manager
+CUST2461,37,M,Austin,Tech,Insurance,88032.0,Graduate,Finance Analyst
+CUST2462,39,F,Los Angeles,Streaming,Insurance,147989.0,PhD,Engineer
+CUST2463,42,M,Los Angeles,Gaming,Insurance,56726.0,Master’s,Marketing Manager
+CUST2464,43,M,San Francisco,Tech,Digital Banking,199138.0,Graduate,HR Manager
+CUST2465,27,M,New York,Streaming,Investments,153634.0,MBA,Finance Analyst
+CUST2466,26,F,Chicago,Streaming,Subscriptions,162849.0,Master’s,Finance Analyst
+CUST2467,56,M,New York,Shopping,Discounts,118853.0,MBA,Marketing Manager
+CUST2468,20,F,Miami,Tech,Insurance,42653.0,Master’s,HR Manager
+CUST2469,65,M,New York,Shopping,Digital Banking,44635.0,MBA,HR Manager
+CUST2470,64,M,Miami,Dining,Discounts,49773.0,Graduate,Marketing Manager
+CUST2471,43,F,San Francisco,Travel,Digital Banking,175584.0,Master’s,Finance Analyst
+CUST2472,40,M,Miami,Tech,Investments,57653.0,PhD,Finance Analyst
+CUST2473,53,M,Miami,Gaming,Discounts,79853.0,Master’s,Finance Analyst
+CUST2474,45,M,Chicago,Gaming,Insurance,121046.0,Master’s,Consultant
+CUST2475,27,M,Miami,Gaming,Investments,51720.0,Master’s,Finance Analyst
+CUST2476,52,M,New York,Finance,Digital Banking,151040.0,PhD,Engineer
+CUST2477,62,M,Chicago,Streaming,Discounts,64241.0,Master’s,Marketing Manager
+CUST2478,54,F,Austin,Shopping,Investments,69942.0,PhD,Consultant
+CUST2479,62,M,Austin,Tech,Subscriptions,119553.0,Master’s,Engineer
+CUST2480,33,F,Austin,Streaming,Investments,123227.0,Master’s,HR Manager
+CUST2481,33,F,Miami,Streaming,Subscriptions,181021.0,MBA,HR Manager
+CUST2482,39,F,San Francisco,Streaming,Investments,96021.0,MBA,Finance Analyst
+CUST2483,45,M,San Francisco,Gaming,Investments,192194.0,Graduate,HR Manager
+CUST2484,41,F,Los Angeles,Gaming,Digital Banking,30955.0,Graduate,Engineer
+CUST2485,38,M,New York,Dining,Investments,31684.0,MBA,Finance Analyst
+CUST2486,42,M,San Francisco,Finance,Discounts,110481.0,PhD,Marketing Manager
+CUST2487,31,F,Miami,Shopping,Insurance,110204.0,Graduate,Consultant
+CUST2488,57,M,Miami,Shopping,Subscriptions,183020.0,Master’s,Marketing Manager
+CUST2489,35,F,New York,Finance,Subscriptions,33254.0,Graduate,HR Manager
+CUST2490,57,M,Austin,Finance,Digital Banking,81388.0,MBA,HR Manager
+CUST2491,47,F,Miami,Gaming,Digital Banking,113239.0,Graduate,Engineer
+CUST2492,61,M,Chicago,Finance,Investments,135650.0,Master’s,HR Manager
+CUST2493,38,F,Austin,Shopping,Digital Banking,145952.0,Graduate,Consultant
+CUST2494,21,M,Seattle,Finance,Insurance,164822.0,MBA,HR Manager
+CUST2495,23,F,Los Angeles,Dining,Insurance,129866.0,Graduate,HR Manager
+CUST2496,57,M,Seattle,Tech,Discounts,193754.0,PhD,Engineer
+CUST2497,33,M,Miami,Tech,Discounts,174842.0,PhD,Marketing Manager
+CUST2498,62,M,Los Angeles,Gaming,Subscriptions,132771.0,Graduate,HR Manager
+CUST2499,33,F,San Francisco,Shopping,Investments,161797.0,PhD,Engineer
+CUST2500,45,F,Seattle,Streaming,Digital Banking,190909.0,PhD,Marketing Manager
+CUST2501,45,F,Chicago,Travel,Insurance,100655.0,Master’s,Engineer
+CUST2502,33,F,Seattle,Tech,Insurance,43268.0,Master’s,Engineer
+CUST2503,62,F,Austin,Gaming,Investments,152929.0,Graduate,Consultant
+CUST2504,57,F,Austin,Gaming,Investments,198912.0,PhD,Marketing Manager
+CUST2505,31,M,Seattle,Shopping,Subscriptions,96128.0,Master’s,Finance Analyst
+CUST2506,32,M,New York,Finance,Insurance,147964.0,PhD,Engineer
+CUST2507,51,M,Miami,Tech,Discounts,46204.0,PhD,Engineer
+CUST2508,23,F,Chicago,Shopping,Digital Banking,194450.0,PhD,Engineer
+CUST2509,54,M,Los Angeles,Tech,Investments,61869.0,MBA,Consultant
+CUST2510,19,M,Seattle,Dining,Subscriptions,184177.0,MBA,Consultant
+CUST2511,48,M,Chicago,Gaming,Discounts,161880.0,MBA,Finance Analyst
+CUST2512,39,M,San Francisco,Gaming,Investments,79143.0,Graduate,Marketing Manager
+CUST2513,64,F,San Francisco,Finance,Discounts,103023.0,PhD,Marketing Manager
+CUST2514,19,M,Seattle,Travel,Subscriptions,35603.0,MBA,Marketing Manager
+CUST2515,26,M,Miami,Tech,Digital Banking,176084.0,Graduate,Finance Analyst
+CUST2516,46,M,Austin,Tech,Insurance,126947.0,Master’s,Marketing Manager
+CUST2517,60,M,New York,Shopping,Subscriptions,150430.0,PhD,Marketing Manager
+CUST2518,63,F,Los Angeles,Travel,Investments,175370.0,Master’s,Engineer
+CUST2519,24,M,New York,Finance,Discounts,55394.0,PhD,HR Manager
+CUST2520,21,M,Los Angeles,Gaming,Investments,87845.0,Graduate,HR Manager
+CUST2521,56,M,Los Angeles,Dining,Digital Banking,116939.0,PhD,Engineer
+CUST2522,21,M,Miami,Tech,Discounts,106862.0,Master’s,HR Manager
+CUST2523,20,M,Seattle,Streaming,Subscriptions,57300.0,Master’s,Consultant
+CUST2524,55,F,Austin,Gaming,Discounts,100303.0,Master’s,Consultant
+CUST2525,29,M,New York,Streaming,Digital Banking,170976.0,PhD,Engineer
+CUST2526,53,F,Miami,Streaming,Insurance,177327.0,Graduate,Consultant
+CUST2527,48,F,New York,Streaming,Digital Banking,50254.0,Master’s,Consultant
+CUST2528,30,F,Chicago,Streaming,Subscriptions,50563.0,PhD,Consultant
+CUST2529,36,M,New York,Dining,Subscriptions,102936.0,MBA,Engineer
+CUST2530,61,F,Chicago,Dining,Subscriptions,158545.0,Graduate,Consultant
+CUST2531,25,M,Austin,Travel,Discounts,193035.0,PhD,Finance Analyst
+CUST2532,62,M,New York,Finance,Digital Banking,125040.0,MBA,HR Manager
+CUST2533,40,M,Seattle,Streaming,Insurance,102465.0,MBA,Marketing Manager
+CUST2534,29,M,New York,Shopping,Subscriptions,71914.0,Graduate,Finance Analyst
+CUST2535,65,F,New York,Streaming,Investments,192252.0,MBA,Engineer
+CUST2536,52,F,San Francisco,Finance,Subscriptions,160383.0,MBA,HR Manager
+CUST2537,29,F,San Francisco,Finance,Insurance,172384.0,Master’s,HR Manager
+CUST2538,58,F,San Francisco,Shopping,Insurance,56047.0,Graduate,Consultant
+CUST2539,39,F,Los Angeles,Gaming,Investments,171558.0,Master’s,Engineer
+CUST2540,49,F,Los Angeles,Travel,Investments,181029.0,MBA,Marketing Manager
+CUST2541,44,M,Chicago,Streaming,Discounts,31511.0,PhD,Consultant
+CUST2542,53,F,Los Angeles,Tech,Discounts,83395.0,Master’s,Engineer
+CUST2543,51,M,Seattle,Travel,Investments,172140.0,Graduate,HR Manager
+CUST2544,28,F,Austin,Gaming,Discounts,165216.0,Graduate,Finance Analyst
+CUST2545,55,F,Los Angeles,Gaming,Discounts,169591.0,Master’s,Engineer
+CUST2546,63,F,Miami,Tech,Insurance,179702.0,PhD,Engineer
+CUST2547,50,M,Seattle,Gaming,Investments,151224.0,Graduate,Engineer
+CUST2548,25,F,San Francisco,Shopping,Digital Banking,132572.0,MBA,Consultant
+CUST2549,33,F,Chicago,Travel,Discounts,85801.0,Graduate,Engineer
+CUST2550,34,F,San Francisco,Travel,Digital Banking,83520.0,PhD,HR Manager
+CUST2551,58,M,Seattle,Finance,Digital Banking,168323.0,PhD,Engineer
+CUST2552,44,F,Miami,Tech,Digital Banking,41519.0,Graduate,Engineer
+CUST2553,27,M,New York,Dining,Subscriptions,54574.0,Master’s,Marketing Manager
+CUST2554,42,F,Chicago,Tech,Discounts,35199.0,Master’s,Finance Analyst
+CUST2555,46,M,Miami,Streaming,Discounts,77724.0,MBA,Marketing Manager
+CUST2556,36,M,Seattle,Travel,Insurance,68626.0,Graduate,HR Manager
+CUST2557,57,F,Chicago,Dining,Insurance,69122.0,PhD,Finance Analyst
+CUST2558,48,M,Chicago,Dining,Insurance,78360.0,Graduate,Engineer
+CUST2559,42,M,Los Angeles,Shopping,Discounts,87916.0,PhD,Engineer
+CUST2560,42,F,Seattle,Dining,Digital Banking,94004.0,Master’s,HR Manager
+CUST2561,61,M,San Francisco,Dining,Investments,194479.0,Graduate,HR Manager
+CUST2562,28,F,Los Angeles,Shopping,Digital Banking,142866.0,Master’s,Consultant
+CUST2563,52,M,New York,Travel,Discounts,186808.0,Graduate,Marketing Manager
+CUST2564,28,M,Seattle,Dining,Investments,194310.0,PhD,Consultant
+CUST2565,50,M,New York,Finance,Discounts,166286.0,Master’s,HR Manager
+CUST2566,36,F,New York,Gaming,Insurance,126649.0,PhD,Engineer
+CUST2567,41,F,Seattle,Finance,Discounts,187787.0,Master’s,Marketing Manager
+CUST2568,54,F,New York,Tech,Digital Banking,110481.0,PhD,Marketing Manager
+CUST2569,65,F,San Francisco,Travel,Investments,195419.0,MBA,HR Manager
+CUST2570,65,F,Miami,Finance,Discounts,63304.0,MBA,Finance Analyst
+CUST2571,33,F,Seattle,Dining,Insurance,144039.0,Graduate,Finance Analyst
+CUST2572,30,F,Los Angeles,Gaming,Discounts,157485.0,PhD,Consultant
+CUST2573,40,M,Chicago,Finance,Subscriptions,60173.0,Graduate,Engineer
+CUST2574,39,M,Chicago,Dining,Digital Banking,134935.0,Master’s,Marketing Manager
+CUST2575,23,F,New York,Tech,Insurance,140127.0,MBA,HR Manager
+CUST2576,26,M,San Francisco,Shopping,Subscriptions,93235.0,Master’s,Engineer
+CUST2577,51,M,Miami,Finance,Subscriptions,62390.0,MBA,Finance Analyst
+CUST2578,49,M,New York,Dining,Subscriptions,39476.0,Master’s,HR Manager
+CUST2579,62,F,Los Angeles,Finance,Insurance,70742.0,MBA,HR Manager
+CUST2580,27,M,Los Angeles,Gaming,Digital Banking,186737.0,PhD,Engineer
+CUST2581,57,M,San Francisco,Streaming,Subscriptions,175633.0,MBA,Engineer
+CUST2582,19,F,Miami,Travel,Subscriptions,135161.0,PhD,Engineer
+CUST2583,52,F,Miami,Streaming,Subscriptions,124133.0,MBA,Finance Analyst
+CUST2584,37,F,Seattle,Finance,Digital Banking,152052.0,MBA,Consultant
+CUST2585,60,F,Los Angeles,Gaming,Investments,110469.0,MBA,HR Manager
+CUST2586,21,F,Austin,Gaming,Subscriptions,87058.0,Master’s,Marketing Manager
+CUST2587,18,M,Miami,Travel,Digital Banking,181134.0,Graduate,Engineer
+CUST2588,30,M,Los Angeles,Dining,Digital Banking,90914.0,Master’s,Finance Analyst
+CUST2589,62,M,Seattle,Finance,Digital Banking,83207.0,Master’s,Finance Analyst
+CUST2590,46,F,Miami,Shopping,Investments,78458.0,Graduate,Consultant
+CUST2591,42,F,New York,Streaming,Digital Banking,179798.0,Master’s,Marketing Manager
+CUST2592,28,M,Miami,Travel,Insurance,145991.0,MBA,HR Manager
+CUST2593,35,M,Los Angeles,Dining,Digital Banking,144231.0,MBA,Engineer
+CUST2594,58,F,San Francisco,Travel,Discounts,143524.0,MBA,Marketing Manager
+CUST2595,48,M,San Francisco,Gaming,Digital Banking,162279.0,MBA,Marketing Manager
+CUST2596,37,F,Austin,Dining,Investments,190082.0,MBA,HR Manager
+CUST2597,62,M,Seattle,Travel,Insurance,142597.0,Graduate,Marketing Manager
+CUST2598,43,F,New York,Shopping,Insurance,156515.0,MBA,Engineer
+CUST2599,43,F,Miami,Dining,Discounts,169807.0,PhD,Finance Analyst
+CUST2600,56,M,Seattle,Tech,Discounts,64025.0,Graduate,Consultant
+CUST2601,47,M,Los Angeles,Shopping,Digital Banking,198300.0,MBA,Engineer
+CUST2602,49,M,Seattle,Gaming,Insurance,132963.0,PhD,Engineer
+CUST2603,58,F,San Francisco,Shopping,Discounts,136808.0,PhD,Engineer
+CUST2604,29,F,Seattle,Shopping,Discounts,107661.0,Graduate,Consultant
+CUST2605,22,F,San Francisco,Travel,Investments,181367.0,Graduate,Engineer
+CUST2606,44,F,New York,Shopping,Digital Banking,98819.0,Graduate,Finance Analyst
+CUST2607,38,F,Miami,Dining,Insurance,62574.0,MBA,Finance Analyst
+CUST2608,46,M,New York,Finance,Discounts,40170.0,Graduate,HR Manager
+CUST2609,28,M,Los Angeles,Dining,Subscriptions,147101.0,PhD,Engineer
+CUST2610,23,F,San Francisco,Finance,Subscriptions,173183.0,MBA,Marketing Manager
+CUST2611,56,F,Miami,Travel,Investments,111302.0,MBA,Engineer
+CUST2612,63,M,Los Angeles,Finance,Insurance,48567.0,MBA,Engineer
+CUST2613,49,F,Chicago,Gaming,Insurance,54875.0,Graduate,Finance Analyst
+CUST2614,37,F,Seattle,Dining,Insurance,192063.0,Graduate,Marketing Manager
+CUST2615,51,M,Chicago,Tech,Discounts,127093.0,Graduate,Engineer
+CUST2616,43,M,Los Angeles,Travel,Investments,54071.0,Master’s,HR Manager
+CUST2617,27,F,Austin,Gaming,Insurance,172255.0,MBA,Consultant
+CUST2618,55,M,Los Angeles,Streaming,Discounts,149245.0,Master’s,Consultant
+CUST2619,34,F,Miami,Tech,Discounts,148028.0,Master’s,Marketing Manager
+CUST2620,35,M,Chicago,Finance,Insurance,137506.0,Master’s,HR Manager
+CUST2621,18,M,Los Angeles,Tech,Insurance,131139.0,Master’s,Engineer
+CUST2622,21,F,New York,Gaming,Discounts,64661.0,Master’s,Finance Analyst
+CUST2623,44,M,New York,Travel,Subscriptions,179770.0,PhD,Consultant
+CUST2624,56,M,Seattle,Shopping,Digital Banking,91406.0,PhD,Marketing Manager
+CUST2625,19,F,Seattle,Travel,Digital Banking,198250.0,PhD,Consultant
+CUST2626,51,F,San Francisco,Tech,Insurance,188409.0,PhD,Marketing Manager
+CUST2627,31,F,New York,Travel,Subscriptions,139169.0,MBA,Finance Analyst
+CUST2628,20,F,Austin,Tech,Insurance,44028.0,Master’s,Engineer
+CUST2629,38,F,Seattle,Travel,Insurance,188890.0,MBA,Marketing Manager
+CUST2630,47,M,Chicago,Finance,Subscriptions,56347.0,PhD,Engineer
+CUST2631,65,M,New York,Tech,Digital Banking,186766.0,Graduate,Marketing Manager
+CUST2632,64,M,Chicago,Streaming,Discounts,144353.0,PhD,Finance Analyst
+CUST2633,57,M,Austin,Shopping,Insurance,134410.0,Master’s,Finance Analyst
+CUST2634,37,F,Chicago,Dining,Subscriptions,60017.0,MBA,Consultant
+CUST2635,42,M,Austin,Tech,Insurance,58907.0,Graduate,HR Manager
+CUST2636,35,M,San Francisco,Finance,Subscriptions,42130.0,Master’s,HR Manager
+CUST2637,23,F,Seattle,Shopping,Subscriptions,61877.0,Master’s,Marketing Manager
+CUST2638,36,M,Miami,Streaming,Digital Banking,32768.0,Master’s,HR Manager
+CUST2639,52,F,Seattle,Travel,Investments,66947.0,Master’s,Engineer
+CUST2640,31,F,New York,Travel,Discounts,40914.0,PhD,Marketing Manager
+CUST2641,41,F,Seattle,Streaming,Investments,157428.0,PhD,Finance Analyst
+CUST2642,28,F,Chicago,Gaming,Discounts,178806.0,MBA,Engineer
+CUST2643,57,M,Austin,Shopping,Discounts,195968.0,PhD,Finance Analyst
+CUST2644,48,F,Los Angeles,Shopping,Discounts,112785.0,Master’s,HR Manager
+CUST2645,40,M,Austin,Finance,Insurance,99233.0,MBA,Consultant
+CUST2646,60,M,Los Angeles,Streaming,Investments,113488.0,PhD,Engineer
+CUST2647,62,F,Chicago,Streaming,Discounts,163090.0,PhD,Consultant
+CUST2648,25,M,San Francisco,Travel,Discounts,57497.0,MBA,Marketing Manager
+CUST2649,62,M,Austin,Travel,Investments,126737.0,PhD,Finance Analyst
+CUST2650,56,M,Austin,Gaming,Digital Banking,98538.0,Master’s,HR Manager
+CUST2651,46,F,Chicago,Streaming,Digital Banking,58433.0,MBA,Engineer
+CUST2652,57,F,Seattle,Shopping,Digital Banking,60108.0,Graduate,Consultant
+CUST2653,54,M,San Francisco,Dining,Investments,151264.0,PhD,Engineer
+CUST2654,64,F,Los Angeles,Dining,Investments,157632.0,MBA,HR Manager
+CUST2655,22,M,Los Angeles,Finance,Digital Banking,141280.0,PhD,Marketing Manager
+CUST2656,38,M,Chicago,Finance,Digital Banking,71528.0,MBA,Engineer
+CUST2657,22,M,Austin,Finance,Subscriptions,78664.0,MBA,Marketing Manager
+CUST2658,38,M,New York,Shopping,Discounts,175285.0,Master’s,Finance Analyst
+CUST2659,42,F,San Francisco,Shopping,Subscriptions,72280.0,Master’s,Finance Analyst
+CUST2660,62,M,Seattle,Travel,Investments,175541.0,MBA,Consultant
+CUST2661,37,F,Seattle,Tech,Discounts,78122.0,PhD,Finance Analyst
+CUST2662,56,F,Miami,Dining,Investments,58252.0,Master’s,Consultant
+CUST2663,62,F,Chicago,Dining,Insurance,82424.0,MBA,HR Manager
+CUST2664,54,M,Chicago,Gaming,Discounts,182081.0,PhD,HR Manager
+CUST2665,50,F,New York,Travel,Digital Banking,113005.0,PhD,Marketing Manager
+CUST2666,29,F,Los Angeles,Streaming,Investments,80916.0,PhD,Consultant
+CUST2667,35,F,Los Angeles,Travel,Subscriptions,119253.0,Master’s,Consultant
+CUST2668,60,M,Miami,Finance,Insurance,147572.0,Graduate,Engineer
+CUST2669,23,M,Los Angeles,Streaming,Digital Banking,141634.0,MBA,Consultant
+CUST2670,44,M,San Francisco,Gaming,Discounts,193719.0,PhD,Engineer
+CUST2671,41,F,Chicago,Tech,Investments,99951.0,Master’s,HR Manager
+CUST2672,40,M,Chicago,Travel,Insurance,130821.0,MBA,Consultant
+CUST2673,35,M,Miami,Finance,Investments,40296.0,Master’s,HR Manager
+CUST2674,50,F,San Francisco,Gaming,Investments,55001.0,PhD,Marketing Manager
+CUST2675,29,M,San Francisco,Finance,Insurance,55372.0,Graduate,Finance Analyst
+CUST2676,45,M,Austin,Streaming,Subscriptions,61499.0,PhD,Engineer
+CUST2677,48,M,New York,Finance,Investments,194421.0,Graduate,Consultant
+CUST2678,27,F,San Francisco,Shopping,Discounts,197060.0,Graduate,Finance Analyst
+CUST2679,19,M,San Francisco,Streaming,Subscriptions,163977.0,Graduate,Engineer
+CUST2680,39,F,San Francisco,Finance,Subscriptions,194111.0,Master’s,Marketing Manager
+CUST2681,60,F,New York,Finance,Discounts,39955.0,Master’s,HR Manager
+CUST2682,26,F,Seattle,Gaming,Investments,172045.0,Graduate,Consultant
+CUST2683,65,F,San Francisco,Finance,Investments,196103.0,MBA,Finance Analyst
+CUST2684,39,F,Seattle,Tech,Digital Banking,131875.0,PhD,Engineer
+CUST2685,36,F,New York,Gaming,Discounts,175070.0,MBA,Marketing Manager
+CUST2686,46,F,New York,Dining,Digital Banking,191908.0,Master’s,Marketing Manager
+CUST2687,36,M,New York,Dining,Discounts,57071.0,Master’s,Marketing Manager
+CUST2688,56,M,Seattle,Dining,Subscriptions,113828.0,Graduate,Engineer
+CUST2689,23,F,Chicago,Gaming,Investments,100839.0,Graduate,HR Manager
+CUST2690,22,F,Miami,Streaming,Subscriptions,123667.0,Master’s,Consultant
+CUST2691,52,M,Los Angeles,Travel,Discounts,163100.0,MBA,HR Manager
+CUST2692,58,F,San Francisco,Streaming,Insurance,132106.0,PhD,Finance Analyst
+CUST2693,62,F,San Francisco,Tech,Digital Banking,54917.0,Graduate,Marketing Manager
+CUST2694,32,M,San Francisco,Tech,Investments,138527.0,MBA,Consultant
+CUST2695,56,M,New York,Travel,Subscriptions,123917.0,PhD,Marketing Manager
+CUST2696,52,F,Chicago,Streaming,Discounts,120930.0,Graduate,Finance Analyst
+CUST2697,42,M,Austin,Shopping,Insurance,144346.0,Master’s,Finance Analyst
+CUST2698,64,M,Chicago,Gaming,Investments,101259.0,Master’s,Marketing Manager
+CUST2699,26,M,Seattle,Shopping,Digital Banking,176000.0,Graduate,Marketing Manager
+CUST2700,30,F,Los Angeles,Tech,Subscriptions,115322.0,Graduate,Marketing Manager
+CUST2701,45,M,Miami,Dining,Digital Banking,98268.0,Graduate,Marketing Manager
+CUST2702,51,F,Seattle,Gaming,Investments,116912.0,MBA,Finance Analyst
+CUST2703,50,M,Los Angeles,Dining,Digital Banking,40418.0,Graduate,HR Manager
+CUST2704,43,F,Seattle,Shopping,Digital Banking,36063.0,Graduate,Marketing Manager
+CUST2705,56,F,Seattle,Tech,Investments,111625.0,Master’s,Finance Analyst
+CUST2706,58,M,Los Angeles,Dining,Digital Banking,183994.0,PhD,Marketing Manager
+CUST2707,50,M,Austin,Shopping,Subscriptions,170468.0,MBA,Consultant
+CUST2708,20,F,Seattle,Shopping,Subscriptions,99012.0,Master’s,Engineer
+CUST2709,39,F,San Francisco,Finance,Insurance,127584.0,MBA,Consultant
+CUST2710,19,M,Chicago,Gaming,Discounts,34422.0,Master’s,HR Manager
+CUST2711,61,F,Chicago,Tech,Digital Banking,131467.0,Graduate,HR Manager
+CUST2712,50,M,Chicago,Finance,Subscriptions,132535.0,Graduate,Finance Analyst
+CUST2713,42,M,Miami,Travel,Digital Banking,110051.0,MBA,Engineer
+CUST2714,44,M,Los Angeles,Gaming,Subscriptions,55413.0,Graduate,Consultant
+CUST2715,45,F,Seattle,Gaming,Insurance,102608.0,MBA,Marketing Manager
+CUST2716,19,F,Austin,Tech,Discounts,82498.0,Graduate,HR Manager
+CUST2717,18,M,San Francisco,Travel,Discounts,97022.0,Graduate,Consultant
+CUST2718,62,F,Chicago,Gaming,Insurance,169849.0,Graduate,Finance Analyst
+CUST2719,21,F,San Francisco,Dining,Subscriptions,152749.0,MBA,Finance Analyst
+CUST2720,64,M,San Francisco,Finance,Subscriptions,159413.0,Graduate,Marketing Manager
+CUST2721,42,F,Los Angeles,Gaming,Insurance,197751.0,MBA,Marketing Manager
+CUST2722,30,F,Miami,Gaming,Discounts,184952.0,MBA,Consultant
+CUST2723,22,F,Austin,Tech,Subscriptions,120406.0,PhD,Marketing Manager
+CUST2724,46,M,New York,Gaming,Discounts,139441.0,Graduate,Consultant
+CUST2725,49,M,Austin,Shopping,Digital Banking,61544.0,Graduate,Finance Analyst
+CUST2726,34,F,Chicago,Tech,Discounts,89173.0,MBA,HR Manager
+CUST2727,20,M,Chicago,Dining,Insurance,72700.0,Master’s,Finance Analyst
+CUST2728,63,M,Austin,Tech,Insurance,102609.0,Master’s,Engineer
+CUST2729,57,M,Austin,Finance,Subscriptions,107642.0,PhD,Marketing Manager
+CUST2730,58,M,Seattle,Finance,Insurance,128776.0,Graduate,Engineer
+CUST2731,48,F,Los Angeles,Finance,Discounts,68894.0,Master’s,Finance Analyst
+CUST2732,34,F,Miami,Tech,Discounts,122889.0,PhD,Marketing Manager
+CUST2733,58,M,Miami,Finance,Investments,125945.0,Graduate,Consultant
+CUST2734,24,M,New York,Finance,Discounts,58808.0,Graduate,Finance Analyst
+CUST2735,36,F,Los Angeles,Tech,Digital Banking,78276.0,PhD,Consultant
+CUST2736,39,F,Chicago,Finance,Discounts,174925.0,Master’s,Marketing Manager
+CUST2737,28,F,Los Angeles,Tech,Investments,143829.0,PhD,Engineer
+CUST2738,28,M,Chicago,Travel,Insurance,36406.0,Graduate,HR Manager
+CUST2739,18,F,Austin,Dining,Discounts,150413.0,Graduate,Consultant
+CUST2740,35,M,Austin,Dining,Digital Banking,136668.0,MBA,Engineer
+CUST2741,26,F,New York,Shopping,Digital Banking,59559.0,Master’s,Finance Analyst
+CUST2742,28,M,Seattle,Gaming,Digital Banking,144609.0,PhD,Finance Analyst
+CUST2743,19,M,Seattle,Streaming,Investments,67241.0,MBA,Engineer
+CUST2744,32,F,Seattle,Streaming,Insurance,83481.0,MBA,HR Manager
+CUST2745,44,M,Chicago,Shopping,Investments,57368.0,Graduate,Finance Analyst
+CUST2746,25,M,New York,Finance,Insurance,42271.0,Graduate,Marketing Manager
+CUST2747,33,F,Chicago,Streaming,Subscriptions,150387.0,Graduate,Marketing Manager
+CUST2748,44,F,Los Angeles,Finance,Insurance,30553.0,PhD,Finance Analyst
+CUST2749,44,M,Seattle,Tech,Subscriptions,48924.0,PhD,Finance Analyst
+CUST2750,26,F,Miami,Tech,Investments,90507.0,Master’s,Consultant
+CUST2751,55,F,San Francisco,Shopping,Discounts,142248.0,PhD,HR Manager
+CUST2752,28,M,Seattle,Tech,Digital Banking,193736.0,Graduate,Engineer
+CUST2753,37,F,Austin,Finance,Investments,197860.0,MBA,Consultant
+CUST2754,24,M,Austin,Travel,Investments,131043.0,MBA,Finance Analyst
+CUST2755,23,F,Los Angeles,Travel,Discounts,47775.0,PhD,HR Manager
+CUST2756,34,F,Seattle,Streaming,Discounts,121129.0,MBA,Consultant
+CUST2757,32,F,Chicago,Tech,Investments,142474.0,Master’s,Consultant
+CUST2758,55,M,San Francisco,Shopping,Discounts,84945.0,Graduate,Finance Analyst
+CUST2759,64,F,Austin,Streaming,Subscriptions,196578.0,Graduate,Consultant
+CUST2760,47,M,Los Angeles,Shopping,Discounts,62782.0,PhD,Consultant
+CUST2761,52,F,Los Angeles,Travel,Investments,132825.0,MBA,Consultant
+CUST2762,31,F,Chicago,Tech,Digital Banking,159457.0,Master’s,Marketing Manager
+CUST2763,27,M,Los Angeles,Tech,Subscriptions,122888.0,PhD,Engineer
+CUST2764,20,F,Miami,Dining,Investments,146599.0,MBA,HR Manager
+CUST2765,34,F,San Francisco,Dining,Insurance,94761.0,Master’s,Marketing Manager
+CUST2766,30,M,New York,Travel,Subscriptions,63933.0,Graduate,Consultant
+CUST2767,26,F,San Francisco,Travel,Investments,93983.0,Master’s,Engineer
+CUST2768,31,M,Austin,Dining,Digital Banking,85804.0,Master’s,HR Manager
+CUST2769,28,F,Chicago,Dining,Subscriptions,171832.0,MBA,Finance Analyst
+CUST2770,48,F,Los Angeles,Shopping,Discounts,174772.0,PhD,Marketing Manager
+CUST2771,43,M,Chicago,Tech,Discounts,59592.0,PhD,Finance Analyst
+CUST2772,21,M,Miami,Tech,Investments,96960.0,MBA,Engineer
+CUST2773,35,F,Miami,Travel,Investments,160117.0,Master’s,Engineer
+CUST2774,64,F,San Francisco,Travel,Digital Banking,64188.0,MBA,Finance Analyst
+CUST2775,20,F,Los Angeles,Shopping,Investments,108654.0,Master’s,Finance Analyst
+CUST2776,46,M,San Francisco,Streaming,Digital Banking,108326.0,Master’s,Engineer
+CUST2777,33,M,New York,Tech,Subscriptions,70148.0,Master’s,HR Manager
+CUST2778,45,M,Chicago,Finance,Digital Banking,160933.0,Graduate,Finance Analyst
+CUST2779,39,M,Miami,Gaming,Investments,120108.0,Graduate,HR Manager
+CUST2780,47,F,San Francisco,Streaming,Subscriptions,152555.0,PhD,Finance Analyst
+CUST2781,31,F,Austin,Finance,Subscriptions,36281.0,PhD,Marketing Manager
+CUST2782,20,F,San Francisco,Dining,Investments,57980.0,PhD,Finance Analyst
+CUST2783,31,M,Seattle,Dining,Insurance,96519.0,MBA,Engineer
+CUST2784,28,M,Miami,Shopping,Subscriptions,174663.0,PhD,Marketing Manager
+CUST2785,26,F,Los Angeles,Travel,Digital Banking,51502.0,MBA,Consultant
+CUST2786,34,F,San Francisco,Streaming,Investments,123756.0,Master’s,Engineer
+CUST2787,62,M,Los Angeles,Tech,Subscriptions,162404.0,Graduate,Consultant
+CUST2788,46,M,Seattle,Gaming,Digital Banking,42855.0,MBA,Finance Analyst
+CUST2789,22,M,Seattle,Dining,Digital Banking,134491.0,Graduate,Engineer
+CUST2790,22,F,Miami,Tech,Insurance,106217.0,PhD,Finance Analyst
+CUST2791,23,M,Chicago,Dining,Insurance,105373.0,Master’s,Marketing Manager
+CUST2792,60,M,Seattle,Shopping,Digital Banking,68858.0,Master’s,HR Manager
+CUST2793,43,F,New York,Tech,Discounts,57206.0,MBA,Finance Analyst
+CUST2794,36,F,Austin,Gaming,Discounts,100284.0,MBA,Engineer
+CUST2795,56,F,San Francisco,Shopping,Digital Banking,175350.0,Master’s,Engineer
+CUST2796,25,M,Austin,Dining,Insurance,38488.0,Master’s,Consultant
+CUST2797,51,M,Seattle,Shopping,Investments,139169.0,Graduate,Marketing Manager
+CUST2798,27,F,Chicago,Dining,Digital Banking,104306.0,PhD,HR Manager
+CUST2799,21,M,San Francisco,Streaming,Digital Banking,126913.0,Master’s,HR Manager
+CUST2800,58,F,Seattle,Gaming,Investments,161960.0,Graduate,Marketing Manager
+CUST2801,55,F,Seattle,Travel,Investments,86604.0,PhD,Engineer
+CUST2802,18,M,Seattle,Finance,Discounts,116116.0,Master’s,Engineer
+CUST2803,48,M,Los Angeles,Tech,Discounts,155210.0,MBA,Finance Analyst
+CUST2804,38,M,Austin,Gaming,Discounts,87517.0,Graduate,Marketing Manager
+CUST2805,32,F,Los Angeles,Travel,Subscriptions,147212.0,MBA,Engineer
+CUST2806,43,M,Los Angeles,Shopping,Insurance,82628.0,PhD,Engineer
+CUST2807,21,M,New York,Dining,Discounts,170730.0,PhD,Finance Analyst
+CUST2808,21,M,Miami,Streaming,Discounts,104751.0,PhD,Finance Analyst
+CUST2809,59,M,Los Angeles,Finance,Discounts,107931.0,Graduate,HR Manager
+CUST2810,31,M,Seattle,Tech,Investments,185148.0,PhD,HR Manager
+CUST2811,47,F,New York,Shopping,Digital Banking,178576.0,MBA,HR Manager
+CUST2812,19,M,Seattle,Streaming,Investments,84578.0,MBA,Engineer
+CUST2813,49,M,Seattle,Dining,Subscriptions,115563.0,Graduate,Finance Analyst
+CUST2814,31,M,New York,Finance,Digital Banking,170229.0,Graduate,Finance Analyst
+CUST2815,53,M,Los Angeles,Finance,Digital Banking,172086.0,PhD,HR Manager
+CUST2816,54,M,Austin,Dining,Discounts,143276.0,Graduate,Finance Analyst
+CUST2817,31,M,Los Angeles,Tech,Investments,120864.0,MBA,Marketing Manager
+CUST2818,39,F,Austin,Shopping,Investments,85858.0,MBA,Marketing Manager
+CUST2819,25,M,Austin,Streaming,Insurance,112678.0,Graduate,Consultant
+CUST2820,42,M,Los Angeles,Travel,Subscriptions,174747.0,Graduate,Finance Analyst
+CUST2821,42,F,Austin,Travel,Investments,120929.0,PhD,Marketing Manager
+CUST2822,42,F,Austin,Tech,Discounts,198248.0,MBA,HR Manager
+CUST2823,44,M,Austin,Finance,Subscriptions,69697.0,Master’s,Engineer
+CUST2824,55,M,Seattle,Dining,Discounts,76618.0,Master’s,Engineer
+CUST2825,29,F,Austin,Gaming,Insurance,124999.0,MBA,Consultant
+CUST2826,31,M,Austin,Streaming,Insurance,71645.0,MBA,Engineer
+CUST2827,54,M,Los Angeles,Travel,Subscriptions,197622.0,MBA,Consultant
+CUST2828,26,M,New York,Shopping,Insurance,81067.0,Master’s,HR Manager
+CUST2829,34,F,Austin,Gaming,Investments,167037.0,Master’s,Engineer
+CUST2830,33,M,Chicago,Shopping,Discounts,79383.0,MBA,HR Manager
+CUST2831,55,M,Austin,Streaming,Discounts,148505.0,MBA,Engineer
+CUST2832,59,M,Miami,Shopping,Digital Banking,190612.0,Master’s,HR Manager
+CUST2833,62,F,Austin,Travel,Digital Banking,152508.0,MBA,Marketing Manager
+CUST2834,52,M,Miami,Streaming,Discounts,97451.0,Graduate,Marketing Manager
+CUST2835,44,F,Seattle,Tech,Subscriptions,30676.0,Graduate,Consultant
+CUST2836,45,F,New York,Shopping,Insurance,152199.0,Master’s,Finance Analyst
+CUST2837,55,F,New York,Finance,Digital Banking,145309.0,Graduate,HR Manager
+CUST2838,64,M,Austin,Shopping,Subscriptions,155031.0,Graduate,Consultant
+CUST2839,54,M,Seattle,Shopping,Investments,53484.0,Master’s,HR Manager
+CUST2840,63,M,Seattle,Dining,Digital Banking,148231.0,Graduate,Finance Analyst
+CUST2841,35,M,San Francisco,Finance,Subscriptions,175483.0,Graduate,Finance Analyst
+CUST2842,51,M,Seattle,Tech,Subscriptions,131642.0,MBA,Consultant
+CUST2843,63,M,Austin,Gaming,Digital Banking,78153.0,PhD,Marketing Manager
+CUST2844,18,M,Miami,Tech,Investments,65816.0,Graduate,Consultant
+CUST2845,39,M,Los Angeles,Gaming,Investments,32014.0,Master’s,Engineer
+CUST2846,21,M,San Francisco,Dining,Investments,77505.0,Graduate,Engineer
+CUST2847,24,F,Austin,Gaming,Discounts,73350.0,Graduate,Consultant
+CUST2848,35,M,Los Angeles,Streaming,Insurance,78441.0,PhD,HR Manager
+CUST2849,38,F,New York,Travel,Subscriptions,96839.0,MBA,HR Manager
+CUST2850,51,F,Seattle,Dining,Discounts,63860.0,PhD,Finance Analyst
+CUST2851,56,F,Los Angeles,Dining,Subscriptions,82077.0,PhD,Engineer
+CUST2852,52,M,San Francisco,Streaming,Insurance,189925.0,Graduate,Finance Analyst
+CUST2853,45,M,New York,Shopping,Insurance,58384.0,Graduate,Engineer
+CUST2854,57,F,Miami,Tech,Subscriptions,110905.0,Master’s,Marketing Manager
+CUST2855,34,M,Los Angeles,Tech,Investments,149122.0,PhD,Engineer
+CUST2856,36,M,New York,Gaming,Insurance,128382.0,Master’s,HR Manager
+CUST2857,62,M,Miami,Shopping,Subscriptions,68430.0,MBA,Consultant
+CUST2858,48,F,Chicago,Shopping,Subscriptions,98453.0,PhD,Engineer
+CUST2859,23,M,Chicago,Finance,Subscriptions,39410.0,Master’s,HR Manager
+CUST2860,45,F,Chicago,Dining,Investments,88453.0,MBA,HR Manager
+CUST2861,64,F,Los Angeles,Streaming,Subscriptions,49513.0,PhD,Engineer
+CUST2862,65,M,San Francisco,Travel,Subscriptions,103132.0,Graduate,Marketing Manager
+CUST2863,38,F,San Francisco,Streaming,Discounts,96195.0,Graduate,Marketing Manager
+CUST2864,52,M,Austin,Finance,Discounts,198220.0,Graduate,Engineer
+CUST2865,62,M,Seattle,Streaming,Investments,196016.0,MBA,Consultant
+CUST2866,59,M,Seattle,Finance,Insurance,195576.0,PhD,HR Manager
+CUST2867,58,F,Seattle,Dining,Subscriptions,54298.0,MBA,HR Manager
+CUST2868,64,F,Seattle,Shopping,Insurance,51894.0,Graduate,HR Manager
+CUST2869,58,F,San Francisco,Gaming,Subscriptions,51954.0,PhD,Marketing Manager
+CUST2870,39,F,Seattle,Dining,Subscriptions,122042.0,Graduate,Engineer
+CUST2871,30,F,New York,Tech,Discounts,157290.0,Master’s,Marketing Manager
+CUST2872,65,M,Miami,Shopping,Investments,76624.0,PhD,Consultant
+CUST2873,34,M,San Francisco,Dining,Insurance,149703.0,PhD,Marketing Manager
+CUST2874,41,M,Austin,Finance,Insurance,74928.0,Master’s,Finance Analyst
+CUST2875,55,F,Seattle,Streaming,Discounts,194855.0,Master’s,Consultant
+CUST2876,31,M,New York,Shopping,Subscriptions,124617.0,Master’s,Marketing Manager
+CUST2877,61,M,Seattle,Dining,Digital Banking,154849.0,Graduate,Engineer
+CUST2878,18,F,Seattle,Dining,Subscriptions,161738.0,Master’s,Finance Analyst
+CUST2879,48,M,Seattle,Finance,Discounts,38418.0,MBA,Finance Analyst
+CUST2880,48,M,San Francisco,Dining,Investments,115873.0,MBA,Marketing Manager
+CUST2881,34,M,New York,Travel,Investments,196160.0,PhD,Consultant
+CUST2882,51,F,Austin,Gaming,Subscriptions,155429.0,PhD,Marketing Manager
+CUST2883,23,F,New York,Tech,Subscriptions,116080.0,Graduate,Finance Analyst
+CUST2884,21,M,San Francisco,Dining,Insurance,188788.0,PhD,Consultant
+CUST2885,42,F,Miami,Dining,Discounts,111563.0,Graduate,Consultant
+CUST2886,28,M,San Francisco,Shopping,Digital Banking,116163.0,PhD,Marketing Manager
+CUST2887,18,F,New York,Travel,Subscriptions,146450.0,Graduate,Engineer
+CUST2888,51,F,Austin,Travel,Digital Banking,186468.0,Master’s,HR Manager
+CUST2889,41,F,Austin,Shopping,Subscriptions,105321.0,Master’s,Marketing Manager
+CUST2890,26,F,Seattle,Tech,Investments,170791.0,PhD,Marketing Manager
+CUST2891,45,F,Miami,Travel,Subscriptions,147506.0,PhD,HR Manager
+CUST2892,30,M,San Francisco,Travel,Investments,185207.0,MBA,Consultant
+CUST2893,50,F,San Francisco,Gaming,Investments,47869.0,PhD,Consultant
+CUST2894,65,M,Los Angeles,Dining,Insurance,184110.0,PhD,Finance Analyst
+CUST2895,30,M,Seattle,Tech,Subscriptions,152014.0,PhD,Marketing Manager
+CUST2896,42,F,Chicago,Dining,Subscriptions,44713.0,MBA,HR Manager
+CUST2897,49,F,Miami,Travel,Discounts,110029.0,MBA,Marketing Manager
+CUST2898,26,M,Seattle,Travel,Subscriptions,34299.0,Graduate,Engineer
+CUST2899,18,F,New York,Shopping,Digital Banking,170470.0,Graduate,Engineer
+CUST2900,31,F,Seattle,Dining,Digital Banking,39048.0,Graduate,Consultant
+CUST2901,46,F,Seattle,Streaming,Digital Banking,68746.0,Graduate,Consultant
+CUST2902,60,M,Austin,Streaming,Insurance,128245.0,MBA,Engineer
+CUST2903,48,F,Chicago,Tech,Insurance,66624.0,Graduate,Engineer
+CUST2904,51,F,Miami,Gaming,Digital Banking,112594.0,Master’s,Marketing Manager
+CUST2905,20,M,Austin,Finance,Digital Banking,92008.0,MBA,HR Manager
+CUST2906,52,M,Miami,Travel,Digital Banking,196113.0,MBA,Engineer
+CUST2907,43,F,Chicago,Finance,Investments,143440.0,Master’s,Marketing Manager
+CUST2908,23,M,San Francisco,Finance,Digital Banking,139972.0,Graduate,Finance Analyst
+CUST2909,44,M,San Francisco,Shopping,Digital Banking,188482.0,Master’s,Engineer
+CUST2910,54,F,Seattle,Tech,Digital Banking,84165.0,PhD,Marketing Manager
+CUST2911,48,F,Los Angeles,Travel,Insurance,140779.0,Graduate,Finance Analyst
+CUST2912,64,M,Chicago,Travel,Digital Banking,102927.0,MBA,Finance Analyst
+CUST2913,53,M,New York,Gaming,Discounts,74852.0,Graduate,Marketing Manager
+CUST2914,33,M,Austin,Streaming,Subscriptions,114743.0,Graduate,Marketing Manager
+CUST2915,25,F,Austin,Shopping,Subscriptions,156845.0,PhD,Consultant
+CUST2916,64,F,Chicago,Shopping,Investments,166979.0,PhD,Finance Analyst
+CUST2917,65,F,San Francisco,Finance,Subscriptions,86865.0,PhD,Marketing Manager
+CUST2918,21,F,New York,Travel,Subscriptions,178367.0,Graduate,Engineer
+CUST2919,43,F,San Francisco,Gaming,Discounts,58298.0,PhD,Consultant
+CUST2920,50,M,Chicago,Finance,Subscriptions,148144.0,Master’s,Marketing Manager
+CUST2921,38,M,Austin,Dining,Discounts,180776.0,MBA,Consultant
+CUST2922,65,M,Los Angeles,Tech,Subscriptions,47969.0,Master’s,HR Manager
+CUST2923,36,M,New York,Tech,Discounts,47618.0,Master’s,HR Manager
+CUST2924,42,M,San Francisco,Gaming,Discounts,123479.0,Master’s,Consultant
+CUST2925,32,F,Austin,Shopping,Digital Banking,41513.0,MBA,Finance Analyst
+CUST2926,19,F,Chicago,Finance,Investments,48592.0,Graduate,Finance Analyst
+CUST2927,33,F,San Francisco,Gaming,Subscriptions,89743.0,PhD,Marketing Manager
+CUST2928,26,M,Austin,Gaming,Discounts,112734.0,PhD,Consultant
+CUST2929,47,M,San Francisco,Travel,Subscriptions,157407.0,Master’s,Engineer
+CUST2930,32,M,Seattle,Streaming,Investments,86831.0,Master’s,Engineer
+CUST2931,23,F,Chicago,Travel,Insurance,48725.0,Master’s,Engineer
+CUST2932,56,M,Austin,Shopping,Digital Banking,55450.0,MBA,Finance Analyst
+CUST2933,45,F,Chicago,Streaming,Insurance,97446.0,PhD,HR Manager
+CUST2934,64,M,Chicago,Shopping,Subscriptions,42296.0,Master’s,Finance Analyst
+CUST2935,34,M,Miami,Gaming,Subscriptions,117966.0,Master’s,Engineer
+CUST2936,26,M,Seattle,Dining,Insurance,31411.0,PhD,Consultant
+CUST2937,64,F,Miami,Finance,Discounts,141977.0,PhD,Marketing Manager
+CUST2938,39,F,Chicago,Gaming,Subscriptions,143635.0,PhD,HR Manager
+CUST2939,42,F,Miami,Streaming,Subscriptions,58794.0,MBA,Consultant
+CUST2940,53,F,New York,Dining,Investments,100887.0,Master’s,Engineer
+CUST2941,58,M,Los Angeles,Tech,Discounts,47067.0,Master’s,Marketing Manager
+CUST2942,65,M,Austin,Shopping,Investments,174781.0,MBA,HR Manager
+CUST2943,30,F,San Francisco,Finance,Discounts,76930.0,PhD,Finance Analyst
+CUST2944,29,M,Seattle,Streaming,Investments,185908.0,Master’s,Consultant
+CUST2945,32,M,Austin,Dining,Insurance,106832.0,Graduate,Finance Analyst
+CUST2946,31,M,Seattle,Travel,Insurance,99190.0,Master’s,Engineer
+CUST2947,53,M,Chicago,Gaming,Digital Banking,57842.0,MBA,Finance Analyst
+CUST2948,42,F,San Francisco,Travel,Discounts,87032.0,Graduate,Finance Analyst
+CUST2949,46,F,Miami,Gaming,Investments,185730.0,Master’s,Consultant
+CUST2950,32,F,New York,Shopping,Subscriptions,148314.0,MBA,HR Manager
+CUST2951,31,F,San Francisco,Gaming,Investments,81114.0,Graduate,Consultant
+CUST2952,32,F,New York,Dining,Subscriptions,104494.0,MBA,Finance Analyst
+CUST2953,57,M,San Francisco,Travel,Digital Banking,80889.0,PhD,HR Manager
+CUST2954,53,M,New York,Shopping,Insurance,104434.0,Graduate,Marketing Manager
+CUST2955,48,F,San Francisco,Travel,Subscriptions,156049.0,Graduate,Engineer
+CUST2956,28,F,Seattle,Finance,Digital Banking,94933.0,MBA,Finance Analyst
+CUST2957,57,F,Seattle,Dining,Investments,86180.0,Graduate,Finance Analyst
+CUST2958,50,F,San Francisco,Streaming,Digital Banking,199647.0,PhD,Consultant
+CUST2959,64,F,New York,Dining,Insurance,39461.0,Graduate,HR Manager
+CUST2960,59,F,Seattle,Travel,Digital Banking,94585.0,Graduate,Finance Analyst
+CUST2961,51,F,Los Angeles,Travel,Subscriptions,71683.0,Graduate,HR Manager
+CUST2962,52,M,San Francisco,Travel,Discounts,39130.0,Graduate,Engineer
+CUST2963,48,F,Austin,Finance,Subscriptions,142330.0,Graduate,Consultant
+CUST2964,23,F,Miami,Travel,Insurance,128683.0,Master’s,Marketing Manager
+CUST2965,20,F,San Francisco,Dining,Investments,199900.0,PhD,Marketing Manager
+CUST2966,53,F,San Francisco,Gaming,Investments,173584.0,MBA,Consultant
+CUST2967,54,F,San Francisco,Dining,Insurance,128202.0,Master’s,Finance Analyst
+CUST2968,61,M,Miami,Shopping,Digital Banking,143108.0,Master’s,HR Manager
+CUST2969,23,M,Austin,Travel,Digital Banking,104775.0,Master’s,Marketing Manager
+CUST2970,23,F,San Francisco,Streaming,Investments,130841.0,PhD,Marketing Manager
+CUST2971,50,F,Chicago,Gaming,Investments,182446.0,Graduate,Engineer
+CUST2972,55,F,Chicago,Dining,Insurance,92283.0,MBA,Engineer
+CUST2973,34,F,Seattle,Dining,Investments,191534.0,Master’s,Engineer
+CUST2974,60,F,Los Angeles,Shopping,Insurance,106677.0,Graduate,Finance Analyst
+CUST2975,62,M,Chicago,Gaming,Subscriptions,96024.0,PhD,Marketing Manager
+CUST2976,55,F,Los Angeles,Gaming,Discounts,117950.0,Graduate,Marketing Manager
+CUST2977,43,M,Austin,Travel,Investments,124076.0,Master’s,HR Manager
+CUST2978,36,M,Chicago,Tech,Digital Banking,191575.0,MBA,Finance Analyst
+CUST2979,36,M,Seattle,Finance,Investments,40727.0,MBA,Consultant
+CUST2980,65,F,San Francisco,Tech,Investments,88793.0,PhD,Marketing Manager
+CUST2981,44,M,Seattle,Tech,Subscriptions,194472.0,Graduate,Marketing Manager
+CUST2982,19,F,Seattle,Finance,Investments,151448.0,Master’s,Marketing Manager
+CUST2983,65,M,Chicago,Travel,Digital Banking,67963.0,Master’s,Marketing Manager
+CUST2984,47,M,Chicago,Dining,Digital Banking,166387.0,Master’s,Consultant
+CUST2985,48,M,Austin,Shopping,Investments,42857.0,Master’s,Finance Analyst
+CUST2986,60,M,Austin,Streaming,Discounts,180412.0,PhD,Finance Analyst
+CUST2987,55,F,New York,Gaming,Insurance,109873.0,Graduate,HR Manager
+CUST2988,21,F,San Francisco,Tech,Insurance,95783.0,Master’s,Marketing Manager
+CUST2989,35,M,Austin,Travel,Insurance,95291.0,Graduate,Consultant
+CUST2990,19,M,Austin,Gaming,Investments,190806.0,PhD,Engineer
+CUST2991,30,F,Miami,Travel,Discounts,197160.0,Master’s,HR Manager
+CUST2992,21,M,Los Angeles,Shopping,Investments,115905.0,Graduate,Consultant
+CUST2993,56,M,Chicago,Finance,Subscriptions,187926.0,MBA,Finance Analyst
+CUST2994,56,F,Miami,Shopping,Digital Banking,192478.0,PhD,Finance Analyst
+CUST2995,40,M,Seattle,Gaming,Subscriptions,76719.0,Master’s,Engineer
+CUST2996,23,F,New York,Travel,Subscriptions,139584.0,PhD,Engineer
+CUST2997,20,M,Austin,Gaming,Digital Banking,56492.0,Graduate,Finance Analyst
+CUST2998,35,F,New York,Dining,Subscriptions,101095.0,Master’s,HR Manager
+CUST2999,65,F,Seattle,Finance,Digital Banking,178005.0,PhD,Finance Analyst
+CUST3000,48,F,New York,Shopping,Discounts,155229.0,Graduate,HR Manager
+CUST3001,48,F,New York,Finance,Digital Banking,91920.0,PhD,Marketing Manager
+CUST3002,18,F,Seattle,Streaming,Discounts,152256.0,PhD,Finance Analyst
+CUST3003,36,M,Seattle,Shopping,Digital Banking,196224.0,PhD,Consultant
+CUST3004,61,F,Los Angeles,Streaming,Digital Banking,63648.0,MBA,Consultant
+CUST3005,24,M,San Francisco,Dining,Subscriptions,146576.0,MBA,Marketing Manager
+CUST3006,50,M,Miami,Dining,Subscriptions,196764.0,Master’s,Marketing Manager
+CUST3007,30,F,Chicago,Streaming,Discounts,81475.0,Master’s,Finance Analyst
+CUST3008,41,F,Austin,Shopping,Digital Banking,184811.0,PhD,HR Manager
+CUST3009,49,M,New York,Travel,Investments,67833.0,Graduate,Engineer
+CUST3010,33,M,Seattle,Dining,Digital Banking,124405.0,Graduate,Finance Analyst
+CUST3011,25,F,Seattle,Streaming,Discounts,64292.0,PhD,HR Manager
+CUST3012,31,F,Austin,Gaming,Discounts,43484.0,Graduate,Finance Analyst
+CUST3013,64,M,New York,Tech,Subscriptions,99076.0,Master’s,Finance Analyst
+CUST3014,25,F,Seattle,Tech,Digital Banking,179883.0,MBA,HR Manager
+CUST3015,59,F,Miami,Finance,Investments,155968.0,Master’s,Marketing Manager
+CUST3016,31,F,Los Angeles,Shopping,Insurance,61216.0,Master’s,Marketing Manager
+CUST3017,21,M,Chicago,Travel,Subscriptions,113729.0,Master’s,HR Manager
+CUST3018,31,M,Los Angeles,Travel,Insurance,50275.0,Graduate,Consultant
+CUST3019,42,F,Miami,Dining,Discounts,110702.0,Master’s,Marketing Manager
+CUST3020,36,M,Seattle,Gaming,Digital Banking,177724.0,MBA,Consultant
+CUST3021,58,F,Miami,Finance,Discounts,49472.0,PhD,Marketing Manager
+CUST3022,62,F,Austin,Travel,Insurance,129887.0,Master’s,Consultant
+CUST3023,55,M,San Francisco,Travel,Investments,80756.0,PhD,Marketing Manager
+CUST3024,39,M,Austin,Finance,Digital Banking,153806.0,PhD,Engineer
+CUST3025,40,M,San Francisco,Travel,Subscriptions,50277.0,Graduate,HR Manager
+CUST3026,49,M,San Francisco,Tech,Investments,61901.0,MBA,Consultant
+CUST3027,24,M,New York,Shopping,Discounts,90704.0,Graduate,Consultant
+CUST3028,45,F,Chicago,Dining,Investments,112026.0,MBA,HR Manager
+CUST3029,23,F,Austin,Shopping,Discounts,180186.0,Graduate,Finance Analyst
+CUST3030,24,F,Los Angeles,Shopping,Subscriptions,152802.0,PhD,Engineer
+CUST3031,22,F,Austin,Tech,Insurance,77637.0,Graduate,HR Manager
+CUST3032,41,F,San Francisco,Streaming,Discounts,176394.0,Graduate,HR Manager
+CUST3033,39,M,Austin,Streaming,Subscriptions,187561.0,MBA,Consultant
+CUST3034,56,M,Chicago,Finance,Insurance,164638.0,Graduate,HR Manager
+CUST3035,37,F,San Francisco,Finance,Discounts,50772.0,Master’s,Marketing Manager
+CUST3036,26,F,New York,Dining,Insurance,124967.0,Graduate,Engineer
+CUST3037,36,M,Los Angeles,Gaming,Subscriptions,78786.0,Graduate,HR Manager
+CUST3038,42,F,Miami,Tech,Subscriptions,145563.0,Master’s,Finance Analyst
+CUST3039,21,F,Austin,Dining,Digital Banking,101159.0,MBA,Engineer
+CUST3040,51,M,New York,Shopping,Investments,63007.0,Master’s,Finance Analyst
+CUST3041,26,F,Seattle,Shopping,Investments,149725.0,MBA,Marketing Manager
+CUST3042,54,F,New York,Finance,Digital Banking,126443.0,PhD,Finance Analyst
+CUST3043,27,F,New York,Finance,Subscriptions,73108.0,PhD,Marketing Manager
+CUST3044,38,F,Miami,Tech,Discounts,178197.0,Master’s,Marketing Manager
+CUST3045,22,F,Chicago,Gaming,Discounts,181850.0,MBA,HR Manager
+CUST3046,34,M,Seattle,Tech,Digital Banking,38049.0,MBA,Engineer
+CUST3047,44,F,Chicago,Streaming,Subscriptions,60148.0,PhD,Consultant
+CUST3048,63,M,Los Angeles,Finance,Digital Banking,120103.0,MBA,HR Manager
+CUST3049,33,M,San Francisco,Streaming,Discounts,60604.0,Graduate,Consultant
+CUST3050,50,F,Miami,Travel,Digital Banking,156740.0,MBA,Engineer
+CUST3051,24,F,San Francisco,Shopping,Insurance,116474.0,PhD,Marketing Manager
+CUST3052,22,M,San Francisco,Shopping,Investments,187303.0,PhD,Consultant
+CUST3053,41,M,San Francisco,Shopping,Insurance,125698.0,Master’s,Marketing Manager
+CUST3054,57,M,Chicago,Finance,Digital Banking,132729.0,MBA,HR Manager
+CUST3055,25,M,Seattle,Finance,Insurance,99117.0,PhD,Finance Analyst
+CUST3056,54,F,Chicago,Gaming,Investments,107232.0,Graduate,Finance Analyst
+CUST3057,60,F,Chicago,Finance,Subscriptions,112293.0,Master’s,HR Manager
+CUST3058,53,F,New York,Finance,Digital Banking,67095.0,Master’s,Consultant
+CUST3059,61,M,Chicago,Shopping,Investments,42356.0,PhD,Consultant
+CUST3060,19,M,Chicago,Dining,Digital Banking,39749.0,MBA,HR Manager
+CUST3061,65,M,Seattle,Travel,Investments,63077.0,MBA,Finance Analyst
+CUST3062,21,M,Los Angeles,Shopping,Digital Banking,97227.0,Master’s,Engineer
+CUST3063,29,F,Chicago,Streaming,Insurance,193750.0,Master’s,Engineer
+CUST3064,41,F,Miami,Travel,Digital Banking,76657.0,MBA,Marketing Manager
+CUST3065,40,M,Chicago,Streaming,Digital Banking,180340.0,Master’s,Finance Analyst
+CUST3066,47,F,Seattle,Finance,Investments,107451.0,Master’s,Marketing Manager
+CUST3067,28,F,San Francisco,Dining,Insurance,95885.0,PhD,Marketing Manager
+CUST3068,36,F,Miami,Streaming,Insurance,146388.0,Master’s,HR Manager
+CUST3069,28,F,New York,Finance,Discounts,161463.0,Master’s,Marketing Manager
+CUST3070,29,M,Los Angeles,Gaming,Investments,68403.0,PhD,Engineer
+CUST3071,40,F,New York,Streaming,Discounts,193127.0,MBA,Consultant
+CUST3072,25,M,San Francisco,Gaming,Discounts,123352.0,Master’s,Finance Analyst
+CUST3073,28,F,Chicago,Travel,Digital Banking,170617.0,Master’s,Finance Analyst
+CUST3074,27,F,Miami,Finance,Investments,171109.0,Master’s,Engineer
+CUST3075,38,F,Seattle,Tech,Subscriptions,183629.0,Graduate,Marketing Manager
+CUST3076,65,M,San Francisco,Tech,Insurance,71348.0,Graduate,HR Manager
+CUST3077,59,F,Austin,Tech,Subscriptions,64610.0,PhD,HR Manager
+CUST3078,30,M,Miami,Travel,Investments,30380.0,Graduate,HR Manager
+CUST3079,40,F,New York,Gaming,Digital Banking,92803.0,MBA,Finance Analyst
+CUST3080,33,M,Chicago,Dining,Discounts,58447.0,Master’s,Finance Analyst
+CUST3081,59,M,Seattle,Tech,Digital Banking,58431.0,Master’s,Marketing Manager
+CUST3082,36,F,Austin,Tech,Insurance,119549.0,MBA,Finance Analyst
+CUST3083,37,M,Austin,Travel,Subscriptions,82094.0,PhD,Finance Analyst
+CUST3084,57,M,Seattle,Gaming,Subscriptions,111983.0,Graduate,Engineer
+CUST3085,63,F,Austin,Travel,Subscriptions,184391.0,Graduate,Consultant
+CUST3086,37,F,Seattle,Gaming,Subscriptions,95198.0,MBA,Finance Analyst
+CUST3087,23,F,Seattle,Gaming,Digital Banking,169366.0,Graduate,Engineer
+CUST3088,23,F,New York,Dining,Digital Banking,142696.0,Graduate,HR Manager
+CUST3089,31,F,San Francisco,Finance,Investments,70814.0,Master’s,Finance Analyst
+CUST3090,63,F,Chicago,Shopping,Investments,116511.0,PhD,Engineer
+CUST3091,23,M,Los Angeles,Streaming,Discounts,39679.0,Master’s,Engineer
+CUST3092,54,F,Los Angeles,Travel,Subscriptions,66154.0,MBA,HR Manager
+CUST3093,56,M,San Francisco,Finance,Investments,141501.0,PhD,HR Manager
+CUST3094,34,M,San Francisco,Gaming,Discounts,117760.0,Master’s,HR Manager
+CUST3095,25,F,Chicago,Streaming,Discounts,111418.0,PhD,Consultant
+CUST3096,24,M,Austin,Gaming,Insurance,177793.0,Graduate,Consultant
+CUST3097,36,M,San Francisco,Dining,Investments,116854.0,Master’s,HR Manager
+CUST3098,50,F,Austin,Finance,Insurance,142148.0,MBA,Consultant
+CUST3099,62,F,San Francisco,Gaming,Insurance,45803.0,Master’s,Engineer
+CUST3100,61,F,San Francisco,Tech,Discounts,152271.0,Graduate,HR Manager
+CUST3101,53,M,New York,Tech,Digital Banking,189620.0,Master’s,Engineer
+CUST3102,34,F,New York,Streaming,Insurance,85095.0,PhD,Consultant
+CUST3103,23,F,Seattle,Tech,Insurance,41149.0,MBA,HR Manager
+CUST3104,45,M,New York,Dining,Digital Banking,196203.0,Master’s,Engineer
+CUST3105,22,F,San Francisco,Streaming,Discounts,199368.0,Master’s,Marketing Manager
+CUST3106,32,M,Seattle,Dining,Subscriptions,125005.0,Master’s,Marketing Manager
+CUST3107,20,F,Austin,Gaming,Subscriptions,93172.0,PhD,Engineer
+CUST3108,36,F,Austin,Gaming,Investments,38893.0,Master’s,HR Manager
+CUST3109,24,F,Los Angeles,Gaming,Investments,99152.0,Graduate,Consultant
+CUST3110,57,M,Seattle,Tech,Investments,179494.0,Master’s,Marketing Manager
+CUST3111,18,M,Seattle,Dining,Discounts,142346.0,Master’s,Marketing Manager
+CUST3112,25,M,San Francisco,Dining,Insurance,55781.0,MBA,Engineer
+CUST3113,44,M,San Francisco,Dining,Subscriptions,168850.0,PhD,Marketing Manager
+CUST3114,20,M,Austin,Dining,Subscriptions,149420.0,MBA,Engineer
+CUST3115,32,F,Miami,Gaming,Investments,189152.0,Master’s,Marketing Manager
+CUST3116,57,F,New York,Streaming,Insurance,55796.0,PhD,Engineer
+CUST3117,37,M,Chicago,Travel,Digital Banking,77888.0,MBA,Engineer
+CUST3118,38,F,Austin,Gaming,Digital Banking,90905.0,PhD,Engineer
+CUST3119,60,M,San Francisco,Travel,Insurance,32859.0,MBA,Finance Analyst
+CUST3120,43,M,Los Angeles,Dining,Subscriptions,45275.0,Master’s,Engineer
+CUST3121,33,M,Austin,Travel,Insurance,88924.0,Graduate,Engineer
+CUST3122,57,M,Miami,Finance,Investments,80853.0,Master’s,HR Manager
+CUST3123,42,M,Seattle,Streaming,Investments,176217.0,MBA,Marketing Manager
+CUST3124,42,F,Austin,Finance,Digital Banking,41798.0,Master’s,Engineer
+CUST3125,52,F,San Francisco,Dining,Investments,189981.0,PhD,HR Manager
+CUST3126,65,F,Miami,Finance,Subscriptions,157145.0,Master’s,Engineer
+CUST3127,61,F,Seattle,Finance,Digital Banking,127390.0,PhD,HR Manager
+CUST3128,37,F,Miami,Shopping,Insurance,71643.0,Graduate,Marketing Manager
+CUST3129,46,M,Chicago,Streaming,Insurance,174218.0,PhD,HR Manager
+CUST3130,65,M,Austin,Finance,Digital Banking,31186.0,Graduate,HR Manager
+CUST3131,43,M,New York,Gaming,Insurance,195398.0,Master’s,Engineer
+CUST3132,32,F,Seattle,Streaming,Digital Banking,191473.0,PhD,Engineer
+CUST3133,25,F,Austin,Shopping,Insurance,194538.0,Master’s,Finance Analyst
+CUST3134,34,M,Los Angeles,Gaming,Discounts,180819.0,Master’s,Marketing Manager
+CUST3135,33,F,Seattle,Streaming,Digital Banking,47291.0,Graduate,Marketing Manager
+CUST3136,46,M,Miami,Gaming,Discounts,56226.0,Graduate,Engineer
+CUST3137,26,M,New York,Gaming,Insurance,163900.0,Graduate,HR Manager
+CUST3138,65,F,Seattle,Shopping,Investments,99760.0,PhD,Engineer
+CUST3139,35,F,Chicago,Travel,Digital Banking,48882.0,Master’s,Engineer
+CUST3140,30,M,Los Angeles,Finance,Insurance,32744.0,Graduate,Finance Analyst
+CUST3141,56,F,New York,Streaming,Digital Banking,67495.0,Master’s,Finance Analyst
+CUST3142,60,F,Seattle,Dining,Investments,142525.0,MBA,Engineer
+CUST3143,41,F,Chicago,Gaming,Discounts,132085.0,MBA,Engineer
+CUST3144,63,M,Los Angeles,Shopping,Discounts,95268.0,Master’s,Consultant
+CUST3145,52,M,Los Angeles,Finance,Insurance,50373.0,MBA,HR Manager
+CUST3146,33,M,Los Angeles,Finance,Discounts,164587.0,PhD,HR Manager
+CUST3147,62,F,Seattle,Travel,Investments,188517.0,Master’s,Consultant
+CUST3148,51,F,San Francisco,Dining,Subscriptions,85895.0,MBA,HR Manager
+CUST3149,62,M,Seattle,Shopping,Digital Banking,191198.0,Master’s,HR Manager
+CUST3150,64,F,Los Angeles,Shopping,Discounts,98508.0,Master’s,Finance Analyst
+CUST3151,44,M,Miami,Finance,Insurance,145768.0,Graduate,Engineer
+CUST3152,54,M,Austin,Tech,Discounts,177539.0,Master’s,Consultant
+CUST3153,34,F,Austin,Dining,Subscriptions,143250.0,MBA,Engineer
+CUST3154,24,M,New York,Dining,Digital Banking,102847.0,Master’s,Finance Analyst
+CUST3155,33,F,Chicago,Streaming,Insurance,127124.0,PhD,HR Manager
+CUST3156,50,M,Chicago,Tech,Discounts,142706.0,Master’s,Consultant
+CUST3157,48,M,Austin,Gaming,Subscriptions,74421.0,PhD,HR Manager
+CUST3158,25,M,Los Angeles,Shopping,Subscriptions,175026.0,Graduate,Consultant
+CUST3159,56,F,Seattle,Dining,Discounts,133268.0,Graduate,Consultant
+CUST3160,54,M,Austin,Finance,Insurance,160463.0,Master’s,Engineer
+CUST3161,58,F,Los Angeles,Gaming,Insurance,88082.0,PhD,Finance Analyst
+CUST3162,57,M,Seattle,Travel,Discounts,153994.0,MBA,Engineer
+CUST3163,61,F,Seattle,Finance,Insurance,87045.0,Master’s,Marketing Manager
+CUST3164,58,M,Seattle,Tech,Investments,128372.0,Master’s,Consultant
+CUST3165,34,F,Los Angeles,Streaming,Digital Banking,198841.0,Graduate,Consultant
+CUST3166,53,M,Los Angeles,Streaming,Investments,30672.0,PhD,Consultant
+CUST3167,48,M,New York,Tech,Digital Banking,152478.0,PhD,Finance Analyst
+CUST3168,39,F,Seattle,Streaming,Subscriptions,181138.0,MBA,Marketing Manager
+CUST3169,64,M,Austin,Streaming,Investments,93787.0,MBA,Consultant
+CUST3170,58,M,Los Angeles,Tech,Digital Banking,92652.0,PhD,Engineer
+CUST3171,44,F,Miami,Gaming,Digital Banking,59042.0,MBA,Finance Analyst
+CUST3172,62,M,Los Angeles,Dining,Subscriptions,147506.0,PhD,Engineer
+CUST3173,42,M,San Francisco,Finance,Investments,193296.0,MBA,Consultant
+CUST3174,36,F,Miami,Finance,Insurance,192680.0,Master’s,Marketing Manager
+CUST3175,19,M,New York,Travel,Insurance,127776.0,Graduate,HR Manager
+CUST3176,54,M,New York,Streaming,Subscriptions,114424.0,Graduate,Marketing Manager
+CUST3177,30,F,New York,Tech,Subscriptions,196906.0,Graduate,Engineer
+CUST3178,34,M,San Francisco,Gaming,Insurance,51277.0,MBA,HR Manager
+CUST3179,53,F,Los Angeles,Dining,Digital Banking,184472.0,Master’s,Marketing Manager
+CUST3180,62,F,Seattle,Shopping,Digital Banking,75084.0,Graduate,Finance Analyst
+CUST3181,33,M,San Francisco,Finance,Digital Banking,141527.0,Master’s,Marketing Manager
+CUST3182,45,F,Miami,Travel,Discounts,78088.0,MBA,Engineer
+CUST3183,36,M,Seattle,Travel,Investments,50922.0,PhD,Engineer
+CUST3184,33,M,Los Angeles,Shopping,Discounts,146046.0,MBA,Finance Analyst
+CUST3185,64,M,San Francisco,Dining,Insurance,32875.0,MBA,HR Manager
+CUST3186,35,M,Los Angeles,Shopping,Discounts,34647.0,Graduate,Finance Analyst
+CUST3187,38,M,Los Angeles,Tech,Digital Banking,197915.0,Graduate,Consultant
+CUST3188,20,M,Chicago,Dining,Insurance,79204.0,PhD,Marketing Manager
+CUST3189,44,M,Seattle,Dining,Investments,98863.0,Graduate,Finance Analyst
+CUST3190,63,F,New York,Finance,Discounts,31128.0,MBA,Consultant
+CUST3191,36,M,Los Angeles,Tech,Discounts,81750.0,Master’s,HR Manager
+CUST3192,38,M,San Francisco,Dining,Investments,109665.0,Master’s,Marketing Manager
+CUST3193,30,M,Miami,Streaming,Investments,167668.0,Master’s,Finance Analyst
+CUST3194,49,M,Miami,Finance,Discounts,45493.0,PhD,HR Manager
+CUST3195,60,M,Miami,Travel,Discounts,37245.0,PhD,Consultant
+CUST3196,19,M,New York,Streaming,Discounts,55416.0,Master’s,HR Manager
+CUST3197,65,M,Miami,Gaming,Insurance,101720.0,PhD,HR Manager
+CUST3198,27,F,Seattle,Shopping,Investments,155175.0,Master’s,Finance Analyst
+CUST3199,59,F,Seattle,Streaming,Investments,102841.0,Master’s,Consultant
+CUST3200,35,F,Miami,Dining,Insurance,65598.0,MBA,Marketing Manager
+CUST3201,56,F,Miami,Finance,Digital Banking,130260.0,PhD,Marketing Manager
+CUST3202,48,F,Miami,Gaming,Subscriptions,32796.0,PhD,Engineer
+CUST3203,23,M,New York,Streaming,Investments,199366.0,Graduate,Consultant
+CUST3204,48,F,Seattle,Travel,Digital Banking,38619.0,Graduate,HR Manager
+CUST3205,19,M,Seattle,Gaming,Insurance,38322.0,MBA,Engineer
+CUST3206,54,F,Chicago,Travel,Discounts,112988.0,MBA,Marketing Manager
+CUST3207,55,F,Miami,Finance,Digital Banking,169934.0,PhD,Marketing Manager
+CUST3208,59,M,New York,Gaming,Digital Banking,151733.0,Graduate,Consultant
+CUST3209,58,F,New York,Dining,Discounts,142021.0,MBA,Marketing Manager
+CUST3210,35,M,Miami,Travel,Discounts,85834.0,PhD,Marketing Manager
+CUST3211,62,F,Miami,Gaming,Digital Banking,164267.0,PhD,Marketing Manager
+CUST3212,20,F,San Francisco,Shopping,Subscriptions,102183.0,MBA,Marketing Manager
+CUST3213,65,M,New York,Finance,Investments,66521.0,MBA,Marketing Manager
+CUST3214,27,M,Chicago,Shopping,Discounts,173504.0,PhD,Consultant
+CUST3215,50,M,Seattle,Dining,Subscriptions,190505.0,Master’s,Marketing Manager
+CUST3216,27,F,Seattle,Tech,Insurance,49064.0,Master’s,Marketing Manager
+CUST3217,30,F,Miami,Travel,Discounts,32809.0,PhD,Consultant
+CUST3218,65,F,Chicago,Shopping,Digital Banking,71674.0,PhD,Marketing Manager
+CUST3219,54,M,Austin,Tech,Subscriptions,51936.0,PhD,HR Manager
+CUST3220,47,F,New York,Travel,Discounts,102221.0,PhD,Consultant
+CUST3221,34,F,Austin,Travel,Digital Banking,186463.0,Graduate,Marketing Manager
+CUST3222,47,F,Austin,Shopping,Digital Banking,53095.0,PhD,Finance Analyst
+CUST3223,35,M,Los Angeles,Dining,Discounts,172513.0,PhD,Consultant
+CUST3224,19,F,Chicago,Streaming,Digital Banking,115507.0,PhD,Marketing Manager
+CUST3225,27,M,Chicago,Finance,Investments,154626.0,PhD,Finance Analyst
+CUST3226,35,M,Chicago,Dining,Insurance,184720.0,Graduate,HR Manager
+CUST3227,43,F,New York,Dining,Subscriptions,130563.0,Master’s,Marketing Manager
+CUST3228,45,M,New York,Tech,Digital Banking,77206.0,PhD,HR Manager
+CUST3229,31,M,Seattle,Tech,Digital Banking,195986.0,Master’s,HR Manager
+CUST3230,52,F,Chicago,Gaming,Subscriptions,183527.0,PhD,Marketing Manager
+CUST3231,23,M,San Francisco,Streaming,Discounts,157220.0,MBA,Marketing Manager
+CUST3232,20,M,Chicago,Streaming,Digital Banking,131836.0,PhD,Consultant
+CUST3233,58,F,Austin,Tech,Digital Banking,67541.0,MBA,HR Manager
+CUST3234,36,M,New York,Shopping,Insurance,49746.0,Graduate,Consultant
+CUST3235,29,F,Los Angeles,Dining,Investments,91363.0,Master’s,HR Manager
+CUST3236,22,M,San Francisco,Finance,Subscriptions,44933.0,MBA,Finance Analyst
+CUST3237,52,F,New York,Streaming,Investments,129030.0,Graduate,Engineer
+CUST3238,31,M,Los Angeles,Tech,Digital Banking,81419.0,Graduate,HR Manager
+CUST3239,52,F,New York,Travel,Insurance,159880.0,Graduate,Engineer
+CUST3240,33,F,San Francisco,Tech,Discounts,177482.0,PhD,Consultant
+CUST3241,51,F,New York,Streaming,Insurance,97483.0,PhD,Consultant
+CUST3242,52,M,Los Angeles,Tech,Discounts,134423.0,PhD,Consultant
+CUST3243,58,M,Seattle,Streaming,Insurance,131847.0,Master’s,Marketing Manager
+CUST3244,55,F,Los Angeles,Gaming,Discounts,47329.0,Graduate,Finance Analyst
+CUST3245,27,F,Chicago,Gaming,Insurance,176751.0,Master’s,Finance Analyst
+CUST3246,23,F,Austin,Streaming,Insurance,123639.0,Master’s,Engineer
+CUST3247,27,M,Austin,Shopping,Subscriptions,161063.0,PhD,Engineer
+CUST3248,20,F,Chicago,Dining,Digital Banking,171945.0,Graduate,Finance Analyst
+CUST3249,43,M,Chicago,Dining,Insurance,51192.0,Graduate,Engineer
+CUST3250,35,M,San Francisco,Dining,Insurance,110001.0,Master’s,Marketing Manager
+CUST3251,38,M,Chicago,Finance,Insurance,95961.0,MBA,Finance Analyst
+CUST3252,63,F,Los Angeles,Tech,Digital Banking,178049.0,Graduate,Engineer
+CUST3253,44,F,Los Angeles,Finance,Investments,43428.0,Graduate,Marketing Manager
+CUST3254,21,M,Miami,Travel,Digital Banking,132707.0,Graduate,Finance Analyst
+CUST3255,58,M,Chicago,Gaming,Digital Banking,197461.0,PhD,Marketing Manager
+CUST3256,60,M,San Francisco,Gaming,Digital Banking,135745.0,Master’s,HR Manager
+CUST3257,39,M,Austin,Dining,Insurance,146331.0,Graduate,Consultant
+CUST3258,28,M,Chicago,Streaming,Subscriptions,163579.0,MBA,HR Manager
+CUST3259,21,F,Miami,Gaming,Digital Banking,139203.0,PhD,Consultant
+CUST3260,50,F,Chicago,Shopping,Insurance,110274.0,MBA,Engineer
+CUST3261,35,F,San Francisco,Shopping,Investments,68463.0,MBA,Marketing Manager
+CUST3262,33,F,San Francisco,Streaming,Discounts,177093.0,Master’s,HR Manager
+CUST3263,53,M,Seattle,Shopping,Investments,72784.0,Master’s,Consultant
+CUST3264,41,F,Los Angeles,Finance,Investments,57423.0,Master’s,Finance Analyst
+CUST3265,33,M,Austin,Tech,Insurance,67882.0,MBA,HR Manager
+CUST3266,27,M,Seattle,Tech,Discounts,157859.0,PhD,Finance Analyst
+CUST3267,50,F,Austin,Finance,Digital Banking,142081.0,PhD,HR Manager
+CUST3268,46,M,Chicago,Tech,Digital Banking,70934.0,Master’s,Consultant
+CUST3269,50,F,New York,Tech,Investments,153236.0,Graduate,Marketing Manager
+CUST3270,52,F,Los Angeles,Streaming,Investments,69944.0,PhD,Marketing Manager
+CUST3271,57,M,San Francisco,Shopping,Insurance,60125.0,Graduate,Consultant
+CUST3272,64,M,Chicago,Travel,Digital Banking,160435.0,Graduate,Consultant
+CUST3273,44,F,Seattle,Dining,Investments,52790.0,Master’s,Consultant
+CUST3274,47,M,Austin,Finance,Discounts,93501.0,PhD,HR Manager
+CUST3275,30,F,Los Angeles,Streaming,Subscriptions,179684.0,Master’s,Marketing Manager
+CUST3276,61,M,San Francisco,Travel,Investments,72058.0,PhD,Finance Analyst
+CUST3277,65,F,Austin,Streaming,Insurance,156779.0,Graduate,Consultant
+CUST3278,21,F,Los Angeles,Streaming,Discounts,43071.0,PhD,Engineer
+CUST3279,24,F,Austin,Dining,Subscriptions,77688.0,Master’s,Engineer
+CUST3280,64,M,Chicago,Tech,Subscriptions,170614.0,Graduate,HR Manager
+CUST3281,54,M,Austin,Gaming,Insurance,91673.0,MBA,Finance Analyst
+CUST3282,31,F,Chicago,Streaming,Investments,45753.0,PhD,HR Manager
+CUST3283,38,M,Chicago,Streaming,Digital Banking,116013.0,MBA,HR Manager
+CUST3284,63,M,Chicago,Dining,Insurance,124376.0,PhD,Engineer
+CUST3285,23,M,Austin,Finance,Subscriptions,196536.0,Master’s,Engineer
+CUST3286,18,M,Seattle,Travel,Insurance,46080.0,Master’s,Finance Analyst
+CUST3287,34,M,Seattle,Streaming,Investments,98957.0,Graduate,Marketing Manager
+CUST3288,42,F,Los Angeles,Gaming,Investments,139738.0,MBA,Consultant
+CUST3289,37,F,Seattle,Finance,Insurance,165288.0,Master’s,Finance Analyst
+CUST3290,40,F,Chicago,Travel,Investments,44709.0,Master’s,HR Manager
+CUST3291,41,M,San Francisco,Dining,Discounts,131867.0,Master’s,HR Manager
+CUST3292,21,M,San Francisco,Streaming,Digital Banking,182697.0,Master’s,Consultant
+CUST3293,32,M,Seattle,Dining,Investments,93566.0,MBA,Engineer
+CUST3294,42,M,Austin,Tech,Discounts,153620.0,Graduate,Consultant
+CUST3295,32,F,New York,Dining,Digital Banking,51381.0,PhD,Finance Analyst
+CUST3296,34,F,Chicago,Travel,Insurance,168018.0,MBA,Engineer
+CUST3297,52,M,New York,Tech,Discounts,36619.0,Graduate,Marketing Manager
+CUST3298,37,M,Los Angeles,Tech,Subscriptions,125680.0,PhD,Marketing Manager
+CUST3299,51,M,San Francisco,Finance,Investments,136381.0,Master’s,Engineer
+CUST3300,31,F,Chicago,Finance,Discounts,58950.0,Master’s,Marketing Manager
+CUST3301,61,F,Chicago,Gaming,Investments,47988.0,Master’s,Consultant
+CUST3302,26,M,Los Angeles,Shopping,Investments,119452.0,MBA,HR Manager
+CUST3303,38,M,Chicago,Travel,Subscriptions,172808.0,MBA,Consultant
+CUST3304,34,F,San Francisco,Dining,Investments,81814.0,Master’s,Marketing Manager
+CUST3305,19,F,Austin,Gaming,Investments,126210.0,Master’s,Engineer
+CUST3306,62,F,Austin,Streaming,Subscriptions,91814.0,Graduate,Consultant
+CUST3307,51,M,San Francisco,Streaming,Investments,122679.0,MBA,Consultant
+CUST3308,38,M,Seattle,Shopping,Insurance,150129.0,Graduate,HR Manager
+CUST3309,44,M,Seattle,Finance,Discounts,134516.0,PhD,Consultant
+CUST3310,47,M,Los Angeles,Shopping,Investments,44513.0,Master’s,Finance Analyst
+CUST3311,19,F,Los Angeles,Finance,Insurance,159791.0,Graduate,Engineer
+CUST3312,57,F,San Francisco,Shopping,Insurance,125378.0,Graduate,Consultant
+CUST3313,46,F,Chicago,Travel,Insurance,153309.0,PhD,Finance Analyst
+CUST3314,20,F,Chicago,Finance,Investments,47254.0,Graduate,Finance Analyst
+CUST3315,35,M,Austin,Gaming,Digital Banking,107973.0,MBA,Marketing Manager
+CUST3316,36,F,Los Angeles,Dining,Subscriptions,137811.0,Graduate,Finance Analyst
+CUST3317,18,F,New York,Travel,Insurance,130506.0,Graduate,HR Manager
+CUST3318,47,F,Los Angeles,Tech,Subscriptions,83923.0,PhD,Engineer
+CUST3319,22,F,Chicago,Travel,Subscriptions,51630.0,Master’s,Marketing Manager
+CUST3320,47,M,Chicago,Gaming,Subscriptions,131625.0,Graduate,HR Manager
+CUST3321,36,F,Miami,Dining,Investments,158245.0,PhD,Engineer
+CUST3322,32,M,Miami,Gaming,Investments,88826.0,PhD,Marketing Manager
+CUST3323,57,M,Austin,Tech,Subscriptions,75994.0,Master’s,Consultant
+CUST3324,47,F,Austin,Finance,Subscriptions,121915.0,MBA,Engineer
+CUST3325,56,F,Chicago,Finance,Insurance,184190.0,MBA,Marketing Manager
+CUST3326,24,F,Los Angeles,Dining,Investments,68963.0,PhD,HR Manager
+CUST3327,49,F,Los Angeles,Tech,Investments,71116.0,PhD,Marketing Manager
+CUST3328,18,F,Austin,Gaming,Subscriptions,133283.0,Master’s,Finance Analyst
+CUST3329,35,M,San Francisco,Gaming,Digital Banking,190588.0,PhD,Consultant
+CUST3330,40,M,Chicago,Shopping,Investments,43710.0,MBA,Marketing Manager
+CUST3331,22,F,New York,Tech,Insurance,57771.0,MBA,HR Manager
+CUST3332,65,M,Chicago,Dining,Insurance,107040.0,Master’s,Engineer
+CUST3333,63,M,San Francisco,Streaming,Insurance,41482.0,Graduate,Engineer
+CUST3334,64,M,Miami,Streaming,Insurance,86759.0,PhD,HR Manager
+CUST3335,34,F,San Francisco,Streaming,Discounts,97927.0,MBA,Consultant
+CUST3336,42,M,Miami,Shopping,Digital Banking,130765.0,Graduate,Marketing Manager
+CUST3337,31,F,San Francisco,Dining,Insurance,173330.0,MBA,Finance Analyst
+CUST3338,42,M,Austin,Finance,Subscriptions,122508.0,PhD,Marketing Manager
+CUST3339,36,M,Austin,Dining,Subscriptions,56666.0,Master’s,Marketing Manager
+CUST3340,53,F,Austin,Streaming,Insurance,126601.0,PhD,Finance Analyst
+CUST3341,53,M,Austin,Finance,Insurance,119674.0,PhD,HR Manager
+CUST3342,33,M,Chicago,Tech,Investments,75854.0,Master’s,Finance Analyst
+CUST3343,62,F,Chicago,Travel,Insurance,154094.0,Graduate,Finance Analyst
+CUST3344,18,F,Austin,Tech,Insurance,52256.0,Graduate,Engineer
+CUST3345,53,M,Miami,Shopping,Digital Banking,81054.0,Graduate,Finance Analyst
+CUST3346,58,M,San Francisco,Dining,Subscriptions,195793.0,PhD,Finance Analyst
+CUST3347,44,F,Los Angeles,Dining,Investments,82849.0,MBA,Engineer
+CUST3348,61,M,San Francisco,Travel,Insurance,193940.0,MBA,Engineer
+CUST3349,37,F,San Francisco,Tech,Subscriptions,30762.0,PhD,Consultant
+CUST3350,41,F,San Francisco,Finance,Subscriptions,180927.0,Master’s,Consultant
+CUST3351,52,F,Chicago,Dining,Subscriptions,179859.0,Graduate,Consultant
+CUST3352,47,M,New York,Streaming,Subscriptions,138958.0,MBA,Engineer
+CUST3353,48,M,Los Angeles,Gaming,Investments,109505.0,Master’s,Engineer
+CUST3354,42,M,Austin,Dining,Investments,146425.0,PhD,Engineer
+CUST3355,51,M,Los Angeles,Shopping,Investments,157575.0,PhD,HR Manager
+CUST3356,32,F,Seattle,Gaming,Subscriptions,140646.0,MBA,Finance Analyst
+CUST3357,54,M,Chicago,Shopping,Subscriptions,132002.0,MBA,Finance Analyst
+CUST3358,57,M,Chicago,Streaming,Digital Banking,45886.0,Master’s,HR Manager
+CUST3359,40,M,San Francisco,Dining,Discounts,45736.0,MBA,HR Manager
+CUST3360,29,F,Los Angeles,Finance,Subscriptions,51626.0,Graduate,Consultant
+CUST3361,23,M,Los Angeles,Shopping,Investments,75420.0,Graduate,Finance Analyst
+CUST3362,25,M,Austin,Gaming,Digital Banking,151722.0,Master’s,HR Manager
+CUST3363,46,M,Austin,Tech,Insurance,137670.0,MBA,Engineer
+CUST3364,43,F,Austin,Shopping,Insurance,173254.0,PhD,Finance Analyst
+CUST3365,61,M,New York,Shopping,Investments,134960.0,MBA,Engineer
+CUST3366,27,F,Miami,Dining,Discounts,134587.0,MBA,Marketing Manager
+CUST3367,53,M,Los Angeles,Shopping,Subscriptions,171632.0,Master’s,Consultant
+CUST3368,39,M,Seattle,Travel,Insurance,33431.0,Graduate,HR Manager
+CUST3369,56,M,Chicago,Gaming,Digital Banking,196839.0,MBA,HR Manager
+CUST3370,34,F,San Francisco,Tech,Digital Banking,73289.0,MBA,Marketing Manager
+CUST3371,27,F,Seattle,Travel,Digital Banking,128284.0,Master’s,Engineer
+CUST3372,32,F,San Francisco,Travel,Digital Banking,110560.0,Master’s,Consultant
+CUST3373,34,M,New York,Travel,Subscriptions,197455.0,Graduate,Consultant
+CUST3374,65,M,Miami,Travel,Discounts,84604.0,PhD,HR Manager
+CUST3375,65,M,Chicago,Gaming,Investments,48385.0,Graduate,Marketing Manager
+CUST3376,54,F,Miami,Finance,Subscriptions,189079.0,Master’s,HR Manager
+CUST3377,65,F,San Francisco,Streaming,Digital Banking,175926.0,MBA,Marketing Manager
+CUST3378,39,F,Miami,Dining,Digital Banking,93381.0,Master’s,Consultant
+CUST3379,30,M,Chicago,Streaming,Discounts,43524.0,Master’s,Finance Analyst
+CUST3380,30,F,Austin,Travel,Discounts,127915.0,Graduate,Engineer
+CUST3381,21,F,Chicago,Shopping,Digital Banking,173323.0,PhD,Consultant
+CUST3382,49,M,New York,Gaming,Discounts,191546.0,PhD,Engineer
+CUST3383,31,M,Austin,Tech,Discounts,97602.0,Graduate,Finance Analyst
+CUST3384,33,F,Los Angeles,Dining,Digital Banking,147921.0,MBA,HR Manager
+CUST3385,29,F,New York,Shopping,Insurance,84802.0,MBA,Marketing Manager
+CUST3386,44,F,San Francisco,Tech,Digital Banking,66384.0,MBA,Finance Analyst
+CUST3387,63,M,Austin,Gaming,Subscriptions,197629.0,PhD,HR Manager
+CUST3388,28,M,San Francisco,Finance,Investments,182111.0,Master’s,Marketing Manager
+CUST3389,65,F,Seattle,Finance,Digital Banking,86978.0,PhD,Marketing Manager
+CUST3390,31,F,Seattle,Gaming,Investments,192432.0,MBA,HR Manager
+CUST3391,36,M,Austin,Gaming,Discounts,181165.0,PhD,Finance Analyst
+CUST3392,24,F,Los Angeles,Shopping,Subscriptions,148680.0,Graduate,Engineer
+CUST3393,60,M,New York,Shopping,Subscriptions,45429.0,MBA,Marketing Manager
+CUST3394,60,F,Seattle,Streaming,Insurance,57474.0,Master’s,Consultant
+CUST3395,64,F,Chicago,Streaming,Subscriptions,138486.0,Master’s,HR Manager
+CUST3396,63,F,Chicago,Dining,Digital Banking,73976.0,Graduate,HR Manager
+CUST3397,51,M,Seattle,Gaming,Discounts,46524.0,PhD,Finance Analyst
+CUST3398,46,F,New York,Finance,Digital Banking,113319.0,MBA,Finance Analyst
+CUST3399,29,M,New York,Shopping,Discounts,100927.0,Master’s,Consultant
+CUST3400,43,M,Seattle,Streaming,Insurance,36422.0,PhD,Consultant
+CUST3401,23,M,Los Angeles,Gaming,Investments,72942.0,Graduate,Engineer
+CUST3402,33,M,San Francisco,Shopping,Insurance,63346.0,Graduate,Engineer
+CUST3403,35,F,Miami,Dining,Subscriptions,114661.0,Master’s,HR Manager
+CUST3404,50,F,New York,Travel,Discounts,90096.0,Master’s,Finance Analyst
+CUST3405,62,F,Seattle,Shopping,Discounts,157726.0,MBA,Engineer
+CUST3406,53,M,New York,Finance,Insurance,128922.0,PhD,Finance Analyst
+CUST3407,49,F,Chicago,Travel,Subscriptions,51159.0,MBA,Finance Analyst
+CUST3408,49,F,Seattle,Gaming,Digital Banking,85300.0,MBA,HR Manager
+CUST3409,49,F,San Francisco,Gaming,Discounts,171255.0,Graduate,Finance Analyst
+CUST3410,55,F,Miami,Streaming,Insurance,64919.0,Graduate,HR Manager
+CUST3411,23,F,Seattle,Travel,Discounts,116269.0,Master’s,Engineer
+CUST3412,52,F,New York,Streaming,Insurance,47228.0,MBA,Consultant
+CUST3413,48,M,Miami,Shopping,Discounts,159026.0,PhD,HR Manager
+CUST3414,41,M,Chicago,Streaming,Discounts,93374.0,MBA,HR Manager
+CUST3415,22,F,Miami,Travel,Subscriptions,197237.0,Master’s,HR Manager
+CUST3416,28,M,Chicago,Gaming,Digital Banking,121229.0,MBA,Finance Analyst
+CUST3417,45,F,Los Angeles,Tech,Digital Banking,179083.0,Master’s,Marketing Manager
+CUST3418,32,F,Seattle,Travel,Investments,190103.0,Graduate,Finance Analyst
+CUST3419,43,M,Miami,Finance,Insurance,124124.0,MBA,Marketing Manager
+CUST3420,31,M,Austin,Streaming,Subscriptions,150243.0,Master’s,Marketing Manager
+CUST3421,24,F,Seattle,Travel,Subscriptions,161949.0,Master’s,HR Manager
+CUST3422,48,M,Seattle,Streaming,Subscriptions,149072.0,MBA,Consultant
+CUST3423,33,F,Chicago,Finance,Investments,54645.0,Master’s,Consultant
+CUST3424,35,M,San Francisco,Shopping,Insurance,43994.0,PhD,Consultant
+CUST3425,59,F,San Francisco,Streaming,Discounts,153303.0,Master’s,Engineer
+CUST3426,59,M,Austin,Gaming,Digital Banking,45715.0,Master’s,Marketing Manager
+CUST3427,63,F,Miami,Shopping,Discounts,157445.0,MBA,Consultant
+CUST3428,57,M,Chicago,Streaming,Discounts,147720.0,Graduate,Engineer
+CUST3429,20,M,San Francisco,Gaming,Investments,109470.0,Master’s,HR Manager
+CUST3430,43,M,Miami,Tech,Discounts,86083.0,Master’s,Marketing Manager
+CUST3431,20,F,Chicago,Finance,Discounts,147245.0,Master’s,Engineer
+CUST3432,39,M,Austin,Gaming,Subscriptions,165223.0,Graduate,Engineer
+CUST3433,21,M,Miami,Finance,Insurance,37861.0,MBA,Marketing Manager
+CUST3434,49,F,Miami,Streaming,Digital Banking,144361.0,MBA,Consultant
+CUST3435,33,F,Miami,Streaming,Insurance,131982.0,Graduate,Engineer
+CUST3436,40,F,Los Angeles,Gaming,Subscriptions,36144.0,Graduate,HR Manager
+CUST3437,56,M,San Francisco,Dining,Subscriptions,109529.0,Graduate,Consultant
+CUST3438,30,F,Austin,Tech,Subscriptions,117759.0,MBA,Finance Analyst
+CUST3439,31,M,Miami,Travel,Insurance,50995.0,MBA,Marketing Manager
+CUST3440,41,F,Miami,Shopping,Investments,142671.0,Graduate,Engineer
+CUST3441,50,M,New York,Dining,Insurance,127289.0,MBA,Consultant
+CUST3442,51,M,San Francisco,Streaming,Digital Banking,92474.0,PhD,Marketing Manager
+CUST3443,58,M,Austin,Finance,Digital Banking,168917.0,PhD,Engineer
+CUST3444,19,F,San Francisco,Shopping,Insurance,111296.0,MBA,Finance Analyst
+CUST3445,31,M,New York,Dining,Digital Banking,150844.0,PhD,Consultant
+CUST3446,59,M,Chicago,Travel,Subscriptions,80603.0,PhD,Marketing Manager
+CUST3447,32,M,Austin,Shopping,Insurance,88803.0,Graduate,HR Manager
+CUST3448,41,F,Austin,Shopping,Insurance,166833.0,MBA,Engineer
+CUST3449,50,F,Austin,Travel,Investments,38659.0,Master’s,Finance Analyst
+CUST3450,45,F,Chicago,Dining,Investments,94889.0,MBA,HR Manager
+CUST3451,40,F,San Francisco,Streaming,Discounts,84178.0,Master’s,Marketing Manager
+CUST3452,43,M,San Francisco,Finance,Subscriptions,42220.0,Graduate,Consultant
+CUST3453,47,F,Seattle,Finance,Investments,59089.0,PhD,Marketing Manager
+CUST3454,60,F,New York,Streaming,Digital Banking,178163.0,Graduate,Marketing Manager
+CUST3455,20,F,New York,Finance,Digital Banking,174411.0,PhD,Finance Analyst
+CUST3456,56,F,Miami,Tech,Digital Banking,97526.0,MBA,HR Manager
+CUST3457,55,M,Los Angeles,Shopping,Discounts,191515.0,Graduate,HR Manager
+CUST3458,28,M,San Francisco,Gaming,Insurance,136946.0,PhD,HR Manager
+CUST3459,27,F,Miami,Travel,Discounts,93320.0,PhD,Engineer
+CUST3460,44,M,New York,Gaming,Subscriptions,164338.0,Master’s,HR Manager
+CUST3461,25,F,Austin,Gaming,Subscriptions,176766.0,Master’s,Engineer
+CUST3462,48,F,Chicago,Finance,Digital Banking,142136.0,Graduate,Engineer
+CUST3463,39,F,Austin,Shopping,Subscriptions,108128.0,PhD,Engineer
+CUST3464,32,M,Chicago,Streaming,Subscriptions,153413.0,Graduate,HR Manager
+CUST3465,58,M,Los Angeles,Shopping,Digital Banking,125029.0,PhD,Finance Analyst
+CUST3466,36,M,Austin,Gaming,Discounts,43131.0,Master’s,Consultant
+CUST3467,34,F,Los Angeles,Shopping,Investments,151959.0,Graduate,Consultant
+CUST3468,52,M,San Francisco,Tech,Insurance,177349.0,Graduate,Marketing Manager
+CUST3469,55,F,Los Angeles,Gaming,Digital Banking,100169.0,Graduate,Finance Analyst
+CUST3470,51,F,New York,Finance,Investments,165060.0,PhD,Finance Analyst
+CUST3471,26,F,New York,Dining,Digital Banking,195875.0,MBA,Consultant
+CUST3472,29,F,Los Angeles,Travel,Insurance,39310.0,Graduate,HR Manager
+CUST3473,33,F,San Francisco,Travel,Subscriptions,76765.0,PhD,Consultant
+CUST3474,19,M,New York,Dining,Investments,141130.0,Master’s,Marketing Manager
+CUST3475,41,F,New York,Travel,Digital Banking,111526.0,Master’s,Engineer
+CUST3476,59,F,Chicago,Travel,Discounts,143578.0,MBA,HR Manager
+CUST3477,46,M,Miami,Finance,Insurance,183757.0,Master’s,Consultant
+CUST3478,52,F,Miami,Finance,Digital Banking,89352.0,Graduate,Marketing Manager
+CUST3479,63,F,San Francisco,Finance,Digital Banking,164779.0,PhD,HR Manager
+CUST3480,65,M,New York,Tech,Digital Banking,63970.0,PhD,Finance Analyst
+CUST3481,28,F,Miami,Finance,Digital Banking,94788.0,MBA,Marketing Manager
+CUST3482,59,M,San Francisco,Travel,Discounts,103228.0,PhD,Engineer
+CUST3483,26,M,Seattle,Gaming,Investments,180588.0,PhD,Finance Analyst
+CUST3484,59,M,Seattle,Dining,Insurance,180766.0,MBA,HR Manager
+CUST3485,43,M,Seattle,Streaming,Subscriptions,116791.0,PhD,Consultant
+CUST3486,44,F,San Francisco,Tech,Discounts,86104.0,PhD,Engineer
+CUST3487,36,M,Seattle,Travel,Subscriptions,117536.0,Master’s,Engineer
+CUST3488,18,F,Miami,Streaming,Digital Banking,137477.0,PhD,Finance Analyst
+CUST3489,59,F,Austin,Streaming,Digital Banking,196417.0,MBA,Marketing Manager
+CUST3490,30,F,Los Angeles,Dining,Subscriptions,142885.0,Graduate,Finance Analyst
+CUST3491,28,M,Seattle,Gaming,Investments,55103.0,MBA,Consultant
+CUST3492,64,F,Seattle,Travel,Insurance,110368.0,PhD,Consultant
+CUST3493,49,F,Seattle,Streaming,Subscriptions,97300.0,Master’s,Finance Analyst
+CUST3494,41,F,Chicago,Shopping,Digital Banking,64546.0,Graduate,HR Manager
+CUST3495,51,M,Chicago,Dining,Subscriptions,155400.0,MBA,Consultant
+CUST3496,43,F,New York,Travel,Discounts,158920.0,PhD,Consultant
+CUST3497,46,M,New York,Tech,Insurance,150991.0,PhD,Consultant
+CUST3498,62,F,San Francisco,Tech,Insurance,42909.0,Graduate,HR Manager
+CUST3499,42,M,Austin,Gaming,Discounts,170643.0,Master’s,Marketing Manager
+CUST3500,43,F,New York,Shopping,Digital Banking,70886.0,Master’s,Finance Analyst
+CUST3501,29,F,Seattle,Finance,Investments,186315.0,Master’s,Marketing Manager
+CUST3502,58,M,San Francisco,Finance,Digital Banking,165249.0,Graduate,HR Manager
+CUST3503,41,M,San Francisco,Travel,Digital Banking,38238.0,MBA,Engineer
+CUST3504,19,M,Seattle,Dining,Investments,190171.0,PhD,HR Manager
+CUST3505,18,M,San Francisco,Tech,Subscriptions,32449.0,Graduate,HR Manager
+CUST3506,19,M,Los Angeles,Streaming,Investments,88191.0,Master’s,Finance Analyst
+CUST3507,31,F,Austin,Shopping,Discounts,98209.0,Graduate,HR Manager
+CUST3508,45,F,Miami,Finance,Insurance,184446.0,PhD,Finance Analyst
+CUST3509,47,M,New York,Finance,Digital Banking,173840.0,Graduate,Consultant
+CUST3510,59,F,Seattle,Finance,Insurance,69901.0,MBA,HR Manager
+CUST3511,59,M,San Francisco,Shopping,Digital Banking,67567.0,Master’s,Marketing Manager
+CUST3512,28,M,San Francisco,Travel,Discounts,76927.0,PhD,Engineer
+CUST3513,41,F,Austin,Streaming,Insurance,108322.0,MBA,HR Manager
+CUST3514,36,M,San Francisco,Tech,Digital Banking,44098.0,PhD,Consultant
+CUST3515,61,F,New York,Travel,Investments,86387.0,Master’s,HR Manager
+CUST3516,39,F,Miami,Travel,Digital Banking,93373.0,PhD,HR Manager
+CUST3517,20,M,Austin,Dining,Insurance,100963.0,Graduate,Engineer
+CUST3518,65,M,New York,Travel,Subscriptions,135289.0,PhD,Finance Analyst
+CUST3519,65,F,Austin,Tech,Insurance,132902.0,PhD,Engineer
+CUST3520,25,F,Seattle,Streaming,Investments,199943.0,Graduate,Marketing Manager
+CUST3521,24,F,San Francisco,Shopping,Discounts,60014.0,Graduate,Finance Analyst
+CUST3522,19,M,Miami,Gaming,Discounts,70376.0,Master’s,Engineer
+CUST3523,48,F,Los Angeles,Tech,Digital Banking,33038.0,Graduate,Finance Analyst
+CUST3524,30,M,Los Angeles,Gaming,Subscriptions,37443.0,Master’s,Engineer
+CUST3525,59,F,Chicago,Tech,Digital Banking,73663.0,Master’s,Marketing Manager
+CUST3526,47,F,San Francisco,Streaming,Discounts,129818.0,MBA,Engineer
+CUST3527,52,F,Chicago,Dining,Insurance,108300.0,Graduate,HR Manager
+CUST3528,31,M,Chicago,Shopping,Digital Banking,129511.0,PhD,HR Manager
+CUST3529,36,F,Los Angeles,Gaming,Digital Banking,69342.0,Graduate,Engineer
+CUST3530,27,F,Austin,Finance,Subscriptions,155398.0,PhD,Consultant
+CUST3531,30,M,Seattle,Streaming,Investments,66875.0,PhD,Marketing Manager
+CUST3532,36,M,Los Angeles,Shopping,Subscriptions,64424.0,PhD,HR Manager
+CUST3533,24,M,Los Angeles,Finance,Subscriptions,51864.0,PhD,Engineer
+CUST3534,33,M,Seattle,Gaming,Subscriptions,161488.0,MBA,Finance Analyst
+CUST3535,57,F,San Francisco,Shopping,Insurance,103794.0,Graduate,Engineer
+CUST3536,27,F,Austin,Dining,Investments,167269.0,Master’s,Marketing Manager
+CUST3537,20,F,Austin,Gaming,Discounts,158541.0,PhD,Marketing Manager
+CUST3538,39,F,San Francisco,Gaming,Insurance,104544.0,MBA,Finance Analyst
+CUST3539,19,M,Seattle,Streaming,Insurance,94229.0,MBA,HR Manager
+CUST3540,21,F,Seattle,Dining,Digital Banking,32482.0,PhD,Finance Analyst
+CUST3541,53,F,Austin,Gaming,Investments,80736.0,MBA,Marketing Manager
+CUST3542,55,F,Austin,Shopping,Discounts,44967.0,PhD,HR Manager
+CUST3543,33,M,Chicago,Shopping,Subscriptions,121575.0,Master’s,Consultant
+CUST3544,24,M,Seattle,Gaming,Subscriptions,122980.0,MBA,Finance Analyst
+CUST3545,32,F,Austin,Dining,Insurance,139202.0,PhD,HR Manager
+CUST3546,45,F,Los Angeles,Shopping,Insurance,77327.0,Graduate,Consultant
+CUST3547,58,M,San Francisco,Travel,Investments,46988.0,Graduate,Marketing Manager
+CUST3548,36,F,Chicago,Shopping,Digital Banking,44460.0,Graduate,Finance Analyst
+CUST3549,40,F,Los Angeles,Streaming,Investments,69703.0,Master’s,HR Manager
+CUST3550,60,F,San Francisco,Dining,Insurance,79969.0,Master’s,HR Manager
+CUST3551,46,F,Los Angeles,Gaming,Digital Banking,123277.0,PhD,Consultant
+CUST3552,29,F,Miami,Dining,Insurance,188509.0,PhD,Consultant
+CUST3553,46,F,Miami,Travel,Insurance,72380.0,Graduate,Finance Analyst
+CUST3554,60,F,San Francisco,Travel,Subscriptions,145709.0,PhD,Consultant
+CUST3555,23,F,San Francisco,Tech,Investments,83639.0,MBA,HR Manager
+CUST3556,27,F,Seattle,Shopping,Investments,140989.0,MBA,Consultant
+CUST3557,48,F,Miami,Dining,Discounts,106037.0,PhD,Marketing Manager
+CUST3558,60,F,New York,Shopping,Investments,130458.0,Master’s,Consultant
+CUST3559,46,F,Miami,Shopping,Subscriptions,131656.0,PhD,Engineer
+CUST3560,34,M,Miami,Dining,Insurance,62863.0,MBA,Finance Analyst
+CUST3561,25,M,Austin,Finance,Investments,82781.0,Master’s,Finance Analyst
+CUST3562,29,F,Austin,Gaming,Discounts,100678.0,PhD,Consultant
+CUST3563,63,F,Miami,Dining,Subscriptions,53512.0,Graduate,Marketing Manager
+CUST3564,63,M,Chicago,Finance,Insurance,168220.0,PhD,Finance Analyst
+CUST3565,61,M,Miami,Dining,Discounts,197549.0,Graduate,HR Manager
+CUST3566,49,F,Chicago,Travel,Investments,170888.0,MBA,Marketing Manager
+CUST3567,38,M,New York,Finance,Discounts,112775.0,MBA,Consultant
+CUST3568,31,M,Los Angeles,Tech,Digital Banking,188092.0,MBA,Marketing Manager
+CUST3569,40,M,San Francisco,Streaming,Digital Banking,191660.0,PhD,Finance Analyst
+CUST3570,42,F,Chicago,Finance,Insurance,56137.0,MBA,HR Manager
+CUST3571,46,M,San Francisco,Gaming,Subscriptions,63252.0,Master’s,Finance Analyst
+CUST3572,34,F,Seattle,Gaming,Investments,145711.0,MBA,Consultant
+CUST3573,57,F,New York,Gaming,Investments,51720.0,PhD,HR Manager
+CUST3574,26,M,Los Angeles,Finance,Subscriptions,46326.0,Graduate,Consultant
+CUST3575,38,M,New York,Streaming,Investments,62346.0,Master’s,Marketing Manager
+CUST3576,61,M,Los Angeles,Tech,Digital Banking,165494.0,Master’s,Consultant
+CUST3577,44,M,Seattle,Shopping,Discounts,56170.0,Graduate,Consultant
+CUST3578,26,F,San Francisco,Tech,Subscriptions,49875.0,MBA,Engineer
+CUST3579,41,M,Los Angeles,Tech,Discounts,190296.0,Graduate,Engineer
+CUST3580,26,M,Miami,Finance,Investments,122344.0,Graduate,Finance Analyst
+CUST3581,35,M,Los Angeles,Travel,Investments,118918.0,MBA,Marketing Manager
+CUST3582,26,M,Miami,Travel,Subscriptions,133539.0,MBA,Finance Analyst
+CUST3583,23,F,Seattle,Streaming,Subscriptions,157784.0,PhD,Marketing Manager
+CUST3584,58,M,Seattle,Streaming,Insurance,192376.0,Master’s,Engineer
+CUST3585,59,M,Seattle,Dining,Investments,88496.0,Graduate,Engineer
+CUST3586,52,M,Chicago,Streaming,Discounts,68371.0,Graduate,Finance Analyst
+CUST3587,45,M,Seattle,Gaming,Insurance,72023.0,Graduate,Marketing Manager
+CUST3588,33,M,New York,Streaming,Digital Banking,90838.0,Master’s,Engineer
+CUST3589,22,F,Los Angeles,Gaming,Subscriptions,44193.0,Master’s,Consultant
+CUST3590,43,M,San Francisco,Finance,Subscriptions,185621.0,Master’s,Consultant
+CUST3591,20,F,New York,Streaming,Subscriptions,178409.0,Master’s,Consultant
+CUST3592,49,F,Austin,Shopping,Subscriptions,194539.0,Graduate,Consultant
+CUST3593,34,M,New York,Travel,Investments,131387.0,PhD,Marketing Manager
+CUST3594,50,F,Chicago,Shopping,Insurance,31248.0,PhD,Engineer
+CUST3595,22,M,New York,Gaming,Investments,180552.0,MBA,Engineer
+CUST3596,65,F,San Francisco,Travel,Insurance,114859.0,Graduate,Engineer
+CUST3597,31,M,Los Angeles,Travel,Discounts,182134.0,PhD,Engineer
+CUST3598,38,M,New York,Tech,Subscriptions,62232.0,Graduate,Marketing Manager
+CUST3599,62,F,New York,Travel,Digital Banking,109261.0,PhD,Finance Analyst
+CUST3600,32,F,New York,Streaming,Insurance,180017.0,Graduate,Consultant
+CUST3601,41,M,Seattle,Dining,Subscriptions,82460.0,MBA,HR Manager
+CUST3602,24,F,Chicago,Dining,Subscriptions,156090.0,Graduate,HR Manager
+CUST3603,49,F,Los Angeles,Travel,Investments,176554.0,PhD,Consultant
+CUST3604,51,M,San Francisco,Finance,Digital Banking,179379.0,Master’s,Consultant
+CUST3605,26,M,Los Angeles,Finance,Subscriptions,79093.0,PhD,Marketing Manager
+CUST3606,54,F,Austin,Tech,Digital Banking,136462.0,Graduate,Marketing Manager
+CUST3607,50,F,Los Angeles,Gaming,Insurance,130920.0,Master’s,Finance Analyst
+CUST3608,27,M,New York,Travel,Subscriptions,70525.0,Master’s,Consultant
+CUST3609,26,M,Los Angeles,Travel,Subscriptions,156514.0,Graduate,HR Manager
+CUST3610,53,M,Los Angeles,Shopping,Digital Banking,188856.0,PhD,Consultant
+CUST3611,54,M,Seattle,Travel,Digital Banking,49970.0,MBA,Consultant
+CUST3612,63,F,Chicago,Finance,Discounts,37261.0,Master’s,Engineer
+CUST3613,29,F,Los Angeles,Dining,Insurance,114836.0,PhD,Marketing Manager
+CUST3614,23,M,San Francisco,Streaming,Digital Banking,181058.0,MBA,HR Manager
+CUST3615,52,M,New York,Travel,Discounts,66301.0,Graduate,Consultant
+CUST3616,35,F,Austin,Shopping,Digital Banking,47622.0,Graduate,HR Manager
+CUST3617,65,M,Seattle,Streaming,Investments,155244.0,Master’s,Engineer
+CUST3618,38,F,Austin,Tech,Insurance,114194.0,MBA,Marketing Manager
+CUST3619,52,F,New York,Travel,Investments,148442.0,PhD,Finance Analyst
+CUST3620,45,M,Austin,Dining,Investments,61813.0,PhD,Engineer
+CUST3621,25,M,Austin,Streaming,Investments,48653.0,Master’s,Marketing Manager
+CUST3622,58,F,Seattle,Tech,Insurance,176910.0,MBA,Consultant
+CUST3623,50,M,Chicago,Shopping,Digital Banking,113820.0,PhD,Engineer
+CUST3624,62,F,San Francisco,Finance,Digital Banking,171460.0,MBA,Engineer
+CUST3625,47,F,Chicago,Dining,Subscriptions,98847.0,MBA,Finance Analyst
+CUST3626,54,M,Austin,Gaming,Digital Banking,55120.0,PhD,Engineer
+CUST3627,28,F,New York,Streaming,Investments,153149.0,MBA,Consultant
+CUST3628,22,M,Chicago,Travel,Digital Banking,87394.0,Master’s,Marketing Manager
+CUST3629,51,M,Los Angeles,Streaming,Digital Banking,123325.0,PhD,Marketing Manager
+CUST3630,31,F,New York,Dining,Investments,101984.0,Master’s,Marketing Manager
+CUST3631,48,F,Austin,Gaming,Discounts,71446.0,Master’s,Marketing Manager
+CUST3632,50,M,Chicago,Finance,Discounts,71668.0,Master’s,Consultant
+CUST3633,52,F,Seattle,Tech,Investments,94568.0,Master’s,Consultant
+CUST3634,60,M,Austin,Tech,Insurance,112526.0,PhD,HR Manager
+CUST3635,62,M,Los Angeles,Tech,Subscriptions,95242.0,Master’s,Engineer
+CUST3636,31,F,New York,Dining,Subscriptions,33656.0,PhD,Engineer
+CUST3637,30,F,Miami,Dining,Discounts,58217.0,PhD,Engineer
+CUST3638,18,F,New York,Gaming,Digital Banking,149593.0,MBA,HR Manager
+CUST3639,47,M,Seattle,Streaming,Discounts,73734.0,PhD,Consultant
+CUST3640,46,F,Miami,Travel,Digital Banking,89544.0,MBA,Engineer
+CUST3641,62,F,Seattle,Gaming,Discounts,53449.0,Master’s,HR Manager
+CUST3642,61,F,Miami,Dining,Investments,118783.0,MBA,Consultant
+CUST3643,23,M,Austin,Travel,Insurance,119226.0,PhD,Marketing Manager
+CUST3644,64,F,Austin,Gaming,Subscriptions,53230.0,Graduate,Consultant
+CUST3645,49,M,New York,Gaming,Insurance,177805.0,PhD,HR Manager
+CUST3646,35,M,Chicago,Travel,Subscriptions,79002.0,Master’s,HR Manager
+CUST3647,30,F,New York,Streaming,Insurance,33769.0,Master’s,Engineer
+CUST3648,41,M,Austin,Dining,Digital Banking,191118.0,Graduate,HR Manager
+CUST3649,58,F,Miami,Dining,Insurance,124604.0,MBA,HR Manager
+CUST3650,60,F,San Francisco,Dining,Digital Banking,101627.0,PhD,Marketing Manager
+CUST3651,55,F,Seattle,Finance,Insurance,196543.0,MBA,HR Manager
+CUST3652,59,M,Chicago,Travel,Subscriptions,164104.0,Graduate,HR Manager
+CUST3653,25,F,Los Angeles,Shopping,Subscriptions,84282.0,Master’s,HR Manager
+CUST3654,54,F,New York,Gaming,Insurance,102926.0,MBA,Marketing Manager
+CUST3655,46,M,Los Angeles,Shopping,Subscriptions,190654.0,Graduate,Finance Analyst
+CUST3656,21,M,New York,Shopping,Discounts,62806.0,Master’s,Finance Analyst
+CUST3657,54,F,Austin,Travel,Investments,50929.0,Master’s,Consultant
+CUST3658,19,F,Chicago,Dining,Digital Banking,188258.0,Master’s,Marketing Manager
+CUST3659,63,F,Chicago,Gaming,Discounts,181538.0,PhD,HR Manager
+CUST3660,24,M,Austin,Dining,Investments,132919.0,MBA,Finance Analyst
+CUST3661,18,F,Miami,Dining,Digital Banking,152905.0,Master’s,Finance Analyst
+CUST3662,30,M,Los Angeles,Shopping,Insurance,53745.0,Master’s,Finance Analyst
+CUST3663,43,M,Austin,Tech,Insurance,139575.0,Master’s,Marketing Manager
+CUST3664,22,M,Seattle,Streaming,Subscriptions,64863.0,Graduate,Finance Analyst
+CUST3665,22,F,Los Angeles,Tech,Digital Banking,165814.0,Master’s,Marketing Manager
+CUST3666,34,F,San Francisco,Tech,Discounts,170214.0,Graduate,Engineer
+CUST3667,34,F,Miami,Tech,Digital Banking,90905.0,Master’s,HR Manager
+CUST3668,52,F,Los Angeles,Finance,Subscriptions,96101.0,MBA,HR Manager
+CUST3669,59,M,Chicago,Shopping,Digital Banking,153354.0,Graduate,Engineer
+CUST3670,34,M,Austin,Gaming,Discounts,174988.0,PhD,Marketing Manager
+CUST3671,33,F,Seattle,Travel,Subscriptions,68380.0,PhD,Engineer
+CUST3672,28,F,Austin,Streaming,Insurance,119277.0,PhD,Finance Analyst
+CUST3673,21,M,Austin,Shopping,Discounts,186456.0,PhD,Engineer
+CUST3674,28,F,San Francisco,Dining,Digital Banking,54474.0,Graduate,Engineer
+CUST3675,31,F,Miami,Shopping,Digital Banking,159512.0,MBA,Engineer
+CUST3676,24,M,New York,Gaming,Subscriptions,179299.0,Graduate,Consultant
+CUST3677,43,M,New York,Gaming,Discounts,196483.0,Master’s,Consultant
+CUST3678,61,M,Miami,Dining,Subscriptions,150009.0,Master’s,Engineer
+CUST3679,18,F,Los Angeles,Travel,Digital Banking,87568.0,PhD,Consultant
+CUST3680,33,M,San Francisco,Tech,Subscriptions,128076.0,PhD,Marketing Manager
+CUST3681,45,M,Miami,Tech,Insurance,105057.0,Master’s,Finance Analyst
+CUST3682,24,F,New York,Gaming,Discounts,45225.0,Master’s,Consultant
+CUST3683,58,F,Chicago,Shopping,Digital Banking,137981.0,PhD,Engineer
+CUST3684,32,M,Los Angeles,Finance,Digital Banking,97667.0,MBA,Engineer
+CUST3685,59,M,Seattle,Shopping,Insurance,177618.0,PhD,HR Manager
+CUST3686,29,M,Austin,Tech,Digital Banking,197778.0,Graduate,HR Manager
+CUST3687,39,F,Austin,Gaming,Investments,74441.0,Graduate,HR Manager
+CUST3688,38,M,New York,Travel,Discounts,152701.0,PhD,Engineer
+CUST3689,36,M,Austin,Finance,Digital Banking,38881.0,MBA,HR Manager
+CUST3690,18,F,San Francisco,Travel,Discounts,161310.0,Master’s,Marketing Manager
+CUST3691,56,M,Seattle,Gaming,Investments,181985.0,Graduate,Consultant
+CUST3692,59,M,Seattle,Shopping,Insurance,129466.0,Graduate,Consultant
+CUST3693,34,F,Miami,Finance,Subscriptions,131374.0,PhD,Engineer
+CUST3694,26,F,Los Angeles,Finance,Subscriptions,118424.0,Graduate,Engineer
+CUST3695,45,F,Austin,Tech,Discounts,187495.0,Graduate,HR Manager
+CUST3696,43,M,New York,Streaming,Insurance,31312.0,PhD,Consultant
+CUST3697,51,F,Chicago,Finance,Discounts,56432.0,Graduate,HR Manager
+CUST3698,26,F,Chicago,Shopping,Insurance,37965.0,MBA,Marketing Manager
+CUST3699,20,F,Austin,Finance,Investments,140382.0,PhD,Consultant
+CUST3700,25,F,Chicago,Streaming,Insurance,101627.0,PhD,Consultant
+CUST3701,62,F,Seattle,Dining,Investments,101211.0,PhD,Finance Analyst
+CUST3702,56,F,San Francisco,Gaming,Subscriptions,92056.0,Master’s,Engineer
+CUST3703,62,M,New York,Gaming,Digital Banking,125089.0,MBA,Consultant
+CUST3704,50,F,Austin,Shopping,Discounts,107648.0,Graduate,Marketing Manager
+CUST3705,61,M,Los Angeles,Travel,Digital Banking,156236.0,MBA,Consultant
+CUST3706,57,M,Seattle,Gaming,Investments,127914.0,Graduate,Marketing Manager
+CUST3707,41,F,Miami,Tech,Investments,187441.0,Graduate,Finance Analyst
+CUST3708,52,F,San Francisco,Gaming,Investments,61013.0,Graduate,Engineer
+CUST3709,58,F,Austin,Tech,Insurance,165247.0,PhD,HR Manager
+CUST3710,40,F,Miami,Tech,Insurance,112050.0,Graduate,Marketing Manager
+CUST3711,23,M,Seattle,Tech,Insurance,114057.0,MBA,Engineer
+CUST3712,33,F,Austin,Shopping,Digital Banking,102991.0,Master’s,Engineer
+CUST3713,39,M,New York,Gaming,Digital Banking,94335.0,Graduate,Consultant
+CUST3714,35,F,New York,Finance,Insurance,89505.0,PhD,HR Manager
+CUST3715,40,F,Miami,Gaming,Investments,30788.0,MBA,Consultant
+CUST3716,59,F,Chicago,Shopping,Investments,120759.0,Graduate,Marketing Manager
+CUST3717,48,F,Seattle,Shopping,Digital Banking,102005.0,Master’s,Consultant
+CUST3718,61,F,Austin,Gaming,Insurance,131493.0,PhD,HR Manager
+CUST3719,61,F,Seattle,Dining,Discounts,158611.0,Graduate,Engineer
+CUST3720,27,F,Seattle,Tech,Insurance,73480.0,MBA,HR Manager
+CUST3721,49,F,Seattle,Gaming,Discounts,52572.0,MBA,Consultant
+CUST3722,65,M,Chicago,Dining,Subscriptions,162093.0,PhD,Marketing Manager
+CUST3723,42,M,Austin,Shopping,Investments,105110.0,MBA,Finance Analyst
+CUST3724,58,M,Seattle,Dining,Digital Banking,124166.0,Graduate,Consultant
+CUST3725,53,M,Los Angeles,Shopping,Insurance,117271.0,Graduate,Marketing Manager
+CUST3726,46,F,Miami,Finance,Subscriptions,60635.0,MBA,Finance Analyst
+CUST3727,42,F,Seattle,Streaming,Insurance,85094.0,Master’s,Finance Analyst
+CUST3728,62,M,Seattle,Tech,Investments,116600.0,Graduate,HR Manager
+CUST3729,45,F,Los Angeles,Streaming,Insurance,102370.0,Master’s,Finance Analyst
+CUST3730,52,M,Seattle,Dining,Digital Banking,126736.0,PhD,Engineer
+CUST3731,22,F,Los Angeles,Finance,Discounts,34122.0,Master’s,Engineer
+CUST3732,36,F,Los Angeles,Shopping,Digital Banking,108854.0,Master’s,Marketing Manager
+CUST3733,18,M,Miami,Streaming,Subscriptions,152788.0,PhD,Finance Analyst
+CUST3734,18,F,Miami,Tech,Digital Banking,103527.0,PhD,Marketing Manager
+CUST3735,33,F,Austin,Streaming,Discounts,182955.0,Graduate,Engineer
+CUST3736,38,F,Miami,Streaming,Subscriptions,109405.0,Master’s,Consultant
+CUST3737,39,F,Seattle,Finance,Investments,120605.0,PhD,Marketing Manager
+CUST3738,37,M,Miami,Tech,Insurance,30701.0,MBA,Marketing Manager
+CUST3739,43,M,San Francisco,Gaming,Investments,97225.0,MBA,Consultant
+CUST3740,38,M,Seattle,Travel,Investments,197840.0,Graduate,Marketing Manager
+CUST3741,19,M,Seattle,Streaming,Subscriptions,81991.0,Graduate,Finance Analyst
+CUST3742,33,F,San Francisco,Travel,Insurance,118871.0,MBA,Engineer
+CUST3743,44,M,Los Angeles,Finance,Insurance,168880.0,PhD,Consultant
+CUST3744,52,F,Seattle,Finance,Insurance,138979.0,PhD,Marketing Manager
+CUST3745,20,F,Miami,Travel,Subscriptions,81624.0,Graduate,Marketing Manager
+CUST3746,37,M,Miami,Travel,Investments,45170.0,Graduate,Finance Analyst
+CUST3747,47,F,Miami,Shopping,Subscriptions,185392.0,Graduate,Engineer
+CUST3748,47,F,Miami,Dining,Subscriptions,125121.0,Graduate,Marketing Manager
+CUST3749,54,M,Miami,Gaming,Digital Banking,95692.0,Master’s,Consultant
+CUST3750,35,F,Miami,Streaming,Digital Banking,143793.0,Graduate,Marketing Manager
+CUST3751,25,F,Los Angeles,Finance,Digital Banking,136985.0,PhD,Consultant
+CUST3752,51,F,New York,Shopping,Digital Banking,177986.0,MBA,HR Manager
+CUST3753,60,F,Austin,Travel,Digital Banking,118664.0,MBA,Engineer
+CUST3754,61,F,Miami,Shopping,Discounts,141832.0,MBA,Marketing Manager
+CUST3755,59,F,New York,Shopping,Investments,143742.0,MBA,Marketing Manager
+CUST3756,28,F,Miami,Finance,Insurance,138904.0,PhD,Marketing Manager
+CUST3757,63,M,Miami,Streaming,Discounts,61538.0,Graduate,Consultant
+CUST3758,48,M,Miami,Finance,Subscriptions,115327.0,MBA,Engineer
+CUST3759,57,F,Chicago,Shopping,Discounts,36562.0,PhD,Engineer
+CUST3760,53,F,Los Angeles,Shopping,Digital Banking,147105.0,Master’s,Engineer
+CUST3761,41,M,San Francisco,Finance,Discounts,176511.0,Master’s,Finance Analyst
+CUST3762,25,F,San Francisco,Dining,Investments,44854.0,Graduate,HR Manager
+CUST3763,31,F,Seattle,Travel,Subscriptions,137321.0,MBA,Engineer
+CUST3764,42,F,Seattle,Gaming,Digital Banking,193136.0,PhD,Engineer
+CUST3765,25,M,New York,Shopping,Insurance,93208.0,PhD,Marketing Manager
+CUST3766,25,M,Miami,Tech,Discounts,178818.0,Master’s,Marketing Manager
+CUST3767,49,M,Miami,Streaming,Discounts,155088.0,Master’s,Marketing Manager
+CUST3768,26,F,Los Angeles,Finance,Insurance,98504.0,MBA,Finance Analyst
+CUST3769,43,F,Miami,Tech,Subscriptions,131936.0,Master’s,HR Manager
+CUST3770,18,F,Miami,Tech,Subscriptions,169656.0,Master’s,Consultant
+CUST3771,45,F,Los Angeles,Tech,Insurance,123271.0,PhD,Finance Analyst
+CUST3772,55,F,Chicago,Travel,Subscriptions,156099.0,MBA,Consultant
+CUST3773,64,F,San Francisco,Tech,Digital Banking,178997.0,Graduate,HR Manager
+CUST3774,22,M,New York,Gaming,Investments,106405.0,MBA,HR Manager
+CUST3775,19,M,Miami,Gaming,Investments,46704.0,Graduate,Engineer
+CUST3776,47,F,Austin,Travel,Digital Banking,143219.0,Graduate,Consultant
+CUST3777,48,F,Chicago,Travel,Investments,121889.0,Graduate,Marketing Manager
+CUST3778,20,M,Chicago,Dining,Insurance,184045.0,Master’s,Consultant
+CUST3779,56,M,Miami,Shopping,Discounts,53545.0,MBA,Finance Analyst
+CUST3780,58,M,New York,Tech,Digital Banking,75976.0,PhD,Consultant
+CUST3781,52,F,Austin,Travel,Insurance,181299.0,Graduate,Finance Analyst
+CUST3782,24,M,Miami,Streaming,Discounts,120652.0,PhD,Engineer
+CUST3783,53,F,Miami,Gaming,Digital Banking,193190.0,Master’s,Finance Analyst
+CUST3784,62,F,Chicago,Travel,Subscriptions,158618.0,Graduate,HR Manager
+CUST3785,51,M,New York,Dining,Investments,129421.0,PhD,Marketing Manager
+CUST3786,51,F,Austin,Travel,Digital Banking,109074.0,PhD,Consultant
+CUST3787,18,M,San Francisco,Tech,Discounts,135463.0,PhD,Finance Analyst
+CUST3788,18,F,New York,Tech,Discounts,84870.0,PhD,Engineer
+CUST3789,22,F,Seattle,Dining,Insurance,55711.0,PhD,Engineer
+CUST3790,48,F,Austin,Shopping,Subscriptions,160184.0,Graduate,Marketing Manager
+CUST3791,33,M,Austin,Tech,Investments,35205.0,PhD,Consultant
+CUST3792,19,F,Seattle,Travel,Subscriptions,112012.0,PhD,Consultant
+CUST3793,45,F,Austin,Tech,Digital Banking,135292.0,PhD,Engineer
+CUST3794,29,F,San Francisco,Shopping,Digital Banking,161518.0,PhD,Marketing Manager
+CUST3795,23,F,Chicago,Finance,Digital Banking,169213.0,Master’s,Marketing Manager
+CUST3796,35,M,New York,Streaming,Subscriptions,118139.0,MBA,Consultant
+CUST3797,21,M,San Francisco,Gaming,Subscriptions,108065.0,Master’s,Marketing Manager
+CUST3798,44,M,Chicago,Gaming,Insurance,31102.0,PhD,Marketing Manager
+CUST3799,40,M,New York,Dining,Discounts,181878.0,Master’s,Engineer
+CUST3800,36,F,Austin,Shopping,Discounts,133826.0,MBA,Consultant
+CUST3801,22,F,San Francisco,Gaming,Discounts,106133.0,PhD,Engineer
+CUST3802,21,F,Austin,Dining,Insurance,33947.0,Graduate,Engineer
+CUST3803,44,F,Miami,Gaming,Investments,69764.0,MBA,Consultant
+CUST3804,32,M,New York,Shopping,Insurance,168667.0,Graduate,Marketing Manager
+CUST3805,47,M,Seattle,Finance,Investments,52023.0,PhD,HR Manager
+CUST3806,43,F,Los Angeles,Travel,Subscriptions,66494.0,Graduate,Consultant
+CUST3807,41,M,Austin,Tech,Insurance,147403.0,Graduate,Consultant
+CUST3808,44,M,Los Angeles,Streaming,Subscriptions,32821.0,PhD,Consultant
+CUST3809,51,M,Los Angeles,Shopping,Discounts,190456.0,MBA,Finance Analyst
+CUST3810,61,F,Chicago,Streaming,Insurance,180379.0,PhD,HR Manager
+CUST3811,36,F,Austin,Gaming,Digital Banking,108361.0,MBA,Marketing Manager
+CUST3812,38,M,Austin,Streaming,Digital Banking,86507.0,Master’s,Marketing Manager
+CUST3813,58,F,New York,Shopping,Insurance,74300.0,Graduate,Consultant
+CUST3814,56,F,San Francisco,Shopping,Insurance,157889.0,Master’s,HR Manager
+CUST3815,24,F,Seattle,Travel,Investments,57215.0,PhD,HR Manager
+CUST3816,40,F,Chicago,Dining,Subscriptions,49631.0,MBA,Marketing Manager
+CUST3817,63,F,Austin,Gaming,Discounts,67735.0,Graduate,HR Manager
+CUST3818,38,M,San Francisco,Shopping,Digital Banking,65078.0,PhD,Consultant
+CUST3819,65,F,New York,Travel,Investments,108142.0,PhD,Consultant
+CUST3820,47,M,Los Angeles,Tech,Subscriptions,184330.0,MBA,Marketing Manager
+CUST3821,63,M,Chicago,Shopping,Subscriptions,133279.0,Master’s,Engineer
+CUST3822,54,M,New York,Gaming,Subscriptions,59746.0,MBA,Consultant
+CUST3823,27,F,Miami,Gaming,Insurance,44566.0,MBA,HR Manager
+CUST3824,32,M,Los Angeles,Tech,Subscriptions,127085.0,MBA,Marketing Manager
+CUST3825,52,F,Seattle,Shopping,Investments,165260.0,Master’s,Consultant
+CUST3826,62,M,Miami,Gaming,Subscriptions,36372.0,PhD,Engineer
+CUST3827,64,F,Austin,Gaming,Investments,105533.0,Master’s,Marketing Manager
+CUST3828,23,M,Chicago,Dining,Subscriptions,144639.0,MBA,HR Manager
+CUST3829,57,M,New York,Gaming,Investments,137365.0,Graduate,Consultant
+CUST3830,21,F,Los Angeles,Tech,Digital Banking,58279.0,MBA,Engineer
+CUST3831,48,M,Austin,Gaming,Discounts,193545.0,PhD,Marketing Manager
+CUST3832,35,M,San Francisco,Dining,Insurance,95329.0,MBA,Finance Analyst
+CUST3833,30,F,Seattle,Tech,Digital Banking,138728.0,Master’s,Engineer
+CUST3834,47,F,Seattle,Gaming,Investments,53390.0,Graduate,HR Manager
+CUST3835,65,F,New York,Gaming,Digital Banking,134122.0,Master’s,HR Manager
+CUST3836,54,F,Los Angeles,Travel,Discounts,108503.0,PhD,Engineer
+CUST3837,33,F,Los Angeles,Streaming,Digital Banking,136934.0,PhD,Marketing Manager
+CUST3838,43,M,Seattle,Dining,Subscriptions,174195.0,MBA,Consultant
+CUST3839,43,M,Miami,Tech,Investments,168455.0,PhD,Consultant
+CUST3840,59,M,Miami,Tech,Investments,88866.0,Master’s,Engineer
+CUST3841,46,F,Chicago,Travel,Investments,104261.0,MBA,Marketing Manager
+CUST3842,42,M,San Francisco,Gaming,Insurance,41543.0,Master’s,Consultant
+CUST3843,23,M,Chicago,Gaming,Investments,75146.0,Master’s,Consultant
+CUST3844,61,F,San Francisco,Dining,Investments,169377.0,Graduate,Engineer
+CUST3845,46,M,New York,Finance,Insurance,89706.0,PhD,Finance Analyst
+CUST3846,38,F,New York,Travel,Investments,58354.0,Graduate,Consultant
+CUST3847,62,M,Seattle,Gaming,Discounts,181600.0,MBA,Engineer
+CUST3848,33,F,Miami,Tech,Insurance,90852.0,PhD,Marketing Manager
+CUST3849,37,F,Los Angeles,Streaming,Digital Banking,45801.0,MBA,Finance Analyst
+CUST3850,27,F,New York,Tech,Subscriptions,65057.0,PhD,Marketing Manager
+CUST3851,26,M,Los Angeles,Finance,Digital Banking,52318.0,Master’s,HR Manager
+CUST3852,44,M,Seattle,Streaming,Subscriptions,38165.0,PhD,Consultant
+CUST3853,51,M,Miami,Travel,Investments,171301.0,Graduate,HR Manager
+CUST3854,23,F,New York,Shopping,Subscriptions,100771.0,Graduate,Finance Analyst
+CUST3855,65,F,Chicago,Finance,Subscriptions,142720.0,PhD,Engineer
+CUST3856,44,F,Seattle,Streaming,Subscriptions,159035.0,Master’s,Marketing Manager
+CUST3857,65,F,San Francisco,Dining,Subscriptions,181516.0,PhD,HR Manager
+CUST3858,23,M,Los Angeles,Tech,Subscriptions,93282.0,MBA,HR Manager
+CUST3859,53,M,Chicago,Dining,Investments,46444.0,Graduate,Finance Analyst
+CUST3860,29,M,Chicago,Shopping,Insurance,37007.0,Master’s,Finance Analyst
+CUST3861,36,M,New York,Shopping,Discounts,123216.0,MBA,Finance Analyst
+CUST3862,55,M,Seattle,Tech,Discounts,40813.0,Master’s,HR Manager
+CUST3863,55,M,Miami,Travel,Digital Banking,115043.0,PhD,Finance Analyst
+CUST3864,53,M,New York,Finance,Subscriptions,55065.0,Master’s,Marketing Manager
+CUST3865,43,M,Austin,Gaming,Insurance,58868.0,Master’s,Finance Analyst
+CUST3866,54,M,Los Angeles,Tech,Digital Banking,118148.0,Master’s,Engineer
+CUST3867,24,M,Los Angeles,Gaming,Discounts,152208.0,PhD,HR Manager
+CUST3868,51,M,Los Angeles,Travel,Discounts,162794.0,MBA,Consultant
+CUST3869,51,F,Austin,Travel,Subscriptions,44275.0,Master’s,HR Manager
+CUST3870,23,F,Seattle,Finance,Discounts,178005.0,Master’s,HR Manager
+CUST3871,24,M,Seattle,Travel,Digital Banking,107345.0,Graduate,Engineer
+CUST3872,64,M,New York,Streaming,Digital Banking,175631.0,Master’s,HR Manager
+CUST3873,48,F,Seattle,Travel,Subscriptions,147160.0,MBA,Marketing Manager
+CUST3874,39,F,Chicago,Shopping,Discounts,129180.0,Master’s,Engineer
+CUST3875,58,F,Los Angeles,Tech,Subscriptions,187500.0,Graduate,Marketing Manager
+CUST3876,24,F,Austin,Streaming,Insurance,113093.0,MBA,Consultant
+CUST3877,58,F,Austin,Shopping,Insurance,131282.0,Graduate,Consultant
+CUST3878,43,F,Los Angeles,Gaming,Digital Banking,88441.0,Master’s,Marketing Manager
+CUST3879,62,M,Miami,Gaming,Investments,33582.0,PhD,Consultant
+CUST3880,22,M,Los Angeles,Finance,Investments,116767.0,Master’s,Consultant
+CUST3881,55,F,Austin,Gaming,Subscriptions,172170.0,Master’s,Engineer
+CUST3882,65,M,Austin,Shopping,Investments,74897.0,Graduate,Finance Analyst
+CUST3883,62,M,San Francisco,Dining,Digital Banking,103125.0,PhD,Finance Analyst
+CUST3884,32,F,Miami,Travel,Discounts,199369.0,Graduate,Consultant
+CUST3885,49,M,New York,Finance,Subscriptions,104945.0,Master’s,Engineer
+CUST3886,57,F,New York,Gaming,Digital Banking,64703.0,PhD,Finance Analyst
+CUST3887,34,M,Chicago,Tech,Insurance,167297.0,MBA,Engineer
+CUST3888,41,F,Los Angeles,Streaming,Subscriptions,54933.0,Graduate,Finance Analyst
+CUST3889,31,F,San Francisco,Finance,Digital Banking,44128.0,Master’s,Finance Analyst
+CUST3890,45,M,San Francisco,Dining,Investments,121865.0,Graduate,Marketing Manager
+CUST3891,57,M,San Francisco,Dining,Discounts,118098.0,Master’s,Consultant
+CUST3892,53,F,Los Angeles,Streaming,Discounts,49327.0,Graduate,HR Manager
+CUST3893,24,F,Chicago,Tech,Discounts,99480.0,PhD,Finance Analyst
+CUST3894,44,M,Miami,Shopping,Discounts,184900.0,Master’s,HR Manager
+CUST3895,42,M,Seattle,Dining,Insurance,183326.0,Graduate,HR Manager
+CUST3896,52,F,Austin,Dining,Investments,155169.0,Graduate,Marketing Manager
+CUST3897,61,M,Seattle,Shopping,Discounts,37666.0,Master’s,Engineer
+CUST3898,37,M,Austin,Tech,Insurance,70773.0,Graduate,Marketing Manager
+CUST3899,43,M,Los Angeles,Dining,Insurance,131172.0,MBA,Finance Analyst
+CUST3900,44,F,San Francisco,Travel,Discounts,101299.0,MBA,HR Manager
+CUST3901,55,M,New York,Gaming,Investments,153649.0,MBA,Consultant
+CUST3902,34,F,San Francisco,Tech,Digital Banking,179359.0,Master’s,Marketing Manager
+CUST3903,32,M,Austin,Dining,Investments,39993.0,Graduate,Finance Analyst
+CUST3904,47,M,San Francisco,Gaming,Discounts,138123.0,Graduate,Marketing Manager
+CUST3905,57,M,Seattle,Tech,Insurance,57189.0,Graduate,Engineer
+CUST3906,30,M,Seattle,Finance,Insurance,152879.0,Graduate,Marketing Manager
+CUST3907,40,M,San Francisco,Streaming,Subscriptions,45336.0,Graduate,HR Manager
+CUST3908,44,M,Miami,Tech,Insurance,124915.0,MBA,Finance Analyst
+CUST3909,45,M,Los Angeles,Streaming,Subscriptions,134020.0,Master’s,Engineer
+CUST3910,62,M,San Francisco,Streaming,Discounts,110270.0,Graduate,HR Manager
+CUST3911,58,M,San Francisco,Travel,Insurance,49024.0,Master’s,HR Manager
+CUST3912,50,M,Los Angeles,Gaming,Discounts,40719.0,PhD,Marketing Manager
+CUST3913,21,F,Austin,Dining,Subscriptions,158012.0,PhD,Consultant
+CUST3914,32,F,Austin,Shopping,Discounts,172558.0,PhD,Finance Analyst
+CUST3915,37,F,San Francisco,Dining,Discounts,53903.0,Graduate,Engineer
+CUST3916,25,F,Chicago,Streaming,Discounts,100846.0,Graduate,Marketing Manager
+CUST3917,44,M,Seattle,Finance,Digital Banking,93532.0,PhD,Finance Analyst
+CUST3918,34,M,Miami,Streaming,Investments,115691.0,Master’s,Marketing Manager
+CUST3919,58,F,Austin,Streaming,Subscriptions,154993.0,Master’s,Engineer
+CUST3920,25,F,Chicago,Shopping,Investments,122453.0,Master’s,Consultant
+CUST3921,51,M,Chicago,Gaming,Insurance,178840.0,Master’s,Marketing Manager
+CUST3922,50,M,San Francisco,Shopping,Discounts,146113.0,Master’s,HR Manager
+CUST3923,44,F,Los Angeles,Gaming,Digital Banking,51660.0,Master’s,Engineer
+CUST3924,18,F,Seattle,Shopping,Discounts,79873.0,Master’s,Finance Analyst
+CUST3925,21,M,Los Angeles,Dining,Discounts,158394.0,Graduate,Finance Analyst
+CUST3926,59,M,San Francisco,Tech,Investments,97959.0,PhD,Engineer
+CUST3927,60,M,Los Angeles,Travel,Investments,97326.0,PhD,Consultant
+CUST3928,53,M,New York,Dining,Investments,145288.0,MBA,Finance Analyst
+CUST3929,36,F,Seattle,Streaming,Discounts,125753.0,MBA,Engineer
+CUST3930,61,M,Seattle,Finance,Investments,190943.0,PhD,Finance Analyst
+CUST3931,46,F,Chicago,Gaming,Insurance,194988.0,Graduate,Engineer
+CUST3932,54,M,San Francisco,Dining,Discounts,78949.0,Graduate,Finance Analyst
+CUST3933,45,M,Chicago,Tech,Investments,132149.0,PhD,Consultant
+CUST3934,56,M,Miami,Dining,Investments,191029.0,MBA,Finance Analyst
+CUST3935,53,M,Austin,Finance,Discounts,147690.0,PhD,Marketing Manager
+CUST3936,50,F,Miami,Tech,Subscriptions,173626.0,Graduate,Marketing Manager
+CUST3937,51,M,Seattle,Streaming,Investments,184276.0,MBA,Engineer
+CUST3938,50,M,Austin,Gaming,Digital Banking,152792.0,MBA,Finance Analyst
+CUST3939,56,M,Miami,Shopping,Investments,166109.0,PhD,Finance Analyst
+CUST3940,56,M,Seattle,Tech,Insurance,39611.0,Master’s,Finance Analyst
+CUST3941,50,M,San Francisco,Travel,Discounts,153361.0,PhD,HR Manager
+CUST3942,57,F,Los Angeles,Dining,Investments,114203.0,MBA,Consultant
+CUST3943,33,M,New York,Gaming,Digital Banking,58240.0,Graduate,HR Manager
+CUST3944,54,M,New York,Shopping,Subscriptions,61143.0,Graduate,Marketing Manager
+CUST3945,23,M,Chicago,Tech,Insurance,199716.0,PhD,Finance Analyst
+CUST3946,42,M,New York,Streaming,Investments,64826.0,MBA,Engineer
+CUST3947,55,M,San Francisco,Tech,Digital Banking,78306.0,Master’s,Marketing Manager
+CUST3948,21,F,New York,Travel,Digital Banking,157722.0,Master’s,Consultant
+CUST3949,44,M,Los Angeles,Finance,Insurance,136750.0,PhD,Marketing Manager
+CUST3950,53,F,Chicago,Tech,Subscriptions,195536.0,MBA,Engineer
+CUST3951,48,F,Chicago,Finance,Investments,140934.0,MBA,HR Manager
+CUST3952,30,M,Chicago,Gaming,Discounts,158080.0,MBA,Engineer
+CUST3953,48,F,Austin,Travel,Discounts,120177.0,Graduate,Consultant
+CUST3954,42,F,Los Angeles,Shopping,Investments,121807.0,MBA,HR Manager
+CUST3955,35,F,Chicago,Shopping,Subscriptions,198434.0,PhD,Consultant
+CUST3956,31,M,Austin,Travel,Digital Banking,185952.0,MBA,Finance Analyst
+CUST3957,59,M,Miami,Dining,Discounts,179707.0,Master’s,Marketing Manager
+CUST3958,30,F,Chicago,Dining,Investments,93064.0,Graduate,Marketing Manager
+CUST3959,56,F,Seattle,Shopping,Insurance,188229.0,PhD,Marketing Manager
+CUST3960,19,F,Chicago,Shopping,Insurance,197599.0,Master’s,Finance Analyst
+CUST3961,58,M,Seattle,Shopping,Subscriptions,79454.0,Master’s,Finance Analyst
+CUST3962,56,M,Seattle,Dining,Investments,163128.0,PhD,HR Manager
+CUST3963,24,F,Miami,Dining,Subscriptions,161945.0,Master’s,Engineer
+CUST3964,51,M,Chicago,Shopping,Insurance,72990.0,Graduate,HR Manager
+CUST3965,59,F,Chicago,Tech,Digital Banking,60468.0,PhD,Engineer
+CUST3966,36,F,Miami,Streaming,Subscriptions,199203.0,MBA,Marketing Manager
+CUST3967,45,M,Chicago,Travel,Investments,121722.0,PhD,Finance Analyst
+CUST3968,62,M,Los Angeles,Tech,Digital Banking,192351.0,PhD,Consultant
+CUST3969,19,M,Austin,Travel,Digital Banking,107490.0,Graduate,Consultant
+CUST3970,63,M,Chicago,Finance,Subscriptions,193962.0,Master’s,Engineer
+CUST3971,53,F,Miami,Shopping,Discounts,88432.0,Master’s,Consultant
+CUST3972,54,F,Los Angeles,Dining,Discounts,150174.0,Graduate,Marketing Manager
+CUST3973,44,F,San Francisco,Shopping,Subscriptions,42455.0,PhD,Marketing Manager
+CUST3974,56,F,Austin,Shopping,Discounts,117398.0,MBA,Engineer
+CUST3975,29,M,Austin,Finance,Investments,191048.0,PhD,Consultant
+CUST3976,54,F,Miami,Dining,Investments,199381.0,PhD,Marketing Manager
+CUST3977,55,M,Seattle,Tech,Investments,54025.0,MBA,Marketing Manager
+CUST3978,52,M,New York,Streaming,Subscriptions,113351.0,PhD,Consultant
+CUST3979,35,F,Miami,Gaming,Insurance,141066.0,Graduate,Engineer
+CUST3980,24,M,Seattle,Finance,Insurance,120222.0,Graduate,Marketing Manager
+CUST3981,35,M,Chicago,Shopping,Investments,49763.0,MBA,Finance Analyst
+CUST3982,31,M,Miami,Dining,Discounts,165210.0,Master’s,Marketing Manager
+CUST3983,65,M,Los Angeles,Finance,Digital Banking,66623.0,Graduate,Marketing Manager
+CUST3984,44,M,Miami,Dining,Insurance,159248.0,Master’s,Engineer
+CUST3985,28,F,Miami,Shopping,Investments,113641.0,MBA,Marketing Manager
+CUST3986,32,M,Los Angeles,Streaming,Investments,99396.0,Graduate,Finance Analyst
+CUST3987,29,F,Chicago,Dining,Subscriptions,53519.0,Master’s,Marketing Manager
+CUST3988,43,M,Miami,Dining,Discounts,134970.0,MBA,Consultant
+CUST3989,55,F,San Francisco,Gaming,Digital Banking,155394.0,Master’s,Consultant
+CUST3990,36,F,New York,Streaming,Digital Banking,65316.0,Master’s,Finance Analyst
+CUST3991,40,M,New York,Shopping,Subscriptions,55648.0,MBA,Marketing Manager
+CUST3992,24,M,Chicago,Travel,Subscriptions,178438.0,MBA,Finance Analyst
+CUST3993,26,F,Chicago,Finance,Digital Banking,42586.0,MBA,Marketing Manager
+CUST3994,27,M,New York,Finance,Subscriptions,111452.0,MBA,Engineer
+CUST3995,32,M,San Francisco,Shopping,Digital Banking,31586.0,Master’s,HR Manager
+CUST3996,19,M,Miami,Streaming,Digital Banking,144490.0,MBA,Finance Analyst
+CUST3997,65,M,Seattle,Travel,Discounts,144170.0,PhD,Finance Analyst
+CUST3998,45,M,Austin,Tech,Insurance,75485.0,MBA,Consultant
+CUST3999,46,M,Austin,Dining,Digital Banking,133373.0,Graduate,Engineer
+CUST4000,18,F,Seattle,Streaming,Discounts,64704.0,PhD,Consultant
+CUST4001,39,F,Seattle,Finance,Subscriptions,128427.0,Graduate,Finance Analyst
+CUST4002,64,M,Seattle,Shopping,Insurance,177409.0,MBA,Finance Analyst
+CUST4003,62,F,New York,Finance,Insurance,69312.0,Graduate,Marketing Manager
+CUST4004,49,F,Austin,Shopping,Discounts,81297.0,MBA,Consultant
+CUST4005,38,F,Miami,Travel,Investments,172390.0,MBA,Engineer
+CUST4006,25,M,Miami,Finance,Investments,68256.0,PhD,HR Manager
+CUST4007,41,M,Miami,Gaming,Subscriptions,61015.0,PhD,Engineer
+CUST4008,55,M,Seattle,Tech,Insurance,143317.0,Master’s,Engineer
+CUST4009,64,F,Miami,Streaming,Discounts,51080.0,PhD,Marketing Manager
+CUST4010,27,M,San Francisco,Finance,Discounts,140343.0,Master’s,HR Manager
+CUST4011,27,F,San Francisco,Gaming,Insurance,175016.0,Graduate,Marketing Manager
+CUST4012,57,F,New York,Gaming,Subscriptions,83213.0,MBA,Consultant
+CUST4013,22,M,New York,Travel,Insurance,95383.0,PhD,Engineer
+CUST4014,46,M,Miami,Dining,Digital Banking,171671.0,Master’s,Marketing Manager
+CUST4015,65,F,Austin,Travel,Insurance,48387.0,Graduate,Engineer
+CUST4016,33,F,Chicago,Finance,Insurance,95177.0,PhD,Finance Analyst
+CUST4017,32,M,San Francisco,Finance,Subscriptions,110747.0,MBA,Marketing Manager
+CUST4018,19,F,Chicago,Dining,Subscriptions,65556.0,Master’s,HR Manager
+CUST4019,51,M,Austin,Finance,Investments,49757.0,Master’s,Engineer
+CUST4020,49,M,Austin,Tech,Investments,49951.0,Graduate,Marketing Manager
+CUST4021,46,M,Miami,Tech,Subscriptions,144103.0,Master’s,Marketing Manager
+CUST4022,58,F,Los Angeles,Streaming,Subscriptions,138858.0,Graduate,Finance Analyst
+CUST4023,35,M,Austin,Streaming,Subscriptions,141398.0,PhD,HR Manager
+CUST4024,63,F,San Francisco,Tech,Digital Banking,142657.0,Graduate,Finance Analyst

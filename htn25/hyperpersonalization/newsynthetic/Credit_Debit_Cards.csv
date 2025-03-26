@@ -1,0 +1,151 @@
+CardID,Card Name,Card Type,Description,Target Customer,Annual Fees,Cashback / Rewards,Spending Limit,International Usage,Contactless Payment
+ec4ebc91,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,Everyday Users,No Annual Fee,5% on Travel,No Preset Limit,Yes,Not Enabled
+f13135b5,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,Business Owners,No Annual Fee,5% on Travel,"$5,000",Yes,Not Enabled
+ba3d448b,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Everyday Users,$50,1% Cashback,"$10,000",Yes,Enabled
+18efa442,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,Students,$50,1% Cashback,"$1,000",Yes,Not Enabled
+7b33d756,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Everyday Users,$25,5% on Travel,No Preset Limit,No,Enabled
+27167aac,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,Everyday Users,$100,Bonus Points on Dining,No Preset Limit,Yes,Not Enabled
+c1ce9eea,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Frequent Travelers,$100,Bonus Points on Dining,"$5,000",Yes,Enabled
+860dc046,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Frequent Travelers,$25,Airport Lounge Access,"$10,000",No,Not Enabled
+10011221,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,Everyday Users,No Annual Fee,5% on Travel,"$1,000",Yes,Not Enabled
+8b94deda,Business Debit Card,Debit Card,For business account holders with expense tracking features,Frequent Travelers,No Annual Fee,1% Cashback,"$10,000",No,Enabled
+161d94a4,Business Debit Card,Debit Card,For business account holders with expense tracking features,Everyday Users,$50,Airport Lounge Access,"$5,000",No,Enabled
+70739519,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,High Spenders,$25,Bonus Points on Dining,"$10,000",No,Enabled
+d88bcb8f,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Business Owners,$100,Airport Lounge Access,"$10,000",Yes,Enabled
+89e37e94,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,Business Owners,No Annual Fee,Bonus Points on Dining,"$5,000",Yes,Enabled
+94f2649c,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Students,Waived on Spending,5% on Travel,"$5,000",Yes,Enabled
+c52eaaf7,Business Debit Card,Debit Card,For business account holders with expense tracking features,Everyday Users,No Annual Fee,1% Cashback,"$5,000",Yes,Enabled
+b70f3f74,Business Debit Card,Debit Card,For business account holders with expense tracking features,Frequent Travelers,Waived on Spending,5% on Travel,No Preset Limit,Yes,Enabled
+0d496fc6,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,High Spenders,No Annual Fee,5% on Travel,No Preset Limit,No,Enabled
+744a3b55,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Frequent Travelers,$100,Airport Lounge Access,"$5,000",Yes,Enabled
+37fa31ff,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Students,Waived on Spending,1% Cashback,"$5,000",No,Enabled
+30e9f983,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Everyday Users,$100,5% on Travel,No Preset Limit,Yes,Enabled
+ee940e28,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Business Owners,Waived on Spending,5% on Travel,No Preset Limit,Yes,Not Enabled
+42115b95,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,High Spenders,$50,Airport Lounge Access,No Preset Limit,Yes,Not Enabled
+b17b49b6,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Business Owners,Waived on Spending,Airport Lounge Access,"$10,000",Yes,Not Enabled
+7ab6d187,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Everyday Users,$100,Bonus Points on Dining,"$1,000",No,Not Enabled
+8b729670,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,High Spenders,$50,Airport Lounge Access,No Preset Limit,Yes,Enabled
+73ee69a4,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,Business Owners,$100,Bonus Points on Dining,"$5,000",Yes,Enabled
+8c2590b4,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Everyday Users,$100,5% on Travel,"$1,000",Yes,Enabled
+8019baa1,Silver Credit Card,Credit Card,Entry-level card with basic benefits,Business Owners,Waived on Spending,5% on Travel,"$1,000",No,Not Enabled
+304c9c1e,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,Students,$50,Bonus Points on Dining,"$5,000",Yes,Enabled
+0a5b93ff,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,High Spenders,$25,1% Cashback,"$10,000",No,Enabled
+b75fa8e0,Silver Credit Card,Credit Card,Entry-level card with basic benefits,High Spenders,$50,1% Cashback,"$5,000",Yes,Enabled
+db0a4ccc,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Students,No Annual Fee,Bonus Points on Dining,No Preset Limit,No,Not Enabled
+2d355c2b,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Everyday Users,$25,Bonus Points on Dining,"$5,000",No,Enabled
+568b810e,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,High Spenders,$50,1% Cashback,"$5,000",No,Enabled
+bdc5ca89,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,High Spenders,Waived on Spending,5% on Travel,"$10,000",Yes,Enabled
+e405c850,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Business Owners,$25,Airport Lounge Access,"$1,000",Yes,Not Enabled
+926dff89,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Frequent Travelers,No Annual Fee,Airport Lounge Access,"$10,000",No,Enabled
+c5112105,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,Business Owners,$25,5% on Travel,"$1,000",Yes,Not Enabled
+fab9888a,Business Debit Card,Debit Card,For business account holders with expense tracking features,Business Owners,$25,Bonus Points on Dining,"$1,000",No,Not Enabled
+d2f0ed10,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Business Owners,No Annual Fee,Airport Lounge Access,"$5,000",No,Not Enabled
+b9dfccca,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Students,No Annual Fee,Airport Lounge Access,"$10,000",No,Enabled
+03e78b3a,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Frequent Travelers,$25,Bonus Points on Dining,"$10,000",No,Not Enabled
+7cde568e,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Students,$25,Airport Lounge Access,No Preset Limit,Yes,Enabled
+8ccb30a6,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,High Spenders,$25,Bonus Points on Dining,"$1,000",No,Enabled
+2c54b37e,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,High Spenders,$100,5% on Travel,No Preset Limit,Yes,Enabled
+42f93c14,Business Debit Card,Debit Card,For business account holders with expense tracking features,Business Owners,Waived on Spending,Bonus Points on Dining,"$10,000",Yes,Enabled
+f4c29d1a,Business Debit Card,Debit Card,For business account holders with expense tracking features,Students,$100,5% on Travel,"$1,000",No,Enabled
+e341b0cd,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Frequent Travelers,$25,1% Cashback,No Preset Limit,No,Not Enabled
+374a9274,Business Credit Card,Credit Card,Corporate card for managing business expenses,Business Owners,Waived on Spending,1% Cashback,"$1,000",No,Enabled
+0e312df5,Business Credit Card,Credit Card,Corporate card for managing business expenses,Frequent Travelers,No Annual Fee,5% on Travel,"$1,000",No,Not Enabled
+65bcbd90,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Business Owners,$50,1% Cashback,"$10,000",Yes,Not Enabled
+43a4c55b,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Everyday Users,$50,Bonus Points on Dining,"$10,000",Yes,Not Enabled
+081cf88b,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Students,No Annual Fee,1% Cashback,"$1,000",Yes,Enabled
+b3bbf258,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,Students,No Annual Fee,Airport Lounge Access,No Preset Limit,No,Not Enabled
+04e6e2a4,Business Debit Card,Debit Card,For business account holders with expense tracking features,Frequent Travelers,$100,1% Cashback,No Preset Limit,Yes,Enabled
+72eb5f29,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,Business Owners,Waived on Spending,Airport Lounge Access,"$10,000",No,Not Enabled
+9c08c129,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,High Spenders,Waived on Spending,Bonus Points on Dining,"$1,000",Yes,Not Enabled
+6950e9d9,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Frequent Travelers,$50,5% on Travel,"$5,000",No,Not Enabled
+478d7fcd,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Everyday Users,$25,Airport Lounge Access,No Preset Limit,No,Enabled
+b43317f8,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,High Spenders,$100,Bonus Points on Dining,No Preset Limit,Yes,Not Enabled
+fa51fb53,Business Credit Card,Credit Card,Corporate card for managing business expenses,High Spenders,No Annual Fee,1% Cashback,"$1,000",Yes,Not Enabled
+dd40f56e,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Everyday Users,$100,Bonus Points on Dining,"$5,000",Yes,Not Enabled
+a89fd010,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Students,Waived on Spending,5% on Travel,No Preset Limit,No,Enabled
+b6ff35fc,Business Credit Card,Credit Card,Corporate card for managing business expenses,Students,$25,1% Cashback,"$1,000",No,Not Enabled
+1a112e8b,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Students,$25,Bonus Points on Dining,"$10,000",No,Enabled
+8a6b566e,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,Business Owners,$50,5% on Travel,No Preset Limit,No,Not Enabled
+6f660827,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,High Spenders,No Annual Fee,Airport Lounge Access,"$1,000",No,Enabled
+36a4fa13,Business Debit Card,Debit Card,For business account holders with expense tracking features,Students,$50,1% Cashback,"$1,000",No,Not Enabled
+7bca88cb,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,Everyday Users,$50,Bonus Points on Dining,"$5,000",Yes,Enabled
+d802e309,Travel Credit Card,Credit Card,Special benefits for frequent travelers,Everyday Users,Waived on Spending,5% on Travel,No Preset Limit,No,Not Enabled
+5216c650,Business Debit Card,Debit Card,For business account holders with expense tracking features,Business Owners,Waived on Spending,Bonus Points on Dining,No Preset Limit,Yes,Enabled
+5dbe0eac,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Everyday Users,$50,1% Cashback,"$1,000",No,Not Enabled
+9a4f085d,Travel Credit Card,Credit Card,Special benefits for frequent travelers,High Spenders,$50,Airport Lounge Access,No Preset Limit,No,Not Enabled
+8f644ce0,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,Business Owners,$25,5% on Travel,No Preset Limit,No,Enabled
+19e0e166,Silver Credit Card,Credit Card,Entry-level card with basic benefits,Business Owners,No Annual Fee,1% Cashback,"$5,000",Yes,Not Enabled
+363cce58,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Frequent Travelers,$100,Airport Lounge Access,No Preset Limit,Yes,Enabled
+e75eb801,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Frequent Travelers,$50,1% Cashback,"$1,000",Yes,Enabled
+95fba774,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,High Spenders,$100,5% on Travel,"$1,000",Yes,Not Enabled
+399fcb90,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Students,Waived on Spending,Bonus Points on Dining,No Preset Limit,Yes,Not Enabled
+7b5f3b40,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Business Owners,No Annual Fee,Airport Lounge Access,No Preset Limit,Yes,Not Enabled
+29a64ff0,International Debit Card,Debit Card,Multi-currency debit card for global transactions,High Spenders,Waived on Spending,Airport Lounge Access,"$5,000",Yes,Enabled
+459c943f,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Frequent Travelers,$100,Airport Lounge Access,"$5,000",Yes,Enabled
+c48b7716,Business Debit Card,Debit Card,For business account holders with expense tracking features,High Spenders,$25,Bonus Points on Dining,"$1,000",Yes,Enabled
+57ef208d,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Business Owners,$50,1% Cashback,"$10,000",Yes,Not Enabled
+8809b9fb,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Frequent Travelers,$100,Airport Lounge Access,No Preset Limit,No,Not Enabled
+658793a3,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Everyday Users,$100,5% on Travel,"$5,000",No,Enabled
+81d2e9ad,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Everyday Users,$100,Airport Lounge Access,"$10,000",No,Not Enabled
+a20f22ce,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,High Spenders,$25,5% on Travel,"$5,000",Yes,Not Enabled
+a0a6549a,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Everyday Users,No Annual Fee,1% Cashback,"$1,000",Yes,Not Enabled
+879c56e6,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Everyday Users,$50,Airport Lounge Access,"$10,000",No,Enabled
+fd707e54,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Frequent Travelers,$100,Airport Lounge Access,"$1,000",Yes,Enabled
+9f33a253,Travel Credit Card,Credit Card,Special benefits for frequent travelers,High Spenders,$25,Bonus Points on Dining,"$5,000",No,Enabled
+41317ae9,International Debit Card,Debit Card,Multi-currency debit card for global transactions,High Spenders,No Annual Fee,1% Cashback,"$5,000",No,Enabled
+74786279,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,Business Owners,No Annual Fee,Bonus Points on Dining,"$5,000",Yes,Not Enabled
+dd2ec3a3,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Business Owners,$50,Bonus Points on Dining,"$10,000",No,Enabled
+6e234cd8,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Everyday Users,No Annual Fee,1% Cashback,"$10,000",No,Not Enabled
+e04c908a,Travel Credit Card,Credit Card,Special benefits for frequent travelers,Students,$50,Airport Lounge Access,"$1,000",No,Not Enabled
+681dee02,International Debit Card,Debit Card,Multi-currency debit card for global transactions,High Spenders,$25,1% Cashback,"$5,000",Yes,Enabled
+9c68f477,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Business Owners,$25,Airport Lounge Access,"$5,000",Yes,Not Enabled
+260f2ca9,Business Credit Card,Credit Card,Corporate card for managing business expenses,Students,$25,5% on Travel,"$5,000",No,Enabled
+d349f302,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Frequent Travelers,No Annual Fee,5% on Travel,"$1,000",Yes,Not Enabled
+21111b03,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,Frequent Travelers,$25,5% on Travel,"$5,000",No,Not Enabled
+89b0a350,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Frequent Travelers,$50,Bonus Points on Dining,"$10,000",No,Not Enabled
+6e292ca8,Travel Credit Card,Credit Card,Special benefits for frequent travelers,Everyday Users,$25,5% on Travel,"$1,000",No,Not Enabled
+85e69151,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Everyday Users,$50,1% Cashback,No Preset Limit,Yes,Enabled
+c9c46887,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,Everyday Users,$100,Bonus Points on Dining,"$5,000",Yes,Enabled
+88003177,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,Everyday Users,$50,1% Cashback,"$5,000",Yes,Not Enabled
+a6f9a229,Silver Credit Card,Credit Card,Entry-level card with basic benefits,High Spenders,$100,Airport Lounge Access,"$5,000",Yes,Not Enabled
+e69db8ed,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,Everyday Users,$100,Airport Lounge Access,"$1,000",No,Enabled
+5219f1f5,Business Debit Card,Debit Card,For business account holders with expense tracking features,Business Owners,$100,5% on Travel,"$5,000",No,Not Enabled
+eda3db0a,Travel Credit Card,Credit Card,Special benefits for frequent travelers,High Spenders,No Annual Fee,Airport Lounge Access,"$10,000",No,Enabled
+936e5251,Silver Credit Card,Credit Card,Entry-level card with basic benefits,Business Owners,$100,Airport Lounge Access,"$10,000",No,Not Enabled
+65cfe277,Silver Credit Card,Credit Card,Entry-level card with basic benefits,Business Owners,$50,Bonus Points on Dining,"$5,000",Yes,Enabled
+11918ac2,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Business Owners,$25,1% Cashback,"$10,000",Yes,Not Enabled
+45fb7f0e,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Students,No Annual Fee,5% on Travel,No Preset Limit,No,Not Enabled
+2c620332,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Everyday Users,$25,1% Cashback,"$5,000",No,Not Enabled
+ebf1d8f9,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,Everyday Users,$50,Airport Lounge Access,"$5,000",No,Enabled
+99d617fa,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Frequent Travelers,$50,Airport Lounge Access,"$10,000",Yes,Enabled
+ed37a5dc,Business Credit Card,Credit Card,Corporate card for managing business expenses,Frequent Travelers,No Annual Fee,Bonus Points on Dining,No Preset Limit,No,Enabled
+d2e6dc16,Travel Credit Card,Credit Card,Special benefits for frequent travelers,Business Owners,$25,5% on Travel,"$5,000",Yes,Enabled
+355edfb2,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Frequent Travelers,$100,Bonus Points on Dining,"$1,000",No,Enabled
+8c86f0d1,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Students,Waived on Spending,5% on Travel,"$1,000",No,Not Enabled
+49158250,Business Debit Card,Debit Card,For business account holders with expense tracking features,Frequent Travelers,$25,Airport Lounge Access,"$1,000",Yes,Enabled
+7ff2b009,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,Everyday Users,Waived on Spending,5% on Travel,No Preset Limit,Yes,Enabled
+42695725,Travel Credit Card,Credit Card,Special benefits for frequent travelers,Business Owners,$50,Airport Lounge Access,No Preset Limit,No,Enabled
+fe1830b0,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Frequent Travelers,$50,Bonus Points on Dining,"$1,000",Yes,Enabled
+44ffed2f,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Everyday Users,$50,1% Cashback,No Preset Limit,Yes,Not Enabled
+e4bfd6bf,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Everyday Users,$50,Airport Lounge Access,"$10,000",No,Not Enabled
+c2225bd1,Business Debit Card,Debit Card,For business account holders with expense tracking features,Everyday Users,$25,Airport Lounge Access,"$10,000",No,Enabled
+3079af0d,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Everyday Users,$25,Bonus Points on Dining,"$10,000",Yes,Not Enabled
+a12a3cc1,Business Credit Card,Credit Card,Corporate card for managing business expenses,Everyday Users,No Annual Fee,1% Cashback,No Preset Limit,No,Not Enabled
+3e00bed5,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,High Spenders,Waived on Spending,Airport Lounge Access,"$5,000",Yes,Enabled
+96cf3087,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Business Owners,Waived on Spending,5% on Travel,"$10,000",No,Not Enabled
+1bf8ea20,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Frequent Travelers,$100,Bonus Points on Dining,No Preset Limit,No,Enabled
+80002739,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Everyday Users,$25,Airport Lounge Access,No Preset Limit,Yes,Not Enabled
+3dd09cc8,International Debit Card,Debit Card,Multi-currency debit card for global transactions,Everyday Users,Waived on Spending,1% Cashback,"$1,000",Yes,Not Enabled
+7f48114b,Student Credit Card,Credit Card,Low-limit card for students with minimal fees,High Spenders,$50,Bonus Points on Dining,"$10,000",Yes,Not Enabled
+b0a1e63a,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Business Owners,$50,Bonus Points on Dining,"$1,000",Yes,Not Enabled
+fbf773cd,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,High Spenders,Waived on Spending,1% Cashback,"$5,000",No,Enabled
+1a293d10,Contactless Debit Card,Debit Card,Tap-to-pay enabled debit card for convenience,Frequent Travelers,$50,Bonus Points on Dining,No Preset Limit,Yes,Not Enabled
+b80d16f7,Gold Credit Card,Credit Card,Mid-tier card with rewards and cashback options,High Spenders,No Annual Fee,5% on Travel,"$10,000",No,Enabled
+ed0727eb,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Business Owners,Waived on Spending,Airport Lounge Access,"$5,000",Yes,Not Enabled
+c733123c,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Business Owners,$50,Airport Lounge Access,"$10,000",Yes,Enabled
+47f1c4ea,Cashback Credit Card,Credit Card,Earn cashback on everyday purchases,Business Owners,No Annual Fee,Bonus Points on Dining,No Preset Limit,No,Enabled
+8224bd3a,Premium Debit Card,Debit Card,Comes with higher withdrawal limits and insurance benefits,Frequent Travelers,Waived on Spending,Bonus Points on Dining,No Preset Limit,Yes,Enabled
+46ba11d9,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Frequent Travelers,No Annual Fee,1% Cashback,"$5,000",No,Enabled
+4075aceb,Secured Credit Card,Credit Card,Backed by a deposit for those building credit history,Students,$50,Airport Lounge Access,"$10,000",No,Not Enabled
+9e159dc4,Standard Debit Card,Debit Card,Basic debit card linked to a savings account,Frequent Travelers,$50,5% on Travel,"$1,000",No,Enabled
+5d0b3a89,Platinum Credit Card,Credit Card,High-limit card with premium benefits and lounge access,Business Owners,$25,5% on Travel,"$5,000",Yes,Enabled

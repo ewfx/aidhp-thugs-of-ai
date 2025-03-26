@@ -1,0 +1,38 @@
+Product ID,Category,Product Name,Type
+WF1001,Checking Account,Basic Checking,Entry
+WF1002,Checking Account,Preferred Checking,Medium
+WF1003,Checking Account,Premier Checking,Premium
+WF1004,Savings Account,Way2Save Savings,Entry
+WF1005,Savings Account,Platinum Savings,Premium
+WF1006,Certificate of Deposit (CD),Standard CD,Entry
+WF1007,Certificate of Deposit (CD),Step Rate CD,Medium
+WF1008,Credit Card,Cash Wise Visa,Entry
+WF1009,Credit Card,Active Cash Card,Medium
+WF1010,Credit Card,Reflect Visa,Premium
+WF1011,Credit Card,Autograph Card,Premium
+WF1012,Mortgage Loan,Fixed Rate Mortgage,Medium
+WF1013,Mortgage Loan,Adjustable Rate Mortgage,Premium
+WF1014,Auto Loan,New Car Loan,Entry
+WF1015,Auto Loan,Used Car Loan,Medium
+WF1016,Personal Loan,Unsecured Personal Loan,Medium
+WF1017,Personal Loan,Secured Personal Loan,Premium
+WF1018,Student Loan,Undergraduate Loan,Entry
+WF1019,Student Loan,Graduate Loan,Medium
+WF1020,Home Equity Loan,Home Equity Line of Credit (HELOC),Medium
+WF1021,Small Business Loan,SBA Loan,Medium
+WF1022,Small Business Loan,Business Term Loan,Premium
+WF1023,Business Checking Account,Simple Business Checking,Entry
+WF1024,Business Checking Account,Platinum Business Checking,Premium
+WF1025,Business Savings Account,Business Market Rate Savings,Medium
+WF1026,Business Credit Card,Secured Business Card,Entry
+WF1027,Business Credit Card,Platinum Business Card,Premium
+WF1028,Wealth & Investment,Managed Portfolios,Premium
+WF1029,Retirement & IRA,Traditional IRA,Entry
+WF1030,Retirement & IRA,Roth IRA,Medium
+WF1031,Private Banking,VIP Private Banking,Premium
+WF1032,Merchant Services,Payment Processing,Medium
+WF1033,Payroll Services,Employee Payroll Management,Medium
+WF1034,Foreign Exchange,International Wire Transfers,Medium
+WF1035,Treasury Management,Cash Flow Solutions,Premium
+WF1036,Commercial Real Estate,Investment Property Loan,Premium
+WF1037,Commercial Equipment,Equipment Financing,Medium

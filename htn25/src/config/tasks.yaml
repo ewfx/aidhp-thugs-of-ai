@@ -1,0 +1,16 @@
+data_collection_task:
+  description: "Read customer transactions, profiles, and sentiment data to create a comprehensive user profile."
+  agent: customer_profile_aggregator
+  output: customer_data.json
+
+sentiment_analysis_task:
+  description: "Analyze sentiment scores, financial needs, and behavioral patterns."
+  agent: sentiment_behavior_analyst
+  input: customer_data.json
+  output: enriched_customer_data.json
+
+recommendation_task:
+  description: "Generate top 5 financial product recommendations based on customer insights."
+  agent: recommendation_engine
+  input: enriched_customer_data.json
+  output: recommendations.json

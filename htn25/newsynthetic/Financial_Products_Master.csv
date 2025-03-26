@@ -1,0 +1,301 @@
+ProductID,Product Name,Category,Target Customer,Description,Key Benefits,Interest Rate / Fees,Minimum Investment / Deposit,Currency Supported,Risk Level
+31ce9241,Portfolio Management,Wealth Management,SMEs,Customized investment strategies,Low fees,2.5%,"$10,000",JPY,Medium
+b1424b33,Personal Loan,Consumer Banking,Institutions,Unsecured loan for personal expenses,Flexible terms,None,"$1,000",Multi-currency,Medium
+773d5cb5,Hedge Funds,Wealth Management,Institutions,"High-risk, high-return investment strategies",Liquidity,2.5%,"$5,000",EUR,Medium
+69c1df0b,Debt Syndication,Investment Banking,Large Corporations,Raising capital through debt instruments,Tax benefits,7.5%,"$1,000",Multi-currency,Medium
+db15a0b3,Private Equity Funding,Investment Banking,SMEs,Advisory on private capital raising,Flexible terms,Variable,Varies,EUR,Low
+940cf43c,Commodity Hedging,Treasury & Risk Management,Retail,Hedging strategies for commodity price risks,Flexible terms,2.5%,"$50,000",EUR,High
+b6f576f7,Debit Card,Consumer Banking,Institutions,Linked to bank account for purchases,Flexible terms,2.5%,"$50,000",EUR,Medium
+4cba4b1b,Corporate Credit Card,Corporate Banking,Large Corporations,Expense management card for businesses,High returns,5.0%,"$50,000",EUR,Low
+cb70a4da,Asset Securitization,Investment Banking,Institutions,Converting assets into marketable securities,High returns,None,Varies,JPY,High
+86aa906d,Home Loan,Consumer Banking,Institutions,Loan for purchasing or renovating a home,Low fees,Variable,"$1,000",JPY,Medium
+70a74a57,Interest Rate Swaps,Treasury & Risk Management,SMEs,Derivative for managing interest rate risk,Tax benefits,7.5%,"$50,000",JPY,High
+8d6e6547,Structured Finance,Investment Banking,Institutions,Complex financial solutions for businesses,Liquidity,5.0%,"$10,000",JPY,High
+b99f47da,Hedge Funds,Wealth Management,Large Corporations,"High-risk, high-return investment strategies",Liquidity,Variable,"$10,000",USD,High
+4a2e2f35,Personal Loan,Consumer Banking,Large Corporations,Unsecured loan for personal expenses,Low fees,7.5%,"$50,000",Multi-currency,High
+840a3b0d,Student Loan,Consumer Banking,SMEs,Education loan with flexible repayment options,High returns,2.5%,"$1,000",JPY,Low
+22f92037,Estate Planning,Wealth Management,Institutions,Legal and financial planning for inheritance,Flexible terms,7.5%,"$50,000",EUR,Low
+ff80c1f7,Supply Chain Finance,Corporate Banking,Retail,Financing for suppliers and vendors,Flexible terms,Variable,"$10,000",USD,High
+09eb5221,Commodity Hedging,Treasury & Risk Management,Institutions,Hedging strategies for commodity price risks,Tax benefits,Variable,"$10,000",JPY,Low
+eaf019ec,Mutual Funds,Wealth Management,Institutions,Investment in diversified portfolios,High returns,5.0%,"$1,000",GBP,High
+8b9c1e71,Retirement Planning,Wealth Management,SMEs,Long-term investment solutions for retirement,High returns,Variable,Varies,GBP,Medium
+2dcb837b,Interest Rate Swaps,Treasury & Risk Management,Retail,Derivative for managing interest rate risk,Tax benefits,2.5%,Varies,USD,High
+428287b2,Working Capital Loan,Corporate Banking,Institutions,Loan to cover day-to-day business expenses,High returns,5.0%,"$1,000",JPY,Low
+783cee59,Savings Account,Consumer Banking,SMEs,Basic savings account with interest,Liquidity,5.0%,"$10,000",Multi-currency,High
+796db5d5,Credit Card,Consumer Banking,SMEs,Revolving credit facility with rewards,High returns,7.5%,"$5,000",USD,Medium
+85581ef1,Checking Account,Consumer Banking,SMEs,Account for daily transactions with check facility,High returns,5.0%,Varies,Multi-currency,Low
+581b086b,Mutual Funds,Wealth Management,Large Corporations,Investment in diversified portfolios,Tax benefits,2.5%,"$1,000",GBP,High
+20023abc,Mergers & Acquisitions,Investment Banking,Institutions,Advisory services for business mergers,Tax benefits,2.5%,"$1,000",EUR,Low
+6ab29b63,Estate Planning,Wealth Management,Institutions,Legal and financial planning for inheritance,Liquidity,None,Varies,JPY,Low
+e9e6768d,Liquidity Management,Treasury & Risk Management,SMEs,Solutions for optimizing cash flows,Low fees,7.5%,"$50,000",JPY,Medium
+64d288cc,Private Equity Funding,Investment Banking,SMEs,Advisory on private capital raising,Liquidity,5.0%,"$1,000",Multi-currency,High
+e4a8804c,Hedge Funds,Wealth Management,Large Corporations,"High-risk, high-return investment strategies",Low fees,Variable,"$10,000",JPY,Low
+937cf2c1,Credit Card,Consumer Banking,Retail,Revolving credit facility with rewards,Liquidity,5.0%,"$50,000",Multi-currency,Medium
+194eb412,Government Bonds,Treasury & Risk Management,Large Corporations,Low-risk fixed-income securities issued by the government,High returns,7.5%,"$10,000",GBP,High
+6f9ab94a,Student Loan,Consumer Banking,Large Corporations,Education loan with flexible repayment options,Flexible terms,None,"$5,000",EUR,High
+ad9e3592,Liquidity Management,Treasury & Risk Management,SMEs,Solutions for optimizing cash flows,High returns,Variable,"$50,000",JPY,Medium
+9302f7a1,Retirement Planning,Wealth Management,SMEs,Long-term investment solutions for retirement,Low fees,5.0%,"$1,000",JPY,Low
+97fd88a9,Checking Account,Consumer Banking,SMEs,Account for daily transactions with check facility,Low fees,2.5%,"$5,000",Multi-currency,Medium
+c6e3bdc8,Fixed Deposit,Consumer Banking,SMEs,Time-bound deposit with fixed interest rate,Tax benefits,2.5%,Varies,JPY,Medium
+7e1c8095,Interest Rate Swaps,Treasury & Risk Management,Retail,Derivative for managing interest rate risk,Tax benefits,Variable,Varies,Multi-currency,High
+c4e01abd,Hedge Funds,Wealth Management,Large Corporations,"High-risk, high-return investment strategies",Flexible terms,2.5%,Varies,Multi-currency,Low
+1a121d72,Tax Saving Investments,Wealth Management,Retail,Tax-efficient investment schemes,Liquidity,2.5%,Varies,JPY,Medium
+3e93553a,Recurring Deposit,Consumer Banking,SMEs,Monthly deposit plan with interest,High returns,Variable,"$5,000",EUR,Low
+90520e03,Portfolio Management,Wealth Management,Institutions,Customized investment strategies,Low fees,None,"$10,000",JPY,Low
+f011ac88,Private Equity Funding,Investment Banking,Retail,Advisory on private capital raising,Liquidity,Variable,Varies,GBP,Medium
+a247e1f1,Hedge Funds,Wealth Management,Institutions,"High-risk, high-return investment strategies",High returns,7.5%,"$1,000",JPY,Medium
+93ece41b,Mutual Funds,Wealth Management,SMEs,Investment in diversified portfolios,Low fees,Variable,"$1,000",GBP,Low
+b6379797,IPO Advisory,Investment Banking,Institutions,Advisory service for public listing of companies,Flexible terms,2.5%,Varies,GBP,Low
+0a5566f7,Estate Planning,Wealth Management,SMEs,Legal and financial planning for inheritance,Low fees,5.0%,"$50,000",EUR,Medium
+ba407da5,Trade Finance,Corporate Banking,Retail,Letter of credit and trade-related services,Flexible terms,2.5%,"$5,000",GBP,Low
+5dd181e9,Government Bonds,Treasury & Risk Management,Institutions,Low-risk fixed-income securities issued by the government,Tax benefits,5.0%,"$10,000",USD,Low
+a7caedb0,Working Capital Loan,Corporate Banking,Retail,Loan to cover day-to-day business expenses,Low fees,2.5%,"$10,000",USD,High
+e7b03900,Mutual Funds,Wealth Management,Retail,Investment in diversified portfolios,High returns,5.0%,"$10,000",Multi-currency,Low
+e654029f,Asset Securitization,Investment Banking,SMEs,Converting assets into marketable securities,Low fees,Variable,"$10,000",GBP,Medium
+4e817ea5,Recurring Deposit,Consumer Banking,Institutions,Monthly deposit plan with interest,Tax benefits,2.5%,Varies,GBP,High
+fafbfe30,Debit Card,Consumer Banking,Institutions,Linked to bank account for purchases,Low fees,7.5%,"$5,000",USD,High
+1fa019d6,Asset Securitization,Investment Banking,Large Corporations,Converting assets into marketable securities,High returns,5.0%,"$1,000",EUR,Medium
+f3c0cf22,Trade Finance,Corporate Banking,Retail,Letter of credit and trade-related services,Low fees,7.5%,"$50,000",GBP,Medium
+b2eb1140,Credit Card,Consumer Banking,SMEs,Revolving credit facility with rewards,Flexible terms,None,Varies,Multi-currency,Medium
+f27ef5fc,Estate Planning,Wealth Management,Retail,Legal and financial planning for inheritance,High returns,7.5%,"$1,000",USD,Low
+75d0d422,Corporate Credit Card,Corporate Banking,Institutions,Expense management card for businesses,Liquidity,2.5%,"$10,000",GBP,Medium
+4d2d3e98,Recurring Deposit,Consumer Banking,SMEs,Monthly deposit plan with interest,Low fees,7.5%,"$5,000",EUR,High
+4a333fc2,Recurring Deposit,Consumer Banking,Large Corporations,Monthly deposit plan with interest,Flexible terms,None,"$1,000",EUR,Medium
+afea6d0d,Liquidity Management,Treasury & Risk Management,SMEs,Solutions for optimizing cash flows,Tax benefits,None,"$5,000",EUR,Low
+b5a346f6,Hedge Funds,Wealth Management,Retail,"High-risk, high-return investment strategies",Tax benefits,Variable,Varies,EUR,Low
+eb3c8199,Checking Account,Consumer Banking,Institutions,Account for daily transactions with check facility,High returns,7.5%,"$1,000",USD,Low
+517ed823,Debit Card,Consumer Banking,SMEs,Linked to bank account for purchases,Tax benefits,5.0%,"$10,000",EUR,Medium
+44a24317,Commodity Hedging,Treasury & Risk Management,Institutions,Hedging strategies for commodity price risks,High returns,None,"$10,000",USD,High
+308e944a,Corporate Credit Card,Corporate Banking,SMEs,Expense management card for businesses,Tax benefits,5.0%,Varies,Multi-currency,High
+344fc44c,Working Capital Loan,Corporate Banking,Institutions,Loan to cover day-to-day business expenses,High returns,None,Varies,EUR,Low
+20bcb3d6,Liquidity Management,Treasury & Risk Management,SMEs,Solutions for optimizing cash flows,Tax benefits,2.5%,"$50,000",GBP,High
+1ad9f92b,Debit Card,Consumer Banking,SMEs,Linked to bank account for purchases,Tax benefits,Variable,"$5,000",USD,Low
+76d839bf,Overdraft Facility,Corporate Banking,Large Corporations,Short-term credit for liquidity management,Tax benefits,5.0%,Varies,JPY,Low
+26bac9ae,Credit Card,Consumer Banking,Large Corporations,Revolving credit facility with rewards,Flexible terms,None,"$50,000",GBP,Medium
+d1d7f4f6,Commercial Real Estate Loan,Corporate Banking,Retail,Loan for office buildings and factories,Low fees,Variable,"$1,000",JPY,Medium
+f5ff4fc3,IPO Advisory,Investment Banking,Large Corporations,Advisory service for public listing of companies,Low fees,5.0%,"$5,000",USD,Low
+68c63df0,Estate Planning,Wealth Management,Institutions,Legal and financial planning for inheritance,Tax benefits,None,"$1,000",USD,High
+1cf55926,Business Loan,Corporate Banking,Retail,Loan for business expansion and working capital,Flexible terms,Variable,"$10,000",Multi-currency,High
+851799af,Forex Trading,Treasury & Risk Management,Retail,Foreign exchange trading for hedging and speculation,Tax benefits,Variable,Varies,GBP,Low
+9c0a8363,Government Bonds,Treasury & Risk Management,SMEs,Low-risk fixed-income securities issued by the government,Liquidity,2.5%,"$5,000",JPY,Medium
+eb77a304,Structured Finance,Investment Banking,Institutions,Complex financial solutions for businesses,Low fees,5.0%,"$50,000",JPY,Low
+b70be728,Commercial Real Estate Loan,Corporate Banking,Retail,Loan for office buildings and factories,Tax benefits,5.0%,"$10,000",Multi-currency,Low
+54d1451b,Commodity Hedging,Treasury & Risk Management,Large Corporations,Hedging strategies for commodity price risks,Tax benefits,2.5%,Varies,USD,High
+ef6635f0,Credit Card,Consumer Banking,SMEs,Revolving credit facility with rewards,Flexible terms,None,"$1,000",JPY,Medium
+af16203e,Portfolio Management,Wealth Management,SMEs,Customized investment strategies,Low fees,2.5%,"$1,000",Multi-currency,Medium
+c3b70586,Retirement Planning,Wealth Management,Retail,Long-term investment solutions for retirement,Low fees,Variable,"$1,000",EUR,Low
+1b2b3fac,Hedge Funds,Wealth Management,Large Corporations,"High-risk, high-return investment strategies",Liquidity,None,Varies,Multi-currency,High
+7d82c747,Working Capital Loan,Corporate Banking,Retail,Loan to cover day-to-day business expenses,Tax benefits,7.5%,"$10,000",GBP,Medium
+37f12b3e,Asset Securitization,Investment Banking,Institutions,Converting assets into marketable securities,Liquidity,7.5%,"$5,000",GBP,Medium
+6a2f0a7f,Corporate Credit Card,Corporate Banking,Retail,Expense management card for businesses,Tax benefits,2.5%,"$1,000",GBP,Low
+05c5a10a,Forex Trading,Treasury & Risk Management,SMEs,Foreign exchange trading for hedging and speculation,Tax benefits,None,Varies,Multi-currency,Medium
+202bf92c,IPO Advisory,Investment Banking,Large Corporations,Advisory service for public listing of companies,Liquidity,5.0%,Varies,JPY,Low
+fe6ed299,Tax Saving Investments,Wealth Management,Large Corporations,Tax-efficient investment schemes,Low fees,None,"$1,000",GBP,Medium
+1c910e42,Fixed Deposit,Consumer Banking,Large Corporations,Time-bound deposit with fixed interest rate,Low fees,5.0%,"$50,000",Multi-currency,Medium
+42cbb386,Interest Rate Swaps,Treasury & Risk Management,Large Corporations,Derivative for managing interest rate risk,Low fees,2.5%,"$1,000",USD,Medium
+3566c8bc,Asset Securitization,Investment Banking,SMEs,Converting assets into marketable securities,Low fees,5.0%,Varies,USD,High
+437ab24b,Working Capital Loan,Corporate Banking,Institutions,Loan to cover day-to-day business expenses,High returns,2.5%,"$1,000",JPY,Medium
+b25da73e,Trade Finance,Corporate Banking,Large Corporations,Letter of credit and trade-related services,Low fees,5.0%,"$1,000",Multi-currency,High
+00120928,Overdraft Facility,Corporate Banking,SMEs,Short-term credit for liquidity management,High returns,5.0%,"$10,000",USD,Low
+6e4cef29,Retirement Planning,Wealth Management,Institutions,Long-term investment solutions for retirement,High returns,Variable,"$1,000",GBP,Low
+b49d7c6c,Commercial Real Estate Loan,Corporate Banking,SMEs,Loan for office buildings and factories,Low fees,2.5%,"$50,000",Multi-currency,High
+f4bb102c,Commodity Hedging,Treasury & Risk Management,Institutions,Hedging strategies for commodity price risks,Flexible terms,5.0%,"$10,000",Multi-currency,Medium
+50d516f3,Checking Account,Consumer Banking,Large Corporations,Account for daily transactions with check facility,High returns,2.5%,"$1,000",JPY,Medium
+41e73d97,Forex Trading,Treasury & Risk Management,SMEs,Foreign exchange trading for hedging and speculation,High returns,None,"$50,000",EUR,Medium
+788f2999,Debt Syndication,Investment Banking,SMEs,Raising capital through debt instruments,Liquidity,Variable,Varies,Multi-currency,Medium
+35699652,Structured Finance,Investment Banking,Retail,Complex financial solutions for businesses,High returns,Variable,"$5,000",GBP,Low
+fde72ce0,Government Bonds,Treasury & Risk Management,Retail,Low-risk fixed-income securities issued by the government,Flexible terms,Variable,"$5,000",GBP,Medium
+b7ea6f19,Estate Planning,Wealth Management,Institutions,Legal and financial planning for inheritance,Tax benefits,5.0%,"$1,000",JPY,High
+c63bcee4,Private Equity Funding,Investment Banking,SMEs,Advisory on private capital raising,Flexible terms,7.5%,"$5,000",EUR,Low
+a96a7a47,Mergers & Acquisitions,Investment Banking,Retail,Advisory services for business mergers,Low fees,5.0%,"$5,000",Multi-currency,High
+ee5fe2f4,Credit Card,Consumer Banking,SMEs,Revolving credit facility with rewards,Flexible terms,7.5%,Varies,EUR,High
+77d9c57e,Mutual Funds,Wealth Management,Retail,Investment in diversified portfolios,High returns,5.0%,"$50,000",EUR,Medium
+7aabe224,Interest Rate Swaps,Treasury & Risk Management,SMEs,Derivative for managing interest rate risk,Tax benefits,None,"$50,000",USD,Low
+f4c1ea4c,Asset Securitization,Investment Banking,Retail,Converting assets into marketable securities,Liquidity,None,Varies,USD,Medium
+4a64ee5c,Interest Rate Swaps,Treasury & Risk Management,Retail,Derivative for managing interest rate risk,Low fees,7.5%,"$50,000",JPY,Low
+508d5702,Overdraft Facility,Corporate Banking,Large Corporations,Short-term credit for liquidity management,Tax benefits,5.0%,"$1,000",JPY,High
+ff0f8ce3,Debit Card,Consumer Banking,Large Corporations,Linked to bank account for purchases,High returns,Variable,"$1,000",USD,High
+26d8aa4f,Credit Card,Consumer Banking,Retail,Revolving credit facility with rewards,Flexible terms,Variable,"$5,000",USD,Low
+9d5abebd,Liquidity Management,Treasury & Risk Management,Institutions,Solutions for optimizing cash flows,High returns,7.5%,"$5,000",Multi-currency,Medium
+4dc12ede,Liquidity Management,Treasury & Risk Management,Retail,Solutions for optimizing cash flows,Low fees,Variable,Varies,USD,Medium
+78338def,Mutual Funds,Wealth Management,SMEs,Investment in diversified portfolios,Tax benefits,Variable,"$10,000",EUR,High
+c0bc62b0,Forex Trading,Treasury & Risk Management,Large Corporations,Foreign exchange trading for hedging and speculation,Liquidity,None,"$10,000",EUR,High
+10fb8317,Tax Saving Investments,Wealth Management,Retail,Tax-efficient investment schemes,Low fees,5.0%,"$1,000",EUR,High
+0b99117d,Checking Account,Consumer Banking,SMEs,Account for daily transactions with check facility,Flexible terms,7.5%,"$1,000",USD,Medium
+b3cbad25,Tax Saving Investments,Wealth Management,Institutions,Tax-efficient investment schemes,Flexible terms,Variable,"$1,000",GBP,Medium
+5ad28add,Government Bonds,Treasury & Risk Management,Large Corporations,Low-risk fixed-income securities issued by the government,Liquidity,5.0%,"$1,000",JPY,Medium
+c5e471d4,Trade Finance,Corporate Banking,Institutions,Letter of credit and trade-related services,Tax benefits,Variable,"$1,000",EUR,Low
+bd153fad,IPO Advisory,Investment Banking,Large Corporations,Advisory service for public listing of companies,Flexible terms,5.0%,"$1,000",GBP,Medium
+8651c17d,Auto Loan,Consumer Banking,Retail,Loan for purchasing a vehicle,Liquidity,None,Varies,USD,Medium
+03746d2f,Forex Trading,Treasury & Risk Management,SMEs,Foreign exchange trading for hedging and speculation,Low fees,Variable,"$50,000",GBP,High
+24b00575,Corporate Credit Card,Corporate Banking,SMEs,Expense management card for businesses,Flexible terms,None,Varies,JPY,Low
+1c878750,Private Equity Funding,Investment Banking,Large Corporations,Advisory on private capital raising,Liquidity,7.5%,"$5,000",GBP,Low
+db3df3c5,Mergers & Acquisitions,Investment Banking,Institutions,Advisory services for business mergers,Liquidity,7.5%,"$50,000",JPY,Medium
+59108836,Commercial Real Estate Loan,Corporate Banking,Large Corporations,Loan for office buildings and factories,Liquidity,Variable,Varies,GBP,Low
+5f5734ee,Asset Securitization,Investment Banking,Large Corporations,Converting assets into marketable securities,Tax benefits,None,"$10,000",GBP,High
+7e464f63,Government Bonds,Treasury & Risk Management,SMEs,Low-risk fixed-income securities issued by the government,High returns,5.0%,"$5,000",USD,High
+4431b9a7,Private Equity Funding,Investment Banking,Retail,Advisory on private capital raising,High returns,7.5%,"$50,000",USD,Medium
+c6118c64,Liquidity Management,Treasury & Risk Management,SMEs,Solutions for optimizing cash flows,Liquidity,Variable,"$10,000",GBP,High
+437fc819,Checking Account,Consumer Banking,Large Corporations,Account for daily transactions with check facility,Liquidity,7.5%,"$5,000",EUR,Medium
+2d0243bf,Mutual Funds,Wealth Management,SMEs,Investment in diversified portfolios,High returns,Variable,"$5,000",EUR,High
+a4dc35e7,Hedge Funds,Wealth Management,SMEs,"High-risk, high-return investment strategies",Liquidity,5.0%,Varies,Multi-currency,High
+dc99a8ad,Retirement Planning,Wealth Management,Large Corporations,Long-term investment solutions for retirement,High returns,7.5%,"$5,000",JPY,High
+610b23d7,Fixed Deposit,Consumer Banking,SMEs,Time-bound deposit with fixed interest rate,Flexible terms,5.0%,"$10,000",EUR,Low
+fd64870a,Estate Planning,Wealth Management,Large Corporations,Legal and financial planning for inheritance,Liquidity,5.0%,"$50,000",JPY,Medium
+62662398,Interest Rate Swaps,Treasury & Risk Management,Institutions,Derivative for managing interest rate risk,Liquidity,7.5%,Varies,JPY,Medium
+91de4057,Forex Trading,Treasury & Risk Management,Retail,Foreign exchange trading for hedging and speculation,High returns,2.5%,"$50,000",JPY,Low
+953a7a03,Recurring Deposit,Consumer Banking,Retail,Monthly deposit plan with interest,Low fees,5.0%,"$50,000",EUR,High
+8929a3ce,Portfolio Management,Wealth Management,Retail,Customized investment strategies,Flexible terms,7.5%,Varies,JPY,Low
+872d33e7,Home Loan,Consumer Banking,SMEs,Loan for purchasing or renovating a home,Liquidity,5.0%,"$10,000",USD,Low
+ccd6a16c,Recurring Deposit,Consumer Banking,Institutions,Monthly deposit plan with interest,Flexible terms,7.5%,"$10,000",GBP,High
+bd742d11,Mutual Funds,Wealth Management,SMEs,Investment in diversified portfolios,High returns,7.5%,"$50,000",Multi-currency,High
+d8e47ecb,Retirement Planning,Wealth Management,Large Corporations,Long-term investment solutions for retirement,High returns,5.0%,"$10,000",JPY,Low
+fd9ee90e,Debit Card,Consumer Banking,Institutions,Linked to bank account for purchases,Tax benefits,None,"$10,000",USD,Medium
+614f1bc1,Portfolio Management,Wealth Management,Large Corporations,Customized investment strategies,High returns,None,"$50,000",Multi-currency,High
+3e3dddeb,Fixed Deposit,Consumer Banking,Retail,Time-bound deposit with fixed interest rate,Tax benefits,Variable,Varies,Multi-currency,High
+27254e97,Estate Planning,Wealth Management,Institutions,Legal and financial planning for inheritance,Tax benefits,2.5%,"$10,000",EUR,High
+b6096fd6,Structured Finance,Investment Banking,Retail,Complex financial solutions for businesses,High returns,Variable,"$50,000",USD,High
+6242533a,Supply Chain Finance,Corporate Banking,SMEs,Financing for suppliers and vendors,High returns,5.0%,"$50,000",GBP,High
+8721c105,Tax Saving Investments,Wealth Management,SMEs,Tax-efficient investment schemes,High returns,Variable,Varies,EUR,Medium
+1d4a9cfd,Auto Loan,Consumer Banking,Retail,Loan for purchasing a vehicle,Tax benefits,7.5%,"$50,000",GBP,High
+150edc72,Forex Trading,Treasury & Risk Management,SMEs,Foreign exchange trading for hedging and speculation,Flexible terms,Variable,Varies,JPY,Medium
+b2bf68d2,Overdraft Facility,Corporate Banking,SMEs,Short-term credit for liquidity management,Low fees,5.0%,"$5,000",JPY,Low
+d3383abc,Business Loan,Corporate Banking,Institutions,Loan for business expansion and working capital,Tax benefits,5.0%,"$10,000",EUR,Medium
+f4b4a7c0,Business Loan,Corporate Banking,Large Corporations,Loan for business expansion and working capital,Liquidity,7.5%,"$50,000",EUR,High
+fc09f271,Supply Chain Finance,Corporate Banking,SMEs,Financing for suppliers and vendors,Tax benefits,2.5%,"$50,000",USD,High
+ea611be2,Forex Trading,Treasury & Risk Management,Retail,Foreign exchange trading for hedging and speculation,High returns,7.5%,"$5,000",GBP,Medium
+faf3a648,Auto Loan,Consumer Banking,Large Corporations,Loan for purchasing a vehicle,Tax benefits,None,Varies,GBP,High
+dca56414,Tax Saving Investments,Wealth Management,SMEs,Tax-efficient investment schemes,High returns,5.0%,"$5,000",USD,High
+1356a98c,Supply Chain Finance,Corporate Banking,SMEs,Financing for suppliers and vendors,Flexible terms,5.0%,"$10,000",JPY,Medium
+08ec2c08,Business Loan,Corporate Banking,Retail,Loan for business expansion and working capital,Flexible terms,7.5%,"$10,000",EUR,Low
+802f5652,Forex Trading,Treasury & Risk Management,Retail,Foreign exchange trading for hedging and speculation,Liquidity,None,Varies,JPY,Medium
+79a6174b,Trade Finance,Corporate Banking,Institutions,Letter of credit and trade-related services,High returns,5.0%,"$10,000",Multi-currency,High
+44df3eab,Portfolio Management,Wealth Management,Retail,Customized investment strategies,Liquidity,5.0%,"$1,000",USD,Low
+ee37aa59,Savings Account,Consumer Banking,Large Corporations,Basic savings account with interest,High returns,2.5%,Varies,JPY,Medium
+c5e78e78,Portfolio Management,Wealth Management,Institutions,Customized investment strategies,High returns,Variable,"$10,000",USD,Medium
+6210b5cd,Liquidity Management,Treasury & Risk Management,Institutions,Solutions for optimizing cash flows,Tax benefits,Variable,"$10,000",USD,High
+94059a3c,Overdraft Facility,Corporate Banking,Retail,Short-term credit for liquidity management,Flexible terms,7.5%,Varies,EUR,High
+9c48e8fd,IPO Advisory,Investment Banking,SMEs,Advisory service for public listing of companies,High returns,2.5%,"$50,000",JPY,Medium
+e4fb5859,Recurring Deposit,Consumer Banking,Large Corporations,Monthly deposit plan with interest,Tax benefits,2.5%,"$50,000",GBP,Low
+f93ce0ad,Liquidity Management,Treasury & Risk Management,SMEs,Solutions for optimizing cash flows,Flexible terms,None,"$5,000",EUR,High
+941f4a82,Liquidity Management,Treasury & Risk Management,Large Corporations,Solutions for optimizing cash flows,High returns,5.0%,"$10,000",USD,High
+62401ecd,Recurring Deposit,Consumer Banking,Retail,Monthly deposit plan with interest,Tax benefits,2.5%,Varies,GBP,High
+3da91e7a,Commercial Real Estate Loan,Corporate Banking,Institutions,Loan for office buildings and factories,Tax benefits,2.5%,"$5,000",Multi-currency,Medium
+dc0d75f7,Trade Finance,Corporate Banking,SMEs,Letter of credit and trade-related services,Liquidity,Variable,"$50,000",GBP,Medium
+a6d48d35,Portfolio Management,Wealth Management,Retail,Customized investment strategies,High returns,2.5%,"$5,000",Multi-currency,Medium
+b6317447,Debt Syndication,Investment Banking,SMEs,Raising capital through debt instruments,Flexible terms,5.0%,"$1,000",USD,High
+ce879a84,Corporate Credit Card,Corporate Banking,Large Corporations,Expense management card for businesses,High returns,None,"$5,000",EUR,Low
+49c05607,Fixed Deposit,Consumer Banking,Large Corporations,Time-bound deposit with fixed interest rate,Tax benefits,2.5%,"$10,000",JPY,Low
+b8264ba9,Interest Rate Swaps,Treasury & Risk Management,SMEs,Derivative for managing interest rate risk,Tax benefits,Variable,"$1,000",Multi-currency,High
+fd5e199f,Commercial Real Estate Loan,Corporate Banking,Institutions,Loan for office buildings and factories,Tax benefits,5.0%,"$10,000",USD,Low
+6185c3b3,Debt Syndication,Investment Banking,Retail,Raising capital through debt instruments,High returns,None,"$50,000",GBP,Medium
+f9f812cf,Recurring Deposit,Consumer Banking,SMEs,Monthly deposit plan with interest,High returns,7.5%,"$5,000",JPY,Medium
+338e5dce,Trade Finance,Corporate Banking,SMEs,Letter of credit and trade-related services,Tax benefits,7.5%,"$1,000",Multi-currency,High
+f84d165c,Structured Finance,Investment Banking,Retail,Complex financial solutions for businesses,Flexible terms,Variable,"$5,000",EUR,High
+09142203,Debt Syndication,Investment Banking,Institutions,Raising capital through debt instruments,Low fees,5.0%,"$1,000",EUR,High
+90a241e9,Corporate Credit Card,Corporate Banking,SMEs,Expense management card for businesses,Liquidity,None,"$5,000",EUR,High
+ee359222,Interest Rate Swaps,Treasury & Risk Management,Institutions,Derivative for managing interest rate risk,Flexible terms,Variable,Varies,GBP,High
+c575b905,Structured Finance,Investment Banking,SMEs,Complex financial solutions for businesses,Low fees,None,Varies,JPY,High
+33429371,Tax Saving Investments,Wealth Management,Retail,Tax-efficient investment schemes,High returns,2.5%,Varies,EUR,Low
+3facd76c,Commodity Hedging,Treasury & Risk Management,SMEs,Hedging strategies for commodity price risks,Flexible terms,5.0%,"$50,000",EUR,High
+a352fdbb,Debit Card,Consumer Banking,Institutions,Linked to bank account for purchases,Liquidity,5.0%,"$50,000",JPY,High
+f7b834b9,Hedge Funds,Wealth Management,Retail,"High-risk, high-return investment strategies",Liquidity,5.0%,"$1,000",USD,High
+009ca1c3,Liquidity Management,Treasury & Risk Management,Institutions,Solutions for optimizing cash flows,Tax benefits,None,Varies,Multi-currency,Medium
+9e05a10c,Corporate Credit Card,Corporate Banking,SMEs,Expense management card for businesses,Liquidity,Variable,Varies,Multi-currency,Medium
+b16998b5,Structured Finance,Investment Banking,Institutions,Complex financial solutions for businesses,Liquidity,2.5%,"$5,000",EUR,Low
+a16378ad,Debt Syndication,Investment Banking,Retail,Raising capital through debt instruments,High returns,7.5%,"$10,000",USD,Low
+cc1c0dab,Hedge Funds,Wealth Management,Retail,"High-risk, high-return investment strategies",Flexible terms,7.5%,"$10,000",EUR,Medium
+d6b876d1,IPO Advisory,Investment Banking,SMEs,Advisory service for public listing of companies,Low fees,7.5%,"$50,000",JPY,Low
+503a4e92,Checking Account,Consumer Banking,Large Corporations,Account for daily transactions with check facility,Flexible terms,5.0%,"$5,000",GBP,Low
+1f38cfdc,Student Loan,Consumer Banking,SMEs,Education loan with flexible repayment options,Flexible terms,2.5%,Varies,Multi-currency,Medium
+9476ec17,Recurring Deposit,Consumer Banking,Institutions,Monthly deposit plan with interest,Flexible terms,2.5%,"$10,000",USD,High
+b33a5e58,IPO Advisory,Investment Banking,Institutions,Advisory service for public listing of companies,High returns,2.5%,Varies,USD,High
+00d35626,Retirement Planning,Wealth Management,SMEs,Long-term investment solutions for retirement,Flexible terms,None,"$1,000",USD,Low
+06c37c32,Commercial Real Estate Loan,Corporate Banking,Retail,Loan for office buildings and factories,Tax benefits,None,"$1,000",JPY,Low
+b54ec072,Structured Finance,Investment Banking,Retail,Complex financial solutions for businesses,Low fees,2.5%,"$10,000",Multi-currency,Medium
+0f4e455f,Auto Loan,Consumer Banking,Institutions,Loan for purchasing a vehicle,Liquidity,2.5%,"$10,000",EUR,High
+d977832a,Corporate Credit Card,Corporate Banking,Institutions,Expense management card for businesses,Tax benefits,5.0%,"$5,000",JPY,High
+5756f3a1,Structured Finance,Investment Banking,Large Corporations,Complex financial solutions for businesses,Liquidity,2.5%,"$1,000",Multi-currency,High
+b47b2286,Overdraft Facility,Corporate Banking,SMEs,Short-term credit for liquidity management,Low fees,Variable,"$5,000",GBP,High
+6513ff3a,Debit Card,Consumer Banking,Large Corporations,Linked to bank account for purchases,Liquidity,Variable,"$10,000",GBP,Medium
+8c08b6b0,Savings Account,Consumer Banking,SMEs,Basic savings account with interest,Low fees,Variable,"$10,000",GBP,Medium
+a2559ad2,Portfolio Management,Wealth Management,SMEs,Customized investment strategies,High returns,None,"$10,000",EUR,Low
+60bfa41c,Trade Finance,Corporate Banking,Retail,Letter of credit and trade-related services,High returns,Variable,"$5,000",USD,High
+3220893d,Overdraft Facility,Corporate Banking,SMEs,Short-term credit for liquidity management,Tax benefits,5.0%,"$1,000",JPY,Low
+94b77d49,Overdraft Facility,Corporate Banking,Institutions,Short-term credit for liquidity management,Low fees,None,"$1,000",EUR,Medium
+200976c7,Supply Chain Finance,Corporate Banking,SMEs,Financing for suppliers and vendors,Tax benefits,Variable,"$10,000",EUR,High
+5f03c92b,Portfolio Management,Wealth Management,Retail,Customized investment strategies,Flexible terms,2.5%,"$10,000",GBP,Low
+9af50a89,Corporate Credit Card,Corporate Banking,Retail,Expense management card for businesses,Flexible terms,2.5%,"$5,000",EUR,Low
+93724a92,Fixed Deposit,Consumer Banking,Large Corporations,Time-bound deposit with fixed interest rate,Low fees,None,"$10,000",GBP,Low
+6b0047d2,Fixed Deposit,Consumer Banking,Institutions,Time-bound deposit with fixed interest rate,Tax benefits,Variable,"$1,000",Multi-currency,High
+9688fea7,Personal Loan,Consumer Banking,SMEs,Unsecured loan for personal expenses,Flexible terms,7.5%,"$10,000",Multi-currency,High
+7bd28639,Hedge Funds,Wealth Management,Retail,"High-risk, high-return investment strategies",High returns,Variable,"$10,000",USD,High
+3fbc57cf,Hedge Funds,Wealth Management,SMEs,"High-risk, high-return investment strategies",High returns,None,"$1,000",EUR,Low
+ccf52a4d,Corporate Credit Card,Corporate Banking,Retail,Expense management card for businesses,Liquidity,Variable,"$50,000",EUR,High
+afea6c4c,Working Capital Loan,Corporate Banking,SMEs,Loan to cover day-to-day business expenses,Low fees,5.0%,"$50,000",JPY,Low
+53223ad8,Government Bonds,Treasury & Risk Management,Large Corporations,Low-risk fixed-income securities issued by the government,High returns,None,"$5,000",GBP,Low
+ce94603f,Supply Chain Finance,Corporate Banking,Institutions,Financing for suppliers and vendors,Liquidity,None,"$5,000",EUR,Low
+517e62fa,Overdraft Facility,Corporate Banking,Retail,Short-term credit for liquidity management,High returns,None,"$50,000",Multi-currency,Medium
+b880c2a2,Fixed Deposit,Consumer Banking,Large Corporations,Time-bound deposit with fixed interest rate,Flexible terms,Variable,"$10,000",Multi-currency,Medium
+b214e531,Mergers & Acquisitions,Investment Banking,Large Corporations,Advisory services for business mergers,Tax benefits,7.5%,Varies,USD,High
+eea75e38,Forex Trading,Treasury & Risk Management,Large Corporations,Foreign exchange trading for hedging and speculation,Flexible terms,7.5%,"$5,000",JPY,Medium
+c23a88d8,Asset Securitization,Investment Banking,Retail,Converting assets into marketable securities,Tax benefits,5.0%,"$10,000",Multi-currency,Medium
+a14f18d9,Government Bonds,Treasury & Risk Management,Institutions,Low-risk fixed-income securities issued by the government,Flexible terms,Variable,"$10,000",JPY,High
+fd86dfec,Mergers & Acquisitions,Investment Banking,Large Corporations,Advisory services for business mergers,Flexible terms,7.5%,"$10,000",EUR,Low
+03a34eb5,Hedge Funds,Wealth Management,Retail,"High-risk, high-return investment strategies",Low fees,2.5%,Varies,JPY,Medium
+219f7546,Commodity Hedging,Treasury & Risk Management,Institutions,Hedging strategies for commodity price risks,High returns,2.5%,"$50,000",USD,High
+e9e1cfc5,Interest Rate Swaps,Treasury & Risk Management,SMEs,Derivative for managing interest rate risk,Flexible terms,5.0%,"$5,000",Multi-currency,Low
+fd17ab31,Credit Card,Consumer Banking,Large Corporations,Revolving credit facility with rewards,High returns,Variable,"$50,000",JPY,Low
+d1294eaf,Auto Loan,Consumer Banking,Institutions,Loan for purchasing a vehicle,Low fees,7.5%,Varies,Multi-currency,Medium
+819dbb16,Tax Saving Investments,Wealth Management,Large Corporations,Tax-efficient investment schemes,Flexible terms,7.5%,"$1,000",Multi-currency,Low
+a5fb2ef9,Recurring Deposit,Consumer Banking,SMEs,Monthly deposit plan with interest,Flexible terms,None,"$50,000",EUR,Medium
+259677fc,Debt Syndication,Investment Banking,Retail,Raising capital through debt instruments,Flexible terms,None,"$10,000",Multi-currency,Medium
+76f817b9,Estate Planning,Wealth Management,Retail,Legal and financial planning for inheritance,Liquidity,7.5%,"$1,000",USD,Medium
+d49ba2dd,Credit Card,Consumer Banking,Retail,Revolving credit facility with rewards,Tax benefits,7.5%,"$5,000",JPY,High
+089a42cd,Business Loan,Corporate Banking,Institutions,Loan for business expansion and working capital,Tax benefits,7.5%,"$1,000",JPY,Medium
+c02e40cf,Private Equity Funding,Investment Banking,Retail,Advisory on private capital raising,Tax benefits,Variable,"$1,000",GBP,Medium
+18433ba7,Business Loan,Corporate Banking,Institutions,Loan for business expansion and working capital,High returns,7.5%,"$5,000",EUR,Medium
+114d9469,Business Loan,Corporate Banking,Large Corporations,Loan for business expansion and working capital,Liquidity,None,"$5,000",GBP,Low
+dcdd625e,Government Bonds,Treasury & Risk Management,Institutions,Low-risk fixed-income securities issued by the government,Flexible terms,Variable,Varies,EUR,Medium
+5b00e1fd,Home Loan,Consumer Banking,SMEs,Loan for purchasing or renovating a home,High returns,2.5%,"$10,000",Multi-currency,High
+521d3a6a,Liquidity Management,Treasury & Risk Management,SMEs,Solutions for optimizing cash flows,Flexible terms,Variable,"$10,000",JPY,Medium
+76fba8b9,Liquidity Management,Treasury & Risk Management,Retail,Solutions for optimizing cash flows,Liquidity,5.0%,"$5,000",EUR,Medium
+0773d184,Personal Loan,Consumer Banking,SMEs,Unsecured loan for personal expenses,Tax benefits,7.5%,"$10,000",GBP,Low
+ce0b6f50,Structured Finance,Investment Banking,Institutions,Complex financial solutions for businesses,Flexible terms,Variable,"$1,000",Multi-currency,Medium
+1f0ceb14,Business Loan,Corporate Banking,SMEs,Loan for business expansion and working capital,Flexible terms,Variable,Varies,EUR,Low
+de36aebb,Personal Loan,Consumer Banking,SMEs,Unsecured loan for personal expenses,Low fees,2.5%,"$1,000",USD,Low
+a659e13a,Debit Card,Consumer Banking,SMEs,Linked to bank account for purchases,Liquidity,None,"$5,000",JPY,Medium
+3664279a,Business Loan,Corporate Banking,Institutions,Loan for business expansion and working capital,High returns,2.5%,"$10,000",Multi-currency,Medium
+7e4d9059,Mergers & Acquisitions,Investment Banking,Large Corporations,Advisory services for business mergers,Tax benefits,2.5%,"$50,000",Multi-currency,Medium
+26f99ee8,Interest Rate Swaps,Treasury & Risk Management,Institutions,Derivative for managing interest rate risk,High returns,5.0%,"$1,000",JPY,Low
+d995d22a,Savings Account,Consumer Banking,Retail,Basic savings account with interest,Tax benefits,2.5%,"$5,000",Multi-currency,Low
+3e6547cd,Auto Loan,Consumer Banking,SMEs,Loan for purchasing a vehicle,Low fees,Variable,"$1,000",GBP,Medium
+0674067b,Asset Securitization,Investment Banking,Large Corporations,Converting assets into marketable securities,High returns,2.5%,Varies,Multi-currency,Low
+8e1ee68a,Corporate Credit Card,Corporate Banking,Retail,Expense management card for businesses,High returns,None,"$5,000",GBP,Low
+d1499ec7,Working Capital Loan,Corporate Banking,SMEs,Loan to cover day-to-day business expenses,Flexible terms,7.5%,"$50,000",USD,High
+93256b54,Working Capital Loan,Corporate Banking,Large Corporations,Loan to cover day-to-day business expenses,Flexible terms,Variable,"$50,000",JPY,Medium
+9f161bf2,Corporate Credit Card,Corporate Banking,Large Corporations,Expense management card for businesses,Flexible terms,5.0%,"$10,000",Multi-currency,High
+5d21f776,Overdraft Facility,Corporate Banking,Institutions,Short-term credit for liquidity management,Liquidity,Variable,Varies,GBP,Low
+c2138c0d,Auto Loan,Consumer Banking,Large Corporations,Loan for purchasing a vehicle,Tax benefits,5.0%,"$10,000",Multi-currency,Medium
+8fbd89bb,Fixed Deposit,Consumer Banking,Large Corporations,Time-bound deposit with fixed interest rate,Liquidity,None,Varies,GBP,Medium
+8db5d415,Government Bonds,Treasury & Risk Management,Large Corporations,Low-risk fixed-income securities issued by the government,Liquidity,5.0%,"$1,000",JPY,Medium
+4f7ea4f6,Checking Account,Consumer Banking,Large Corporations,Account for daily transactions with check facility,Liquidity,Variable,"$50,000",JPY,High
+efc230e3,Portfolio Management,Wealth Management,Retail,Customized investment strategies,Tax benefits,2.5%,Varies,EUR,Low
+09fa1a98,Interest Rate Swaps,Treasury & Risk Management,Large Corporations,Derivative for managing interest rate risk,Liquidity,None,"$1,000",USD,High
+61b99738,Hedge Funds,Wealth Management,SMEs,"High-risk, high-return investment strategies",High returns,5.0%,"$50,000",Multi-currency,High
+03036040,Asset Securitization,Investment Banking,Retail,Converting assets into marketable securities,Liquidity,None,"$5,000",USD,High
+7d1cf430,Mutual Funds,Wealth Management,Institutions,Investment in diversified portfolios,Low fees,None,Varies,EUR,Medium
+d5f8a421,Supply Chain Finance,Corporate Banking,Large Corporations,Financing for suppliers and vendors,High returns,Variable,"$1,000",GBP,Low
+a9d8793f,Overdraft Facility,Corporate Banking,Institutions,Short-term credit for liquidity management,High returns,7.5%,"$1,000",GBP,Medium
+86a57059,Working Capital Loan,Corporate Banking,Large Corporations,Loan to cover day-to-day business expenses,Liquidity,Variable,Varies,GBP,Medium
+83d10f6e,Checking Account,Consumer Banking,SMEs,Account for daily transactions with check facility,Low fees,7.5%,"$50,000",EUR,High
+18cf19fa,Checking Account,Consumer Banking,Institutions,Account for daily transactions with check facility,Flexible terms,Variable,Varies,GBP,High
+8b2862a1,Mutual Funds,Wealth Management,Large Corporations,Investment in diversified portfolios,High returns,5.0%,"$10,000",JPY,Low
+b430381b,Trade Finance,Corporate Banking,Institutions,Letter of credit and trade-related services,Flexible terms,Variable,"$1,000",EUR,Medium
+d39eb7ab,Business Loan,Corporate Banking,Large Corporations,Loan for business expansion and working capital,High returns,2.5%,"$10,000",USD,Low
+a496b1a2,Asset Securitization,Investment Banking,Large Corporations,Converting assets into marketable securities,Tax benefits,5.0%,"$50,000",EUR,Medium
+1a1abda9,IPO Advisory,Investment Banking,Large Corporations,Advisory service for public listing of companies,Tax benefits,5.0%,Varies,EUR,High
+a4cffce4,Mergers & Acquisitions,Investment Banking,SMEs,Advisory services for business mergers,Low fees,None,"$10,000",GBP,High
+28582154,Debt Syndication,Investment Banking,Institutions,Raising capital through debt instruments,Flexible terms,2.5%,"$1,000",EUR,Low
+2627ffab,Interest Rate Swaps,Treasury & Risk Management,SMEs,Derivative for managing interest rate risk,High returns,5.0%,"$10,000",GBP,High
+c2f6dae3,Portfolio Management,Wealth Management,Large Corporations,Customized investment strategies,Liquidity,None,"$50,000",EUR,Low
