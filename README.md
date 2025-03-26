@@ -104,6 +104,37 @@ For dynamic queries (like stock tips), the system:
 ### 8. Modular and Scalable Design
 - Agentic approach allows adding new agents (e.g., tax agent, retirement planner).
 - Easily extendable to other domains or customer personas.
+  
+### 9. Hyper-Personalized Financial Recommendations
+- Uses AI agents to analyze customer profiles, transactions, and sentiment data.
+- Provides top 5 personalized financial product recommendations for each customer.
+  
+### 10. Multi-Agent AI System (CrewAI Framework)
+- Customer Profile Aggregator: Collects and processes customer data.
+- Sentiment Behavior Analyst: Analyzes customer sentiment from interactions.
+- Recommendation Engine: Generates financial product recommendations.
+  
+### 11. Automated Data Processing & Machine Learning
+- Loads customer, transaction, sentiment, and financial product data.
+- Runs AI models to improve recommendations based on user data.
+
+### 12. Multiple Functionalities for AI Training & Testing
+- Recommendation Generation: Get personalized financial suggestions for a customer.
+- Training Mode: Improve AI recommendation accuracy through iterative training.
+- Task Replay: Debug and re-run specific AI tasks for optimization.
+- Testing Mode: Evaluate AI performance using different models.
+
+### 13. Command-Line Interface for Easy Execution
+- python main.py <Customer_ID> → Get recommendations for a customer.
+- python main.py train <iterations> → Train the AI model.
+- python main.py replay <task_id> → Replay a specific AI task.
+- python main.py test <iterations> <model_name> → Test AI with different models.
+
+### 14. Scalable and Adaptive AI Pipeline
+- Uses a CrewAI workflow to execute tasks sequentially.
+- Supports fine-tuning AI models for better financial insights.
+- Modular structure allows easy expansion with new AI capabilities.
+
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
