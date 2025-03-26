@@ -1,5 +1,3 @@
-Replace this file with files that you would like to use for your demo. This may include
+📹 [Financial Advice generator (Recorded Demo)](https://www.youtube.com/watch?v=KVCC3gBYXZA)
 
-- A presentation/deck in pdf or pptx format
-- A demo video (screen capture) in mp4 or other popular video formats
-- Any other document describing your solution (in pdf or md format)
+📹 [Customer credit card generator (Recorded Demo)](https://www.youtube.com/watch?v=ZoGcexydSGk)
