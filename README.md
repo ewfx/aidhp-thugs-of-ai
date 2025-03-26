@@ -23,9 +23,6 @@ We are trying to solve the issue of modern customers wanting personal treatment.
 
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)
-
-📹 [Video Demo](#) (if applicable)
 
 📹 [Financial Advice generator (Recorded Demo)](https://www.youtube.com/watch?v=KVCC3gBYXZA)
 
