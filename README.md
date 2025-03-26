@@ -135,6 +135,10 @@ For dynamic queries (like stock tips), the system:
 - Supports fine-tuning AI models for better financial insights.
 - Modular structure allows easy expansion with new AI capabilities.
 
+### 15. Sentiment Prediction
+- Takes user social media comments as input
+- Calls vaderSentiment LLM
+- Predicts sentiment score
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
